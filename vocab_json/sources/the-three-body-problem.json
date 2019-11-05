@@ -1,0 +1,1270 @@
+{
+  "vocab_source_data": {
+    "source_type": 1,
+    "name": "The Three-Body Problem",
+    "description": "Book 1 of the trilogy _Remembrance of Earth's Past_, by Liu Cixin",
+    "date_created": "2019-09-29T21:51:04.363344"
+  },
+  "vocab_contexts": [
+    {
+      "vocab_context_data": {
+        "content": "Ye\u2019s heart beat with effort, like a string on some musical instrument about to break. Black fog appeared before her eyes. She used the last bit of her strength to stay upright. Before everything sank into darkness, she wanted to see sunset at Red Coast Base one more time.\n\n Over the western horizon, the sun that was slowly sinking into the sea of clouds seemed to melt. The ruddy sun dissolved into the clouds and spread over the sky, illuminating a large patch in magnificent, bloody red.\n\n \u201cMy sunset,\u201d Ye whispered. \u201cAnd sunset for humanity.\u201d",
+        "date_created": "2019-09-29T21:51:05.557437"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "horizon",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.572195"
+          },
+          "vocab_entry_tags": [
+            "horizon"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "ruddy",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.561433"
+          },
+          "vocab_entry_tags": [
+            "ruddy"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "\u201cI just want to ask the two of you one question: Is the technological gap between humans and Trisolarans greater than the one between locusts and humans?\u201d\n\n The question hit the two scientists like a bucket of cold water. As they stared at the clumps of locusts before them, their expressions grew solemn. They got Shi Qiang\u2019s point.\n\n Look at them, the bugs. Humans have used everything in their power to extinguish them: every kind of poison, aerial sprays, introducing and cultivating their natural predators, searching for and destroying their eggs, using genetic modification to sterilize them, burning with fire, drowning with water. Every family has bug spray, every desk has a flyswatter under it\u2026 this long war has been going on for the entire history of human civilization. But the outcome is still in doubt. The bugs have not been eliminated. They still proudly live between the heavens and the earth, and their numbers have not diminished from the time before the appearance of the humans.\n\n The Trisolarans who deemed the humans bugs seemed to have forgotten one fact: The bugs have never been truly defeated.\n\n A small black cloud covered the sun and cast a moving shadow against the ground. This was not a common cloud, but a swarm of locusts that had just arrived. As the swarm landed in the fields nearby, the three men stood in the middle of a living shower, feeling the dignity of life on Earth. Ding Yi and Wang Miao poured the two bottles of wine they had with them on the ground beneath their feet, a toast for the bugs.\n\n \u201cDa Shi, thank you.\u201d Wang held out his hand.\n\n \u201cI thank you as well.\u201d Ding gripped Da Shi\u2019s other hand.\n\n \u201cLet\u2019s get back,\u201d Wang said. \u201cThere\u2019s so much to do.\u201d",
+        "date_created": "2019-09-29T21:51:05.519765"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "deem",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.546753"
+          },
+          "vocab_entry_tags": [
+            "deemed"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "extinguish",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.416176"
+          },
+          "vocab_entry_tags": [
+            "extinguish"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "locust",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.524129"
+          },
+          "vocab_entry_tags": [
+            "locusts"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Ye eventually returned to Red Coast Base with Yang Dong. Another two years passed, divided between anxiety and peace. Ye then received a notice: Both she and her father had been politically rehabilitated. Soon after, a letter arrived for her from Tsinghua, stating that she could return to teach right away. Accompanying the letter was a sum of money: the back pay owed to her father after his rehabilitation. Finally, at base meetings, her supervisors could call her comrade.\n\n Ye faced all these changes with equanimity, showing no sign of excitement or elation. She had no interest in the outside world, only wanting to stay at the quiet, out-of-the-way Red Coast Base. But for the sake of Yang Dong\u2019s education, she finally left the base that she had once thought would be her home for the rest of her life, and returned to her alma mater.",
+        "date_created": "2019-09-29T21:51:05.483146"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "elation",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.508663"
+          },
+          "vocab_entry_tags": [
+            "elation"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "anxiety",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.498117"
+          },
+          "vocab_entry_tags": [
+            "anxiety"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "equanimity",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.487276"
+          },
+          "vocab_entry_tags": [
+            "equanimity"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "After I explained to him what had happened, he looked over the cliff edge. Then he said that to inspect the ground terminal in the cliff face required digging, and the work would be too much for just Lei. He wanted to go down to help, so he put on the safety harness left by that other soldier. I asked him to use another rope, but he said no\u2014the rope that Lei was on was thick and sturdy and could easily bear the weight of two. I insisted, so he told me to go get the rope. By the time I rushed back to the cliff with the rope, he had already gone down over the side. I poked my head over the edge and saw that he and Lei had already finished their inspection and were climbing back up. Lei was in the front.\n\n There would never be another chance. I took out my hacksaw and cut through the rope.",
+        "date_created": "2019-09-29T21:51:05.465950"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "hacksaw",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.471351"
+          },
+          "vocab_entry_tags": [
+            "hacksaw"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Lei was a typical political cadre of the time, so he possessed an extremely keen sense for politics and saw everything through an ideological lens. Unbeknownst to most of the technical staff at Red Coast Base, he ran a small program in the background on the main computer. This program constantly read from the transmission and reception buffers and stored the results in a hidden encrypted file. This way, there would be a copy of everything Red Coast sent and received that only he could read. It was from this copy that he discovered the extraterrestrial message.",
+        "date_created": "2019-09-29T21:51:05.449156"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "unbeknownst",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.454015"
+          },
+          "vocab_entry_tags": [
+            "unbeknownst"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "\u201cI have some information you\u2019ll definitely want to know. Your mother has been found.\u201d\n\n The young woman\u2019s feverish eyes dimmed. At that moment her eyes were truly windows to her soul.\n\n Da Shi took two steps forward. He was now no more than five meters from her. She raised the bomb and warned him with her eyes, but she was already distracted. One of the two ETO members who had tossed away fake bombs strode toward Da Shi to take the envelope from him. As the man blocked the woman\u2019s view of Da Shi, he drew his gun with a lightning-fast motion. The woman only saw a flash by the ear of the man trying to take the letter from Da Shi before the bomb in her hands exploded.\n\n After hearing the muffled explosion, Wang saw nothing before his eyes but darkness. Someone dragged him out of the cafeteria. Thick, yellow smoke poured out of the door, and a cacophony of shouting and gunshots came from inside. From time to time, people rushed through the smoke and out of the cafeteria.\n\n Wang got up and tried to go back into the cafeteria, but the explosives expert grabbed him around the waist and stopped him.\n\n \u201cCareful. Radiation!\u201d",
+        "date_created": "2019-09-29T21:51:05.431049"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "cacophony",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.436273"
+          },
+          "vocab_entry_tags": [
+            "cacophony"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "\u201cThis\u2026 Lord that you talk about. Why is it so afraid of nanomaterial?\u201d\n\n \u201cBecause it can allow humans to escape gravity and engage in space construction at a much larger scale.\u201d\n\n \u201cThe space elevator?\u201d Wang suddenly understood.\n\n \u201cYes. If ultrastrong nanomaterials could be mass produced, then that would lay the technical foundation for building a space elevator from the ground up to a geostationary point in space. For our Lord, this is but a tiny invention; but for humans on Earth, its meaning would be significant. With this technology, humans could easily enter near-Earth space and build up large-scale defensive structures. Thus, this technology must be extinguished.\u201d",
+        "date_created": "2019-09-29T21:51:05.376208"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "extinguish",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.416176"
+          },
+          "vocab_entry_tags": [
+            "extinguished"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "significant",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.395703"
+          },
+          "vocab_entry_tags": [
+            "significant"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "nanomaterial",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.380213"
+          },
+          "vocab_entry_tags": [
+            "nanomaterial",
+            "nanomaterials"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "The Transmit button was a long rectangle\u2014very similar to the Space key on a computer keyboard, except that it was red.\n\n Ye\u2019s hand hovered two centimeters above it.\n\n The fate of the entire human race was now tied to these slender fingers.\n\n Without hesitation, Ye pressed the button.\n\n \u201cWhat are you doing?\u201d one of the men on duty asked, still sleepy.\n\n Ye smiled at him and said nothing. She pressed a yellow button to stop the transmission. Then she moved the control stick until the antenna was pointed elsewhere. She left the control panel and walked away.\n\n The man looked at his watch. It was time to get off work. He picked up the diary and thought about recording Ye\u2019s operation of the transmission system. It was, after all, out of the ordinary. But then he looked at the paper tape and saw that she had transmitted for no more than three seconds. He tossed the diary back, yawned, put on his army cap, and left.\n\n The message that was winging its way to the sun said, *Come here! I will help you conquer this world. Our civilization is no longer capable of solving its own problems. We need your force to intervene.*\n\n The newly risen sun dazzled Ye Wenjie. Not too far from the door of the main control room, she collapsed onto the lawn in a faint.",
+        "date_created": "2019-09-29T21:51:05.310374"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "dazzle",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.365441"
+          },
+          "vocab_entry_tags": [
+            "dazzled"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "wing",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.354110"
+          },
+          "vocab_entry_tags": [
+            "winging"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "transmission",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.339409"
+          },
+          "vocab_entry_tags": [
+            "transmission"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "antenna",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.327582"
+          },
+          "vocab_entry_tags": [
+            "antenna"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "civilization",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.315255"
+          },
+          "vocab_entry_tags": [
+            "civilization"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "The insanity of the human race had reached its historical zenith. The Cold War was at its height. Nuclear missiles capable of destroying the Earth ten times over could be launched at a moment\u2019s notice, spread out among the countless missile silos dotting two continents and hidden within ghostlike nuclear-powered ballistic missile submarines patrolling deep under the sea. A single Lafayette- or Yankee-class submarine held enough warheads to destroy hundreds of cities and kill hundreds of millions, but most people continued their lives as if nothing was wrong.",
+        "date_created": "2019-09-29T21:51:05.292027"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "zenith",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.296720"
+          },
+          "vocab_entry_tags": [
+            "zenith"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "She glanced around. The three operators at the control panel were shutting down the equipment piece by piece in accordance with the instructions in the operating manual. The engineer was drinking a glass of water in a corner of the control room, and the technician was asleep in his chair. No matter how historians and writers later tried to portray the scene, the reality at the time was completely prosaic.\n\n The transmission completed, Ye rushed out of the control room and dashed into Yang Weining\u2019s office. Catching her breath, she said, \u201cTell the base station to begin monitoring the twelve thousand megahertz channel!\u201d",
+        "date_created": "2019-09-29T21:51:05.262741"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "portray",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.278403"
+          },
+          "vocab_entry_tags": [
+            "portray"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "prosaic",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.266863"
+          },
+          "vocab_entry_tags": [
+            "prosaic"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "The problem with solar outages was not resolved, but another exciting possibility presented itself: Humans could use the sun as a superantenna, and, through it, broadcast radio waves to the universe. The radio waves would be sent with the power of the sun, hundreds of millions of times greater than the total usable transmission power on Earth.\n\n Earth civilization had a way to transmit at the level of a Kardashev Type II civilization.",
+        "date_created": "2019-09-29T21:51:05.247949"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "Kardashev",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.252676"
+          },
+          "vocab_entry_tags": [
+            "Kardashev"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Ye referred to her solar structure mathematical model and tried to find a theoretical explanation. Her eyes were drawn to her description of what she called \u201cenergy mirrors\u201d within the solar radiation zone.\n\n Energy produced by reaction within the solar core is initially in the form of high-energy gamma rays. The radiation zone, the region of the sun\u2019s interior that surrounds the core, absorbs these high-energy photons and re-emits them at a slightly lower energy level. After a long period of successive absorption and re-emission (a photon might take a thousand years to leave the sun), gamma rays become x-rays, extreme ultraviolet, ultraviolet, then eventually turn into visible light and other forms of radiation.",
+        "date_created": "2019-09-29T21:51:05.203122"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "gamma ray",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.231868"
+          },
+          "vocab_entry_tags": [
+            "gamma rays"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "photon",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.217778"
+          },
+          "vocab_entry_tags": [
+            "photon",
+            "photons"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "ultraviolet",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.207186"
+          },
+          "vocab_entry_tags": [
+            "ultraviolet"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "One night, Ye was, as usual, the only person in the cold reading room of the base library. On the long table in front of her, a pile of documents and journals were spread open. After completing a set of tedious and cumbersome matrix calculations, she blew on her hands to warm them, and picked up the latest issue of the *Journal of Astrophysics* to take a break. As she flipped through it, a brief note about Jupiter caught her attention",
+        "date_created": "2019-09-29T21:51:05.174831"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "cumbersome",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.192781"
+          },
+          "vocab_entry_tags": [
+            "cumbersome"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "tedious",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.178826"
+          },
+          "vocab_entry_tags": [
+            "tedious"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Lei\u2019s agenda was even simpler: He just wanted Ye\u2019s paper. The research topic was highly theoretical and would show off his expertise and skill. Now that the chaos in society was finally subsiding, the demands on cadres were also changing. There was an acute need for men like him, politically mature and academically accomplished. Of course he would have a bright future. As to whether the problem of interference from solar outages could be solved, he didn\u2019t really care.\n\n But in the end, Ye didn\u2019t hand in her report. She thought that if the research project were terminated, the base library would stop receiving foreign language journals and other research materials, and she would no longer have access to such a rich trove of astrophysics references. So she nominally continued her research, while in reality she focused on refining her mathematical model of the sun.",
+        "date_created": "2019-09-29T21:51:05.132200"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "trove",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.164542"
+          },
+          "vocab_entry_tags": [
+            "trove"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "refine",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.153170"
+          },
+          "vocab_entry_tags": [
+            "refining"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "acute",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.137525"
+          },
+          "vocab_entry_tags": [
+            "acute"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "When the Earth, an artificial satellite, and the sun are in a straight line, the line of sight from the ground-based antenna to the satellite will have the sun as its background. The sun is a giant source of electromagnetic radiation, and, as a result, satellite transmissions to the ground will be overwhelmed by interference from the solar radiation. This problem could not be completely solved, even in the twenty-first century.",
+        "date_created": "2019-09-29T21:51:05.115113"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "satellite",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.119481"
+          },
+          "vocab_entry_tags": [
+            "satellite"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Commissar Lei never forgot that it was Chief Yang who first trusted Ye, but Lei was happy to assign important topics to her. Given Ye\u2019s status, she had no rights to the results of her research. And Lei, who had studied astrophysics, was a political officer who was also an intellectual, rare at the time. Thus he could take credit for all of Ye\u2019s research results and papers, and cast himself as an exemplary political officer with both technical acumen and revolutionary zeal.",
+        "date_created": "2019-09-29T21:51:05.074101"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "exemplary",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.103712"
+          },
+          "vocab_entry_tags": [
+            "exemplary"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "zeal",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.091834"
+          },
+          "vocab_entry_tags": [
+            "zeal"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "acumen",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.078805"
+          },
+          "vocab_entry_tags": [
+            "acumen"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Pan looked around, apparently reassessing the situation. His gesture didn\u2019t go unnoticed by Ye.\n\n \u201cYou can see that most people attending this meeting are comrades from the Redemptionist faction. I trust that the few Adventists who are here will stand on the side of the Organization. But men like Evans and you can no longer be saved. To protect the program and ideals of the ETO, we must completely solve the problem of the Adventists.\u201d\n\n Silence returned. A few moments later, one of the bodyguards near Ye, a young woman, smiled. She walked toward Pan Han casually.\n\n Pan\u2019s face changed. He stuck a hand inside the lapel of his jacket, but the young woman dashed quicker than the eye could follow. Before anyone could react, she wrapped one of her slender arms around Pan\u2019s neck, placed her other hand on top of his head, and, by applying her unexpected strength at just the right angle, she twisted Pan\u2019s head 180 degrees with practiced ease. The cracks from his cervical vertebrae breaking stood out against the complete silence.\n\n The young woman\u2019s hands immediately let go, as though Pan\u2019s head was too hot. Pan fell to the ground, and the gun that had killed Shen Yufei slid under the table. His body still spasmed, and his eyes remained open, his tongue sticking out. But his head no longer moved, as though it were never a part of the rest of his body. Several men came and dragged him away, the blood oozing from his mouth leaving a long trail.",
+        "date_created": "2019-09-29T21:51:05.019416"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "vertebrae",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.059273"
+          },
+          "vocab_entry_tags": [
+            "vertebrae"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "lapel",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.047929"
+          },
+          "vocab_entry_tags": [
+            "lapel"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "reassess",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.036443"
+          },
+          "vocab_entry_tags": [
+            "reassessing"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "ooze",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.024654"
+          },
+          "vocab_entry_tags": [
+            "oozing"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "\u201cAre the Adventists loyal believers in this plan?\u201d\n\n \u201cOf course! Commander, please do not believe false rumors.\u201d\n\n \u201cIt\u2019s not a false rumor!\u201d a man shouted. He made his way to the front. \u201cI\u2019m Rafael, from Israel. Three years ago, my fourteen-year-old son died in an accident. I had his kidney donated to a Palestinian girl suffering kidney failure as an expression of my hope that the two peoples could live together in peace. For this ideal, I was willing to give my life. Many, many Israelis and Palestinians sincerely strove toward the same goal by my side. But all this was useless. Our home remained trapped in the quagmire of cycles of vengeance.",
+        "date_created": "2019-09-29T21:51:04.991397"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "vengeance",
+            "description": "",
+            "date_created": "2019-09-29T21:51:05.007105"
+          },
+          "vocab_entry_tags": [
+            "vengeance"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "quagmire",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.699165"
+          },
+          "vocab_entry_tags": [
+            "quagmire"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "The Trisolaran Fleet began to accelerate, solemnly gliding across the dome of the sky, skimming past the giant, just-risen moon\u2019s tip, casting a dim blue glow against the moon\u2019s mountains and plains.\n\n The joyous cry subsided. The people of Trisolaris mutely gazed as their hope gradually shrunk in the western sky. They would not know the outcome of the launch in their lifetimes, but four or five hundred years from now, their descendants would receive the news from a new world, the beginning of a new life for Trisolaran civilization. Wang stood with them, silently gazing, until the phalanx of a thousand stars shrank into a single star, and until that star disappeared in the western night sky. Then the following text appeared:\n\n **The Trisolaran Expedition to the new world has begun. The fleet is still in flight.\u2026**\n\n **Three Body is over. When you have returned to the real world, if you remain true to the promise you\u2019ve made, please attend the meet-up of the Earth-Trisolaris Organization. The address will be in the follow-up e-mail you receive.**",
+        "date_created": "2019-09-29T21:51:04.968395"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "descendant",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.980570"
+          },
+          "vocab_entry_tags": [
+            "descendants"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "phalanx",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.738681"
+          },
+          "vocab_entry_tags": [
+            "phalanx"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "The chilly dawn revealed a bare landscape. There was no pyramid, no United Nations Headquarters, no sign of the Pendulum Monument. Only a dark desert extended to the horizon, just as Wang had seen the first time he had logged in.\n\n But Wang soon realized that he was wrong. What he thought were numerous stones arrayed across the desert were not stones at all, but human heads. The ground was filled with a densely packed crowd.\n\n From where he stood on a small hill, Wang could see no end to the sea of people. He estimated the number of individuals within his view alone to be in the hundreds of millions. All the Trisolarans on the planet were probably gathered here.\n\n The silence of hundreds of millions created a suffocating sense of strangeness. What are they waiting for? Wang looked around and noticed everyone was gazing up at the sky.",
+        "date_created": "2019-09-29T21:51:04.956212"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "pendulum",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.924088"
+          },
+          "vocab_entry_tags": [
+            "pendulum"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Wang felt the great force generated by the movement of the pendulum, as though the ground was shaken by its swings. Unlike a pendulum in the real world, this giant pendulum\u2019s period was not stable, but changed constantly. This was due to the continually shifting gravitational attraction of the giant moon. When the giant moon was on this side of the planet, its gravity partially canceled out the gravity of the planet, causing the pendulum to lose weight. When it was on the other side of the planet, its gravity was added to the gravity of the planet, causing the pendulum\u2019s weight to increase, almost to the level it would have had before the great rip.\n\n As he gazed up at the awe-inspiring swings of the Trisolaran Pendulum Monument, Wang asked himself, Does it represent the yearning for order, or the surrender to chaos? Wang also thought of the pendulum as a gigantic metal fist, swinging eternally against the unfeeling universe, noiselessly shouting out Trisolaran civilization\u2019s indomitable battle cry.\u2026\n\n As Wang Miao\u2019s eyes blurred with tears, he saw a line of text appear against the background of the swinging pendulum:",
+        "date_created": "2019-09-29T21:51:04.920149"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "yearn",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.946530"
+          },
+          "vocab_entry_tags": [
+            "yearning"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "indomitable",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.935970"
+          },
+          "vocab_entry_tags": [
+            "indomitable"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "pendulum",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.924088"
+          },
+          "vocab_entry_tags": [
+            "pendulum",
+            "pendulum's"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "\u201cThen there is hope: Even if it\u2019s impossible to know the pattern of the suns\u2019 movements, civilization can continue to develop until it reaches a stage where it can survive the Chaotic Eras by protecting itself against the devastating catastrophes of those eras.\u201d\n\n \u201cPeople once thought as you do. That was one of the motivating forces pushing Trisolaran civilization to tenaciously come back again and again. But the moon made us realize the na\u00efvet\u00e9 of such an idea.\u201d The secretary general pointed to the rising giant moon. \u201cThis is probably the first time you\u2019ve seen this moon. Actually, since it\u2019s about a quarter of the size of our planet, it\u2019s no longer a moon, but a companion to our world in a double planet system. It resulted from the great rip.\u201d\n\n \u201cThe great rip?\u201d\n\n \u201cThe disaster that destroyed the last civilization. Compared to the civilizations before it, they had ample warning of the disaster. Based on surviving records, the astronomers of Civilization 191 detected a frozen flying star early on.\u201d",
+        "date_created": "2019-09-29T21:51:04.893448"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "na\u00efvet\u00e9",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.909765"
+          },
+          "vocab_entry_tags": [
+            "na\u00efvet\u00e9"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "tenacious",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.897762"
+          },
+          "vocab_entry_tags": [
+            "tenaciously"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Qin Shi Huang swung his long sword at Von Neumann. The latter kicked at a giant block of stone drifting nearby and dodged out of the way. The long sword struck the stone, causing sparks to fly, and broke itself into two pieces. Right after, the giant block of stone collided with another, with Qin Shi Huang in the middle. Stone chips and flesh and blood scattered everywhere, an appalling sight.\n\n But Wang did not hear the noise made by colliding stones. Around him it was completely silent. Because the atmosphere was gone, there was no more sound. As the bodies drifted, their blood boiled in the vacuum and their inner organs were vomited out, until they turned into strange blobs surrounded by crystalline clouds made from the liquid they exuded. Also, due to the lack of an atmosphere, the sky turned pitch black. Everything that had floated into space from the Three Body world reflected the sunlight and formed a brilliant, starry cloud in space. The cloud then turned into a giant vortex, spiraling toward its final resting place: the sun.",
+        "date_created": "2019-09-29T21:51:04.845483"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "crystalline",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.882295"
+          },
+          "vocab_entry_tags": [
+            "crystalline"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "exude",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.870187"
+          },
+          "vocab_entry_tags": [
+            "exuded"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "vacuum",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.859915"
+          },
+          "vocab_entry_tags": [
+            "vacuum"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "appalling",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.849448"
+          },
+          "vocab_entry_tags": [
+            "appalling"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "\u201cWhat is going on?\u201d Qin Shi Huang looked at the soldier slowly falling back down.\n\n \u201cSire, the three suns are over our planet in a straight line, so their gravitational forces are added together.\u2026\u201d The astronomy minister tried to explain, but discovered that his two feet had already left the ground and he was now horizontal. The others were also floating in the air, leaning at different angles. Like a bunch of men who had fallen into water without knowing how to swim, they clumsily waved their limbs, trying to stabilize themselves but colliding into each other instead.\n\n The ground they had just left now cracked open like a spiderweb. The cracks grew fast, and, accompanied by thunderous crashes and sky-obscuring dust, the pyramid below them broke into its constituent blocks. Through the slowly drifting gigantic blocks, Wang saw the Great Hall below come apart. The large cauldron that had once cooked Fu Xi and the iron stake to which he had once been bound were both adrift.",
+        "date_created": "2019-09-29T21:51:04.820943"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "adrift",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.835547"
+          },
+          "vocab_entry_tags": [
+            "adrift"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "constituent",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.824851"
+          },
+          "vocab_entry_tags": [
+            "constituent"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Qin Shi Huang nodded. \u201cGood. Begin.\u201d\n\n Von Neumann lifted both hands above his head and solemnly chanted: \u201cAs ordered by the great emperor, turn on the computer! System self-test!\u201d\n\n A row of soldiers standing halfway down the face of the pyramid repeated the order using flag signals. In a moment, the motherboard made of thirty million men seemed to turn into a lake filled with sparkling lights. Tens of millions of tiny flags waved. In the display formation closest to the base of the pyramid, a progress bar made of numerous green flags slowly advanced, indicating the percentage of the self-test that had been completed. Ten minutes later, the progress bar reached its end.\n\n \u201cSelf-test complete! Begin boot sequence! Load operating system!\u201d\n\n Below, the light cavalry on the main bus that passed through the entire human-formation computer began to move swiftly. The main bus soon turned into a turbulent river. Along the way, the river fed into numerous thin tributaries, infiltrating all the modular subformations. Soon, the ripple of black and white flags coalesced into surging waves that filled the entire motherboard. The central CPU area was the most tumultuous, like gunpowder on fire.",
+        "date_created": "2019-09-29T21:51:04.760884"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "tumultuous",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.810716"
+          },
+          "vocab_entry_tags": [
+            "tumultuous"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "coalesce",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.799909"
+          },
+          "vocab_entry_tags": [
+            "coalesced"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "tributary",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.787977"
+          },
+          "vocab_entry_tags": [
+            "tributaries"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "turbulent",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.776228"
+          },
+          "vocab_entry_tags": [
+            "turbulent"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "cavalry",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.764708"
+          },
+          "vocab_entry_tags": [
+            "cavalry"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "\u201cA computer,\u201d Wang said.\n\n \u201cAh, good!\u201d Von Neumann gave Wang a thumbs-up. \u201cComputer\u2014that\u2019s a great name. The entire system is a large machine, the most complex machine in the history of the world.\u201d\n\n The passage of in-game time sped up. Three months went by.\n\n Qin Shi Huang, Newton, Von Neumann, and Wang all stood on the platform at the apex of the pyramid. This platform was similar to the one where Wang had met Mozi. It was filled with astronomical instruments, some of which were of recent European design. Below them, a magnificent phalanx of thirty million Qin soldiers was arrayed on the ground. The entire formation fit inside a square six kilometers on each side. As the sun rose, the phalanx remained still like a giant carpet made of thirty million terra-cotta warriors. But when a flock of birds wandered above the phalanx, the birds immediately felt the potential for death from below and scattered anxiously in chaos.",
+        "date_created": "2019-09-29T21:51:04.734035"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "apex",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.750253"
+          },
+          "vocab_entry_tags": [
+            "apex"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "phalanx",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.738681"
+          },
+          "vocab_entry_tags": [
+            "phalanx"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Do you know what shape his empire is in? In the magnificent eternal city of Rome, even the river that flows through the city has been heavily polluted. Do you know the cause?\u201d\n\n \u201cMilitary industrial production?\u201d\n\n \u201cNo, Great Emperor, it\u2019s the vomit from Romans after their binge and purge feasts. When the nobles attend the feasts, stretchers have already been prepared for them under the tables. When they\u2019ve eaten so much that they can no longer move, the servants carry them home. The entire empire has sunk into a quagmire of extravagance from which they cannot extricate themselves. Even if Caesar could organize an army of thirty million, it would not have the quality and strength necessary to perform this great calculation.\u201d",
+        "date_created": "2019-09-29T21:51:04.693631"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "extricate",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.722694"
+          },
+          "vocab_entry_tags": [
+            "extricate"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "extravagance",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.711322"
+          },
+          "vocab_entry_tags": [
+            "extravagance"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "quagmire",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.699165"
+          },
+          "vocab_entry_tags": [
+            "quagmire"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "STRAW-CLOTH-STRAW-CLOTH.\u2026 That\u2019s the kind of soldier we need. Except we need thirty million of them.\u201d Hearing this modern joke, Wang knew that the man before him wasn\u2019t a program but a real person, and almost certainly Chinese.\n\n \u201cIt\u2019s hard to imagine such a large army,\u201d Wang said, shaking his head.\n\n \u201cThat\u2019s why we\u2019ve come to see Qin Shi Huang, the First Emperor.\u201d Newton pointed at the pyramid.\n\n \u201cHe\u2019s still in charge?\u201d Wang looked around. He saw that the soldiers guarding the entrance to the pyramid really were equipped with the simple leather armor and ji-style halberds of the Qin Dynasty. The anachronistic mix of historical elements in Three Body no longer surprised him.",
+        "date_created": "2019-09-29T21:51:04.680074"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "anachronistic",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.683853"
+          },
+          "vocab_entry_tags": [
+            "anachronistic"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Both swordfighters ignored him, concentrating on the duel. The taller one suddenly cried out in pain, and his sword fell to the ground with a clang. He turned and ran, holding his wounded arm. The other gave chase for a few steps and spat in the direction of the loser.\n\n \u201cShameless!\u201d He bent down to pick up his wig. As he straightened up, he saw Wang. Pointing in the direction of the escapee, he said, \u201cHe dared to claim that he invented calculus!\u201d He put on his wig, put a hand over his heart, and bowed courteously to Wang. \u201cIsaac Newton, at your service.\u201d\n\n \u201cThen the one who ran away must be Leibniz?\u201d Wang asked.\n\n \u201cIndeed, an unscrupulous man. I don\u2019t really care about this little claim to fame. Inventing the three laws of mechanics has already made me the greatest, God excepted. From planetary motion to cell division, everything follows the three great laws. Now, with the powerful mathematical tool that is calculus, it will only be a matter of time before we master the pattern of the motion of the three suns.\u201d",
+        "date_created": "2019-09-29T21:51:04.628700"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "unscrupulous",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.670311"
+          },
+          "vocab_entry_tags": [
+            "unscrupulous"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "calculus",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.659320"
+          },
+          "vocab_entry_tags": [
+            "calculus"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "duel",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.645150"
+          },
+          "vocab_entry_tags": [
+            "duel"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "clang",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.633030"
+          },
+          "vocab_entry_tags": [
+            "clang"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "Wang heard the crisp sound of metal striking against metal. The clashing only highlighted the silence of the chilly dawn. Searching for the source, he saw two dark shadows flickering at the foot of the pyramid. In the dim light, metallic glints flashed between the shadows: a swordfight.\n\n Once his eyes had adjusted, Wang saw the figures more clearly. Based on the shape of the pyramid, this should be someplace in Three Body\u2019s version of the East, but the two fighters were Europeans dressed in a sixteenth- or seventeenth-century style. The shorter one ducked below a swinging sword and his silvery wig fell to the ground. After a few more thrusts and parries, another man appeared around the corner of the pyramid and ran toward the fighters. He tried to get the two to stop, but the swinging blades whistling through the air prevented him from getting close.\n\n He shouted, \u201cStop! Don\u2019t you two have anything better to do? Where\u2019s your sense of responsibility? If civilization has no future, what good is this supposed bit of glory you\u2019re fighting over?",
+        "date_created": "2019-09-29T21:51:04.604271"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "clash",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.618621"
+          },
+          "vocab_entry_tags": [
+            "clashing"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "parry",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.607994"
+          },
+          "vocab_entry_tags": [
+            "parries"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "\u201cTry to tell us exactly what you heard.\u201d\n\n \u201cFine. Pan Han said, \u2018Although we seem like fellow travelers on the surface, in reality we\u2019re irreconcilable enemies.\u2019 Shen said, \u2018Yes, you\u2019re trying to use our Lord\u2019s power against the human race.\u2019 Pan said, \u2018Your understanding is not completely unreasonable. We want our Lord to come to this world, to punish those who have long deserved it. However, you\u2019re working to prevent our Lord\u2019s coming, and that\u2019s why we can\u2019t tolerate you. If you don\u2019t stop, we\u2019ll make you stop!\u2019 Shen said, \u2018The commander was blind to allow you to join the organization!\u2019 Pan said, \u2018Speaking of, can you tell whether the commander sides with the Adventists or the Redemptionists? Does the commander want humanity eliminated or saved?\u2019 Pan\u2019s words briefly silenced Shen, and the two didn\u2019t argue so loudly anymore. I couldn\u2019t hear anything else.\u201d",
+        "date_created": "2019-09-29T21:51:04.590333"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "irreconcilable",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.594549"
+          },
+          "vocab_entry_tags": [
+            "irreconcilable"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "\u201cHave there been any\u2026\u201d Wang carefully picked the right words. \u201c\u2026 supernatural signs?\u201d Wang\u2019s night had been filled with coincidences: He had been called in to discuss the three-body problem with Wei Cheng immediately after he solved the Three Body game. And now Xu was telling him she was monitoring the game. Something didn\u2019t seem right.\n\n \u201cWe don\u2019t think so. Many from all around the world participate in the game\u2019s development. Their collaboration method seems similar to popular open-source practices, like the kind used to make the Linux operating system. But they\u2019re definitely using some very advanced development tools. As for the content of the game, who knows where they\u2019re getting it? It does seem a bit\u2026 supernatural, like you said. However, we still believe in Captain Shi\u2019s famous rule: All this must be the work of people. Our tracking efforts are effective, and we\u2019ll have results soon.\u201d",
+        "date_created": "2019-09-29T21:51:04.531698"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "three-body problem",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.503015"
+          },
+          "vocab_entry_tags": [
+            "three-body problem"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "Linux",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.571389"
+          },
+          "vocab_entry_tags": [
+            "Linux"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "open-source",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.559643"
+          },
+          "vocab_entry_tags": [
+            "open-source"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "supernatural",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.547180"
+          },
+          "vocab_entry_tags": [
+            "supernatural"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "coincidence",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.535959"
+          },
+          "vocab_entry_tags": [
+            "coincidences"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "\u201cDo you know what else Shen has been up to?\u201d Shi Qiang asked.\n\n \u201cJust the Frontiers of Science. She\u2019s busy with it all the time. Lots of people show up every day.\u201d\n\n \u201cShe didn\u2019t ask you to join?\u201d\n\n \u201cNever. She never even talks to me about it. I don\u2019t care, either. That\u2019s just the way I am. I don\u2019t want to care about anything. She knows it, and says I\u2019m an indolent man without any sense of purpose. The organization doesn\u2019t suit me and would interfere with my research.\u201d",
+        "date_created": "2019-09-29T21:51:04.515773"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "indolent",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.520652"
+          },
+          "vocab_entry_tags": [
+            "indolent"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "The physics principles behind the three-body problem are very simple. It\u2019s mainly a math problem.\n\n \u201cDidn\u2019t you know about Henri Poincar\u00e9?\u201d Wang Miao interrupted Wei to ask.\n\n *At the time, I didn\u2019t. Yes, I know that someone studying math should know about a master like Poincar\u00e9, but I didn\u2019t worship masters and I didn\u2019t want to become one, so I didn\u2019t know his work. But even if I had, I would have continued to pursue the three-body problem.*",
+        "date_created": "2019-09-29T21:51:04.484720"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "three-body problem",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.503015"
+          },
+          "vocab_entry_tags": [
+            "three-body problem"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "pursue",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.489109"
+          },
+          "vocab_entry_tags": [
+            "pursue"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "*I then introduced a third sphere, and to my astonishment, the situation changed completely. Like I said, any geometric figure turns into numbers in the depths of my mind. The sphereless, one-sphere, and two-sphere universes all showed up as a single equation or a few equations, like a few lonesome leaves in late fall. But this third sphere gave \u201cemptiness\u201d life. The three spheres, given initial movements, went through complex, seemingly never-repeating movements. The descriptive equations rained down in a thunderstorm without end.*\n\n *Just like that, I fell asleep. The three spheres continued to dance in my dream, a patternless, never-repeating dance. Yet, in the depths of my mind, the dance did possess a rhythm; it was just that its period of repetition was infinitely long. This mesmerized me. I wanted to describe the whole period, or at least a part of it.*",
+        "date_created": "2019-09-29T21:51:04.410886"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "rhythm",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.472744"
+          },
+          "vocab_entry_tags": [
+            "rhythm"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "geometric",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.457520"
+          },
+          "vocab_entry_tags": [
+            "geometric"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "astonishment",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.444180"
+          },
+          "vocab_entry_tags": [
+            "astonishment"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "equation",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.429303"
+          },
+          "vocab_entry_tags": [
+            "equation",
+            "equations"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "mesmerize",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.415708"
+          },
+          "vocab_entry_tags": [
+            "mesmerized"
+          ]
+        }
+      ]
+    },
+    {
+      "vocab_context_data": {
+        "content": "**WEI CHENG\u2019S STORY**\n\n *I\u2019ve been lackadaisical since I was a kid. When I lived at boarding school, I never washed the dishes or made the bed. I never got excited about anything. Too lazy to study, too lazy to even play, I dawdled my way through the days without any clear goals.*",
+        "date_created": "2019-09-29T21:51:04.370177"
+      },
+      "vocab_entries": [
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "dawdle",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.395013"
+          },
+          "vocab_entry_tags": [
+            "dawdled"
+          ]
+        },
+        {
+          "vocab_entry_data": {
+            "language": "en",
+            "entry": "lackadaisical",
+            "description": "",
+            "date_created": "2019-09-29T21:51:04.377192"
+          },
+          "vocab_entry_tags": [
+            "lackadaisical"
+          ]
+        }
+      ]
+    }
+  ]
+}
