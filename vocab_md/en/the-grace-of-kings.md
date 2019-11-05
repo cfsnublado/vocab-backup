@@ -516,3 +516,413 @@ source_type: book
     en: disarray: disarray
 
     </div>
+
+- _It’s hard to tell which way the winds are blowing, Commander Zatoma thought. Perhaps it’s better if I seize the initiative. The earlier I move, the greater my contribution. “Duke Zatoma” has a nice ring to it._
+
+    But he was more comfortable behind a desk than on a horse. He needed good, capable lieutenants. In this he was lucky, being assigned to Farun. Tunoa had long been one of the most martial domains in all of Dara, as it was one of the last places in the Islands to be settled by the Ano, who had to pacify the warlike original inhabitants. In Farun, even the girls learned how to throw the javelin well, and every boy over five could wield his father’s spear without disgrace.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: lieutenant: lieutenants
+
+    en: wield: wield
+
+    </div>
+
+- Behind him, Mata hungrily took in the rich tapestries, the intricate iron latticework on the windows, and the paintings depicting the deeds of his ancestors. The heads of the figures in a few of the brush paintings had been torn out by Xana soldiers as souvenirs during the looting right after the conquest, and that lowlife Datun Zatoma had simply left the desecrated paintings in place, perhaps as reminders of the ignominious fall of the Zyndu Clan. Mata ground his teeth to keep the anger within from boiling over. All this, his rightful inheritance, had been soiled by the pig who had usurped his place and summoned them here.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: desecrate: desecrated
+
+    en: ignominous: ignominous
+
+    en: usurp: usurped
+
+    </div>
+
+- Phin looked at the Xana man, a supposed commander of the Imperial army. His hands were white, fat, and smooth, the color of a pearl on a woman’s ring. These were not hands that knew how to grip a sword or swing an axe. A bureaucrat, he thought. _A man who knows only how to push beads on an abacus and to curry favor with his superiors has been put in charge of leading soldiers meant to defend the spoils of the Xana Conquest. No wonder the empire has stumbled so badly before a peasant rebellion._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: abacus: abacus
+
+    </div>
+
+- He looked down in disbelief. A dirk, thin as a needlefish and now red with his life’s blood, was in Mata’s left hand and being pulled out of his chest. All Zatoma could think about at that moment was how incongruous the tiny weapon looked in the hand of the giant man.
+
+    As he watched, Mata lifted the dirk again and slashed it across his neck, severing his windpipe and major arteries. Zatoma gurgled, unable to speak, and then collapsed to the ground, his limbs twitching as he choked on his own blood.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: incongruous: incongruous
+
+    en: dirk: dirk
+
+    </div>
+
+- He held the sword steady in his right hand and struck it sharply with the cudgel in his left hand. It clanged in a sweet, pure note that held for a long time, reverberating in the stone halls of the castle.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: reverberate: reverberating
+
+    </div>
+
+- _“I just had to do the most interesting thing,”_ he berated himself. “Am I having _fun_ now?” At that moment, he wished more than anything to be home with Jia, drinking a cup of herbal tea made from some recipe she was experimenting with, safe and bored.
+
+    “You didn’t know?” one of the soldiers, a man by the name of Hupé, asked, incredulous. “The prisoners had been whispering and plotting all of yesterday. I thought you knew and were letting them go on purpose because you believed in the prophecy. They want to join the rebels who declared war on the emperor and pledged to free all prisoners and conscripted laborers.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: incredulous: incredulous
+
+    en: berate: berated
+
+    </div>
+
+- The band admired the colorful fall foliage, a mosaic highlighted here and there by bunches of bright-red wild monkeyberries and late-blooming dandelions. A few of the men took deep breaths to fill their lungs with the mountain air, smelling of fresh-fallen leaves and loam that had been basking in the golden sun, so different from the air back in the streets of Zudi, which was dominated by the smell of copper coins and running sewage.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: mosaic: mosaic
+
+    </div>
+
+- Kuni’s men milled about in confusion while the armed escorts for the merchants advanced. Another volley of arrows flew at them.
+
+    “They’ve got horses,” said Hupé. “If we try to run for it, we’re going to be cut down like vermin. Some of us have to stay behind and fight.”
+
+    “Right,” said Kuni. He felt calmer now that he was given a plan. “I’ll stay behind with Fi and Gatha, you take the rest of the men and flee.”
+
+    Hupé shook his head. “This isn’t like a bar fight, Kuni. I know you’ve never killed anyone or practiced real sword fighting, but I was in the army, and so if anyone should stay, it’s me.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: volley: volley
+
+    </div>
+
+- “What happened to you?”
+
+    “Because my son broke a statue in the Mausoleum, they cut off his left hand. Because I tried to explain it was an accident, they cut off mine as well. After we finished our year of labor, they sent us back. But my wife . . . she didn’t make it through last winter because there was nothing to eat.”
+
+    “I’m sorry,” said Kuni. He thought about all the men he had sent to Pan over the years. Sure, he had been kind to them while they were under his charge, but did he ever think, really think, about the fate he was consigning them to?
+
+    “We’re the lucky ones. Plenty of others will never come back.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: consign: consigned
+
+    en: mausoleum: mausoleum
+
+    </div>
+
+- “No more taxes,” they whispered. “No more corvées. No more killing whole families for one man’s crimes.”
+
+    Kuni’s letter to the city asked for the citizens to rise up and topple the mayor. “You will be supported by Cocru’s army of liberation,” the letter promised. If one considered a band of bandits an “army,” and if one ignored the fact that the King of Cocru had no idea who Kuni Garu was, the letter could be considered to sort of tell the truth.
+
+    But the citizens did as Kuni asked. Chaos erupted in the streets, and the people of the city, long resentful of the heavy hand of Xana rule, made quick work of the mayor and his staff. The heavy gates swung open, and citizens watched in amazement as Kuni Garu and his tiny band of bandits strode in.
+
+    “Where’s the Cocru army?” one of the riot leaders asked.
+
+    Kuni climbed onto the balcony of a nearby house and surveyed the throng in the streets.
+
+    You are the Cocru army!” he shouted. “Do you see how much power you have when you act without fear? Even if Cocru lives on only in the heart of one man, he will still overthrow Xana!”
+
+    Platitude or not, the crowd erupted into applause, and by acclamation, Kuni Garu became the Duke of Zudi. A few pointed out that titles of nobility really couldn’t be handed out in such a democratic fashion, but these killjoys were ignored.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: acclamation: acclamation
+
+    en: platitude: platitude
+
+    </div>
+
+- He had craved power, yes, lots of it, and when Pira had come to him with that audacious plan, he had seized the chance. But actually exercising the power that came from the Throne of Xana was not nearly as enjoyable as he had imagined. Yes, it had been fun to watch the other ministers and generals cower before him and pay him obeisance, but so much of the work of being regent consisted of mere tedium! He did not want to hear about harvest numbers, petitions from starving peasants, reports of corvée desertions, and this latest plague, garrison commanders complaining about rebellions. Why couldn’t they take care of the bandits in the areas they were responsible for? They were the soldiers, and that was _their_ job.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: tedium: tedium
+
+    </div>
+
+- Crupo had been born in Cocru, back when it was still the strongest among the incessantly warring Tiro states. His parents, propertyless bakers in a small town, died during one of these border skirmishes. He was captured by bandits and taken to Haan, the most learned of the Tiro states, to be sold as a bonded servant, but in Ginpen, the Haan capital, the constables raided the bandits and freed Crupo into the streets.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: skirmish: skirmishes
+
+    </div>
+
+- Gradually, Crupo became one of Anji’s best students. When speaking to kings, Anji often mentioned that of all the young men he had taught in his life, only Féüji and Crupo had understood everything he had to teach them and then gone on into the terra incognita of new ideas.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: terra incognita: terra incognita
+
+    </div>
+
+- In addition to his lectures and pamphlets, Crupo’s calligraphy was particularly admired by the literati. In contrast to his carefully constructed essays and tightly woven arguments, he shaped his wax logograms with the sensitivity of a child as well as the passionate abandon of a swordsman, and the zyndari letters from his brush leapt off the page like a flock of migrating wild geese captured in midflight over a still pond. Many imitated his calligraphy, but few could equal or even approach his artistry.
+
+    But there was a measure of condescension in their praise of Crupo that rankled. Some seemed almost surprised that a man of such humble origins could be the creator of such creative and artistic words. Behind the recognition there was also an implicit dismissal, as if Crupo’s hard work could never measure up to Féüji’s natural brilliance.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: calligraphy: calligraphy
+
+    en: condescension: condescension
+
+    en: rankle: rankled
+
+    </div>
+
+- But Crupo thought Féüji’s essays insipid. They were so flowery and illogical! All this concern about “the virtuous ruler” and the “harmonious society” and the “path of balance” nauseated him. They were constructed like castles in the air, with soaring rhetoric and lovely turns of phrase, but no care for the foundation.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: insipid: insipid
+
+    </div>
+
+- Crupo was despondent and consumed with jealousy.
+
+    He went to Gi Anji. “Master, I work so much harder than Tan. Why am I not as well respected?”
+
+    “Tan writes of the world as it ought to be, not as it is,” Anji said.
+
+    Crupo bowed to his teacher. “Do you think I am the better writer?”
+
+    Gi Anji looked at him and sighed. “Tan writes without concern about pleasing others, and that is why men find his voice fresh and original.”
+
+    The veiled criticism stung.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: despondent: despondent
+
+    </div>
+
+- “Regent, who should we appoint as commander-in-chief against the rebels?”
+
+    _The rebels? Those bandits? How can they withstand the might of the Imperial army? A trained monkey leading the army would win. Why are they bothering me with this? It’s a transparent case of petty bureaucrats exaggerating threats to wheedle more money and resources from the throne. I will not be fooled._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: wheedle: wheedled
+
+    </div>
+
+- A chatelain was just a glorified butler, Goran Pira often thought. There was a time, back in the early days of the old Tiro states, when a chatelain led the defense of a castle and was treated as a member of the nobility. Nowadays, his duties consisted of settling disputes among Mapidéré’s wives, disciplining the servants, balancing the palace budget (though it was a very big budget), and being the emperor’s playmate.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: chatelain: chatelain
+
+    </div>
+
+- The friendship survived Réon’s ascension to the Xana throne. It survived the years of conquest and war, when Pira often comforted Réon when he was frustrated with the lack of progress or seethed because of some diplomatic insult. It even survived Réon’s many pompous eccentricities after he conquered the Six States and became Emperor Mapidéré. He might make his ministers and generals tremble with the slightest movement of his pinkie, but away from the audience halls, back in the living quarters of the palace, he was still just Ré, Pira’s childhood friend.
+
+    But the friendship could not survive Lady Maing.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: eccentricity: eccentricities
+
+    </div>
+
+- But woe to any unfortunate merchant, farmer, woodsman, or fisherman who was caught by the rebels in their sweeping march through northern Cocru. Goods, money, livestock, crops—the rebels took whatever they wanted. “We’re requisitioning these for the liberation of Cocru,” they would say to the owners. “You do want to do your part to bring down the tyranny of Xana and contribute to the glory of King Thufi, don’t you?” Any owner not convinced by these eloquent arguments would soon be convinced by fists or worse.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: requisition: requisitioning
+
+    </div>
+
+- When Phin Zyndu heard about the exploits of the new Marshal and Vice Marshal of Cocru, he threw up his hands in disgust. “What is King Thufi thinking? We have been waiting for him to follow the proper ancient rites and come to Tunoa on an auspicious date and invest us with the leadership of Cocru’s army, as was done in your grandfather’s time. But he doesn’t seem to understand what is expected of him.”
+
+    “This will not end well, Uncle,” Mata said. “We must cross over to the Big Island. If King Thufi will not come to us, then we must go to him. Cocru again needs the firm hand of the Zyndus, the real marshals of Cocru.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: auspicious: auspicious
+
+    </div>
+
+- Krima had looked at the priest contemptuously and spat on the ground. _I have made the emperor quake on his throne. I am an instrument of the gods. Who is this worm to speak to me of what is possible and what is not?_
+
+    “You say that ten men took a year to carve one statue. But I have given you more than one thousand men. Surely they can do in three days the same amount of work.”
+
+    “By that logic,” the priest had said, “if you have ten women, they will surely be able to produce a child for you in one month.”
+
+    The insolent tone of the priest had sent Krima into an immediate rage. The priest was called a blasphemer—for he dared to claim that the work of gods could not be done quickly—and he was executed by having his belly sliced open publicly in front of the temple of Fithowéo so that all could see how tangled his entrails had become due to his obstinacy and internal blindness.
+
+    The other priests had all then assured King Huno that his logic was sound and pledged to work as hard as possible.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: contemptuous: contemptuously
+
+    en: insolent: insolent
+
+    </div>
+
+- The other gods looked, if possible, even worse. A hodgepodge of materials was used: stones and lumber left over from temple construction, broken bits of city walls, floating debris gathered off the Liru, stuffing from old winter coats—the desperate workmen had even forcibly removed a few nearby families and wrecked their houses to get more building material. All the statues had stiff poses designed more for ease of construction than appropriateness to character, and all the features were crude and patched over with glittering gold paint that was still wet to the touch.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: hodgepodge: hodgepodge
+
+    </div>
+
+- The statue of Fithowéo was probably the worst of the bunch. After the old chief priest had been executed, the assistant priest decided that the safest thing to do was to break the old statue of Fithowéo in the temple into pieces and then carry the pieces here for reassembly. Never mind the sacrilege of such an act—the threat of further disembowelment had a way of making doctrines flexible. Transporting the pieces here, putting them back together, and patching over the seams with buckets of plaster and a new coat of paint had been a monumental undertaking and wasn’t complete until the very last moment.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: sacrilege: sacrilege
+
+    </div>
+
+- “I am Mata Zyndu,” said the stranger. “I had come to study Huno Krima and Zopa Shigin, the heroes of the rebellion. But all I see is a monkey dressed up as a man. You’re no different from any of the fools Mapidéré had elevated above their station. Neither Imperial fiat nor popular acclaim can make an ant into an elephant. A man can never fulfill a role he is not born for.”
+
+    Deadly silence.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: fiat: fiat
+
+    en: acclaim: acclaim
+
+    </div>
+
+- _I shall name you Réfiroa_, thought Mata as he rode back toward Çaruza. _The Well-Matched._ Wind whipped through his hair, and he had never felt such a sense of freedom or speed. He and the horse were parts of a greater whole.
+
+    _You’re the mount I have been seeking, just as you have been seeking your rider. For too long we both languished in obscurity, away from our true roles on the world-stage. It is only when beings of true quality are matched to their stations that the world can prosper again._
+
+    “That is what a real hero looks like,” whispered Ratho to Dafiro.
+
+    For once, Dafiro had no wise comebacks.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: languish: languished
+
+    en: obscurity: obscurity
+
+    </div>
+
+- “You don’t see anything wrong with this?” Mün Çakri asked gruffly, his eyes bulging from his round face. “You really don’t see anything wrong with a King of West Cocru created out of thin air?”
+
+    Kuni Garu shrugged. “I am the Duke of Zudi by popular proclamation. How is that any more legitimate than his coronation by prophecy?”
+
+    “Once this is accepted, you’re going to see kings and dukes springing up like mushrooms after the rain,” Cogo Yelu said matter-of-factly. He shook his head. “We’re all going to rue this day.”
+
+    “Well, let them,” Kuni said. “Getting a title is easy. It’s keeping it that’s hard."
+
+    <div markdown="1" class="tagged-entries">
+
+    en: rue: rue
+
+    </div>
+
+- “As a jailer, I never got to understand my charges. But when I became a bandit, I spent a lot of time being close to the lowliest of the low: criminals, the enslaved, deserters, men who had nothing to lose. Contrary to what I had expected, I found that they had a hardscrabble beauty and grace. They were not mean in their nature, but made mean by the meanness of their rulers. The poor were willing to endure much, but the emperor had taken everything from them.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: hardscrabble: hardscrabble
+
+    </div>
+
+- “These men have simple dreams: a plot of land, a few possessions, a warm house, conversation with friends, and a happy wife and healthy children. They remember the smallest acts of kindness and think me a good man because of a few exaggerated stories. They’ve raised me on their shoulders and called me duke, and I have a duty to help them get a little closer to their dreams.”
+
+    Jia listened carefully and did not hear in Kuni’s speech his habitual whimsy. She searched his eyes and saw in them the same sincere glint that she had seen when she asked him about his future years ago.
+
+    Her heart felt so full that she thought it might burst.
+
+    “Keep on working then.” Her fingers lingered on his shoulder as she retired to sleep.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: whimsy: whimsy
+
+    </div>
+
+- “We’ll take the restaurant business as an example. The way bars and eateries have been able to avoid paying their full share is by keeping two sets of books. They might take in a hundred fifty silver pieces a night, but the books they show us contain only entries for fifty. We have to find a way to collect on the hidden entries.”
+
+    “And how do you propose to do this?”
+
+    “I suggest that you announce the establishment of a new lottery game, to reward the lucky and free citizens of Zudi.”
+
+    “I fail to see how this is related to the issue of tax dodging.”
+
+    “It’s linked, but only indirectly, as all money is fungible.”
+
+    “That’s your brilliant idea? We’ll have to offer a huge prize for the lottery to get enough people interested. There’s plenty of gambling parlors in the city already. How can we compete?”
+
+    “No, the lottery is only a cover for something better. You see, people won’t be purchasing their lottery tickets directly. Instead, they’ll get them only when shopping, as a kind of receipt. For each silver piece they spend, they obtain from the vendor a lottery ticket for free. The more they spend shopping, the more tickets they get.”
+
+    “And where do the vendors get their tickets?”
+
+    “They have to purchase them from us.”
+
+    Kuni thought about this. The scheme seemed preposterous, and yet . . . effective.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: fungible: fungible
+
+    en: preposterous: preposterous
+
+    </div>
+
+- “There is far more happiness in a life that is your own,” his father had said to Jizu, “than a life in which you are handed the lines to say and shown the gestures to make. Do not ever be ambitious.” His father had always been reluctant to speak of his former life in the Palace of Na Thion, a reticence that lasted until his death from a lingering sickness caused by an injury from the poisonous spines of sea urchins.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: reticence: reticence
+
+    </div>
+
+- General Namen’s men shot arrows with letters wrapped around the shafts into Na Thion. Xana was not interested in the surrender of the city. An example had to be made to the other rebel Tiro states that insurrection would not be tolerated. Traitors to the empire must pay. Na Thion would be slaughtered to the last man, and all the women sold.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: insurrection: insurrection
+
+    </div>
+
+- King Jizu could not believe what he was hearing. “Shameful! You have lectured me all these months about the honor of the House of Rima and the duties the king and the nobles owe to the people. But now you suggest the people of Rima make meaningless sacrifices to save your worthless lives. The people offer up their treasure and labor and maintain all of us in luxury with the single expectation that we will protect them in times of danger. Yet this one obligation you wish to shirk by sending women and children to die. You disgust me.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: shirk: shirk
+
+    </div>
+
+- King Jizu stood on the walls of Na Thion and asked to parley with General Namen.
+
+    “You care for the lives of the young men who fight for you, General.”
+
+    Namen squinted up at the young boy, saying nothing.
+
+    “I can tell because you have not attacked Na Thion. You’re unwilling to let even one soldier die if victory could be obtained another way.”
+
+    The Xana soldiers looked at their general, who stood tall and kept his face still.
+
+    “The city is close to death now. I can give the order for a desperate counterattack. We will surely lose, yet some of your men will die, and your name will be despised among the people of the Six States for generations as a killer of women and children.”
+
+    Namen’s face twitched, but he continued to listen.
+
+    “Rima is poor in arms and men but rich in symbols. I am perhaps the best symbol of all, General. If you wish to make an example to the other rebelling Tiro states, it is enough that you have me. The people of Na Thion have resisted you only at my orders. If you spare them, you may win future battles with less resistance and less loss of life. But if you slaughter them, you will only make every city you attack in the future more determined to never surrender.”
+
+    Finally, General Namen spoke.
+
+    “You may not have grown up in a palace, but you’re worthy of the Throne of Rima.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: parley: parley
+
+    </div>
