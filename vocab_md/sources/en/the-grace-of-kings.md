@@ -926,3 +926,181 @@ source_type: book
     en: parley: parley
 
     </div>
+
+- The king thundered and raged at the ungrateful men, who refused to see the difference between laboring unwillingly for a tyrant like Emperor Erishi and fervently contributing to the glory of their liberator and their new country. The men who were whispering such things were clearly spies of the empire, here to sow the seeds of dissatisfaction and dissent and to spread lies and propaganda. They must be rooted out.
+
+    Trusted officers, led by the captain of the guards, were assigned by the king to form a special secret unit whose members would walk through the camps at night, listening for those who dared to speak against the honor of King Huno and West Cocru. They wore black kerchiefs tightly fastened by a knot in the back of the head as an addition to their uniforms, and those that the Black Caps accused of treason were never heard from again.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: propaganda: propaganda
+
+    </div>
+
+- The more traitors the Black Caps caught, the more afraid King Huno became. It seemed that the empire had spies everywhere. He would stare for minutes at trembling ministers who had forgotten to properly address him as “Your Majesty.” He would ask one man to spy on another, only to tell the other one an hour later to spy on the first. How could he be sure that the Black Caps themselves had not been infiltrated by Imperial spies too?
+
+    The solution was obvious. He gathered a few men that he especially trusted and gave them the authority to spy on the Black Caps. These men wrapped white kerchiefs knotted at the backs of their heads to signify their elevated level of trust. The first man they accused of treason was the former captain of the guards, leader of the Black Caps—the result disappointed King Huno, but he thought it made perfect sense. Just as a fish rots from the head down, corruption started at the top. Of course the captain of the guards would betray him.
+
+    So the Black Caps watched the people, while the White Caps watched the Black Caps. But who was going to watch the White Caps? This troubled King Huno greatly. He thought and thought and came up with the Gray Caps.
+
+    Every solution seemed to create a new problem, and King Huno fell into despair.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: infiltrate: infiltrated
+
+    en: despair: despair
+
+    </div>
+
+- “I was one of the first to heed the call for rebellion in Napi, to join you and Duke Shigin,” said Théca. “You and Zopa Shigin shared a drink with me that night, after we won.”
+
+    “Do not speak of Shigin as though he were my equal—”
+
+    But Théca interrupted him. “My brother fell sick ten days ago, but his hundred-chief wouldn’t let him rest because everyone had to work on your palace. He fainted in the noon heat, and a foreman whipped him until he died. Did you know about this?”
+
+    King Huno had no idea what this man was babbling about, but he caught another mistake in his manners. “You must say ‘Your Majesty’ when you speak to me. Now hurry up and get me out of here.”
+
+    “I don’t think so, Your Majesty,” Kimo said. He yanked on the reins so that the carriage lurched to a sudden stop, tumbling King Huno out of his seat. Then with a swift stroke of his sword, Kimo severed Huno Krima’s head from his shoulders.
+
+    “And now you can dream of a palace as grand as you like.” Kimo released one of the horses from the carriage harness and jumped onto its back without a saddle. “But as for me, I’m going to follow a real hero.”
+
+    He turned east and rode toward Çaruza, where Mata Zyndu, another son of Tunoa and already a legend, had ridden with Réfiroa.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: babble: babbling
+
+    </div>
+
+- Tanno Namen’s surprise attack on Dimu marked the beginning of a grand Imperial sweep along the southern shore of the Liru River. Within weeks, most of the towns and cities that had surrendered to the Krima-Shigin Expeditionary Force were back under Imperial control, and the Imperial army began an inexorable march south for the reconquest of Cocru.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: inexorable: inexorable
+
+    </div>
+
+- The others lazily got up, shaded their eyes, and gazed at the walls of Zudi in the distance. Than was right. Instead of the red flags charged with black and white ravens, white flags now flapped over the city gates, and Kuni had the unpleasant suspicion that the bird on the flags was a Mingén falcon.
+
+    Suddenly sober and worried, Kuni and his retinue rode hard and rushed back to the gates of Zudi. Unsurprisingly, the gates were closed and locked.
+
+    “I’m sorry, Duke Garu.” The man shouting from the top of the walls was a former Imperial.
+
+    “Where’s Muru?” Kuni shouted. Muru was normally in charge of raising and lowering the gates.
+
+    “He wouldn’t betray you and tried to fight, and Lieutenant Dosa had to kill him.”
+
+    Kuni felt as if he had been punched hard in the gut. “Why are you doing this?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: retinue: retinue
+
+    </div>
+
+- Divination was an ancient art in the Islands of Dara, but no Tiro state was more dedicated to its practice than scholarly Haan. After all, Haan was the favored land of the god Lutho, divine trickster, mathematician, and seer. The gods always spoke ambivalently, and sometimes they even changed their minds in the middle of your asking them a question. Divination was a matter of ascertaining the future through inherently unreliable methods.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ambivalent: ambivalently
+
+    </div>
+
+- King Thufi had no idea what to do with this “Duke of Zudi.” There was no such traditional title or domain, and he didn’t remember creating one. But with the same tact that he handled the news about the King of West Cocru, he graciously allowed this stocky young man, who looked more like a gangster than a duke, to introduce himself that way to everyone.
+
+    With the king’s apparent acquiescence, Kuni Garu was amused to find that he now had to take his title more seriously. If even the king treated you as a duke, then you most definitely had to act like one.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: acquiesce: acquiescence
+
+    </div>
+
+- But the administrator was well versed in the ways of being a good bureaucrat. He had been diligent in sending intricately carved model airships to Pan, much to the delight of Emperor Erishi, who loved to have courtiers and maids steer the ships by means of fans and blowing tubes as he ordered them to engage in pretend battles over the model empire. Pleased with his toys, the emperor had been effusive in his praise of the administrator to Chatelain Pira and Regent Crupo.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: effusive: effusive
+
+    </div>
+
+- Now the former chief tax collector walked through the base, examining the hulls of old airships undergoing repairs and new ships being constructed. He listened and nodded as engineers explained the hubbub of activity around him.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: hubbub: hubbub
+
+    </div>
+
+- They told dirty jokes and flirted with the pretty waitresses, and Mata, who had never in his life been to such parties, discovered that he enjoyed them. They were much more interesting than the stiff, formal receptions that the hereditary nobles back in Çaruza held, where everything was done properly and nothing impolite was ever said and each smile felt plastered on and each compliment disguised an insult and every word had to be parsed for a second and even third meaning. They had given him headaches and made him think that he was unfit for company, but among Kuni’s friends, he wished the nights would never end.
+
+    And the man actually took the work of being the Duke of Zudi seriously—indeed, probably too seriously. Mata still couldn’t believe how happily Kuni delved into the minutiae of governance. He even looked into how to collect taxes, by Kana and Rapa’s lustrous hair!
+
+    Mata had never met anyone quite like Kuni, and he felt that it was a cosmic injustice that he wasn’t born a noble. Compared to some of the hereditary nobles Mata knew, Kuni was far more worthy of admiration.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: minutia: minutiae
+
+    </div>
+
+- “Friends,” Rin announced seriously. “I am the night-blooming cereus.”
+
+    “Why, because you get lucky only one night a year?”
+
+    Rin ignored the jab. “The cereus is not much to look at during the day, and most people think it’s a just a dead-looking stick in the ground. But below the ground, it gathers the moisture and sweetness of the desert and hoards them into a large, juicy melon, which is delicious and has saved many a desert traveler’s life. Only the fortunate can see it bloom, once a year in the middle of the night, a great white flower like a ghost lily bathed in starlight.”
+
+    The others were momentarily stunned by this flowing disquisition.
+
+    Than broke the silence. “Did you pay a schoolteacher to write that speech?”
+
+    Rin threw another chicken leg at him.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: disquisition: disquisition
+
+    </div>
+
+- Now it was Kuni Garu’s turn. He stood up, grabbed Widow Wasu—who was passing by with a tray of drinks—around the waist, and while she laughed and ducked out of the way, he plucked a dandelion from behind her ear and held it up for everyone to see.
+
+    “Lord Garu, you compare yourself to a weed?” Cogo Yelu frowned.
+
+    “Not just any weed, Cogzy. A dandelion is a strong but misunderstood flower.” Remembering his courtship with Jia, Kuni felt his eyes grow warm. “It cannot be defeated: Just when a gardener thinks he has won and eradicated it from his lawn, a rain would bring the yellow florets right back. Yet it’s never arrogant: Its color and fragrance never overwhelm those of another. Immensely practical, its leaves are delicious and medicinal, while its roots loosen hard soils, so that it acts as a pioneer for other more delicate flowers. But best of all, it’s a flower that lives in the soil but dreams of the skies. When its seeds take to the wind, it will go farther and see more than any pampered rose, tulip, or marigold.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: dandelion: dandelion
+
+    en: eradicate: eradicated
+
+    en: floret: florets
+
+    </div>
+
+- Kuni had been tapping his finger on the table to follow the beat. He stopped now, reluctantly, as if still savoring the music. “ By the time I bloom, all others have died.’ Though lonely and spare, this is a grand and heroic sentiment, befitting the heir of the Marshal of Cocru. The song praises the chrysanthemum without ever mentioning the flower by name. It’s beautiful.”
+
+    “The Zyndus have always compared themselves to the chrysanthemum,” Mata said.
+
+    Kuni bowed to Mata and drained his cup. The others followed suit.
+
+    “But, Kuni,” said Mata, “you have not understood the song completely.”
+
+    Kuni looked at him, confused.
+
+    “Who says it praises only the chrysanthemum? Does the dandelion not bloom in the same hue, my brother?”
+
+    Kuni laughed and clasped arms with Mata. “Brother! Together, who knows how far we will go?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: hue: hue
+
+    en: chrysanthemum: chrysanthemum
+
+    en: dandelion: dandelion
+
+    </div>
+
+- 
