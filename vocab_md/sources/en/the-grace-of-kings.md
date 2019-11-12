@@ -1103,4 +1103,488 @@ source_type: book
 
     </div>
 
-- 
+- When Krima and Shigin began the rebellion in Napi, many did flock to join them, but many also decided to become robbers and highwaymen and make the best of the ensuing chaos. One of the most ruthless and feared robber gangs was led by Puma Yemu, a peasant who lost everything when the emperor’s bureaucrats requisitioned his land to build an Imperial hunting resort without paying him a single copper piece.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: chaos: chaos
+
+    en: ensue: ensuing
+
+    </div>
+
+- Yemu raised his right hand and saw that the part between the thumb and the forefinger was bloody. He couldn’t feel his hand. The swords had clashed with such force that the fine bones in his right palm had been shattered and his sword had flown out of his hand.
+
+    He looked up, and there was his sword, still tumbling, high in the sky. It reached the apex of its flight, hung for a second, and dove straight down.
+
+    Yemu rolled without thinking, and the sword plunged into the ground right next to him, buried to the hilt, missing his leg by inches.
+
+    “I surrender,” Yemu said, and there was indeed no doubt in his mind as he stared into Mata Zyndu’s cold eyes.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: apex: apex
+
+    </div>
+
+- Mata Zyndu wanted to hang Puma Yemu from a post over the city gates as a warning to other robbers who might think of Zudi as easy hunting grounds.
+
+    But Kuni Garu disagreed.
+
+    Mata looked at him askance. “Feeling compassionate again? He’s a robber and murderer, brother.”
+
+    “I was a robber once too,” Kuni said. “That doesn’t automatically mean he deserves to die.”
+
+    Mata stared at Kuni, incredulous.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: incredulous: incredulous
+
+    en: askance: askance
+
+    </div>
+
+- The Island of Arulugi—whose name meant “beautiful” in Classical Ano—lived up to its name: wide, white beaches; gentle, lazy dunes held down by tufts of beachreed; verdant hills covered by pili grass; and deep valleys full of forests of banyan and looking-glass mangrove, the aerial roots of the former hanging down from branches like a woman brushing out her hair, and the platelike roots of the latter rising up like lacquer screens imported from sophisticated Gan.
+
+    Everywhere, orchids of all descriptions and sizes bloomed: the white ones whiter than seashells and the red ones redder than coral. Golden hummingbirds hovered from orchid to orchid during the day, only to give way to gentle, ethereal moths at night, their wings silvery in the moonlight.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ethereal: ethereal
+
+    en: verdant: verdant
+
+    </div>
+
+- And the crown of Arulugi was Müning, the City in the Lake. Built on a series of tiny islands in shallow Lake Toyemotika—Lake Tututika’s baby sister—the city resembled a diadem floating over the water: the delicate spires of its temples and the graceful, thin towers of the palace were connected by a network of narrow, arching bridges that defied gravity.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: diadem: diadem
+
+    </div>
+
+- At seventeen, her olive-colored skin, rich, light-brown hair that fell in cascades of curls, and bright-blue eyes that shone like two deep, calm wells were the stuff of legends and bards’ songs. She was the granddaughter of King Ponahu, the last King of Amu before the Conquest, and his only surviving descendant. But as the laws of succession in Amu did not permit women to accede to the throne, the restored Amu was led by King Ponadomu, the half brother of Ponahu, and Kikomi’s granduncle.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: descendant: descendant
+
+    </div>
+
+- She didn’t sigh. Tonight, she would be a symbol, and she understood that whatever else symbols did, they did not sigh and complain about their fate. She would smile and wave and stand silently by the side of her granduncle as he stumbled his way through an insipid speech meant to rally the troops. She would remind the sailors and marines of why they were fighting, of the ideal of Amu womanhood, of the favor of Tututika, of the pride that Amu took in being the epitome of grace and beauty and taste and culture, far superior to the brutality of backward Xana.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: epitome: epitome
+
+    </div>
+
+- When the rebellion happened and the court of Amu was restored, she had thought she would finally earn a reprieve. In a time of revolutions and wars, the raising of armies and navies and the promulgation of new policies, what was the use of beauty? As a member of the ruling house of Amu, Kikomi thought she would be working by the side of her granduncle the king, perhaps becoming one of his trusted advisers. She was intelligent and she wasn’t spoiled; she knew the value of hard work. Surely the king and his ministers could see that?
+
+    <div markdown="1" class="tagged-entries">
+
+    en: promulgation: promulgation
+
+    </div>
+
+- Behind the ships, down on the dark sea, the slow, bulky transports rode the waves, filled with ten thousand fresh troops from Rui and Dasu, the newest recruits of the Imperial army.
+
+    He continued to watch as the Amu fleet approached the armada. News that Namen had suffered a crushing defeat in Cocru meant that they had to win a victory here quickly to quell the rising rebel sentiments in Haan, Rima, and the rest of Dara.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: quell: quell
+
+    </div>
+
+- Given the reduced visibility, the heavier Imperial ships would have to move slower lest they run into one another. The lighter, faster Amu ships could neutralize the Imperial advantage in numbers by quickly driving between the tightly packed ships of the armada, breaking their oars and flinging burning tar bombs onto their decks.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: lest: lest
+
+    </div>
+
+- There. His hands were free.
+
+    He had stood helplessly on the docks and watched as the men of Amu died in the dark, leaping from burning ships into the cold waters of the Amu Strait to die. But now the arrogant Imperials had made a mistake, and he was going to make them pay.
+
+    When the guard’s back was turned, Cano quickly untied the binding around his ankles.
+
+    The next time the guard passed by him, Cano leapt up and wrestled him to the ground. Quickly pulling the dirk from the guard’s belt, he slit the man’s throat.
+
+    He freed the other prisoners around him. The freed men took what weapons they could find in the room and carefully peeked into the corridor. They were lucky: The corridor was empty. All the other guards were asleep in their bunks.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: dirk: dirk
+
+    </div>
+
+- Crupo backed away as quickly as he could.
+
+    Pira fell to the ground and touched his forehead to the cold stone. “I’m sorry, Rénga. He just burst in. I couldn’t stop him!”
+
+    The emperor nodded and waved him away impatiently. He got up to follow the path the girl had taken.
+
+    Pira smiled to himself. There was nothing that humiliated and annoyed the boy more than to be interrupted during such moments. Now every time the emperor saw the regent, this indelible memory would rise in his mind.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: indelible: indelible
+
+    </div>
+
+- In truth, this wasn’t a mere platitude. All the Tiro states could help. The remnants of Rima’s army had made their way into Cocru, bitter men who longed for vengeance. A few Amu ships had escaped from the Battle of Amu Strait and limped their way to Çaruza, along with King Ponadomu and Princess Kikomi—though it was too bad that the airship they escaped in had mysteriously sprung a leak shortly after landing and had to be scuttled. And wealthy nobles from all the conquered Tiro states had fled to Çaruza, laden with national treasures that could be converted into military funds.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: platitude: platitude
+
+    </div>
+
+- The people of Amu still thought of her as their princess, even if she no longer had a throne or palace. She led the dances at the great festivals, reassured the nobles who commiserated with her about their lost glory, and went to the fine schools of Müning with her brothers and sisters, where she read the Ano Classics and learned to sing and play the coconut lute. She wore the title of princess like an old sentimental cloak, too shabby to keep her warm, but too dear to shed.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: commiserate: commiserated
+
+    </div>
+
+- Kikomi smiled demurely.
+
+    Inside, she wanted to scream.
+
+    The marshal simply assumed that she wanted and needed to be protected, had been surprised to hear her speak of Amu’s naval defeat with knowledge and sense. She noted how Phin had condescendingly praised her education, had chuckled when she expressed wonder at Çaruza’s library. He had not paid much attention when she spoke of the suffering and hardship of the women who worked the docks of Müningtozu to prepare the ships for war, but his eyes had lit up when she turned the conversation to the sailors on those ships.
+
+    He had truly meant to pay her a compliment when he told her how different she was from “those silly young noblewomen,” had truly believed that she would be flattered to be thought extraordinary from her sex.
+
+    It was men like him who had made her into a symbol, had put her into this impossible position.
+
+    But, in a way, that made the task easy. She knew exactly what she needed to say and do, and she even enjoyed the challenge of playing the role of his ideal: She was worthy only insofar as she oriented herself to men, like a sunflower adoring the sun.
+
+    _I made a deal._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: condescending: condescendingly
+
+    en: demurely: demurely
+
+    </div>
+
+- He had no idea where they were going, only that it promised to be days of quick marching and nights spent on hard ground. The great lords never told the foot soldiers what was happening, and Dafiro was used to being sent hither and thither with no explanation. But Dafiro noticed that no messengers had been dispatched to Çaruza and King Thufi—he had made sure to befriend the couriers, knowing that they were like the antennae on an insect, the first to know anything worth knowing. Curious. Whatever Duke Garu had planned, it was to be a secret from King Thufi and General Zyndu and everyone else.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: hither and thither: hither and thither
+
+    </div>
+
+- Still, if one had to be a soldier, Duke Garu was a good lord to follow. He really seemed to make it a point not to risk his men’s lives unnecessarily, and Dafiro thought this made him a better man than General Zyndu. Rat was obsessed with Zyndu’s arrogant bravery and his deeds of valor, but Dafiro could see that Zyndu didn’t really care about death. He wasn’t afraid of anything, and that was not a virtue, as far as Dafiro was concerned.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: virtue: virtue
+
+    </div>
+
+- Dafiro thought he was not dreaming, he looked around, and the sights that greeted his eyes were impossible.
+
+    Before him, jutting into the sky like the bowsprit of a great warship, was a twenty-foot-long horn. It was so thick at the base that two men together could not have wrapped their arms around it. The tip of the horn was sharper than the point of a spear, threatening destruction to anything that stood in its way.
+
+    Roaring waves dashed against the horn and the barnacle-encrusted forehead below it, breaking into a violent mist that soaked his clothes and sometimes made it hard to open his eyes. Everywhere he looked, sunlight was refracted into rainbows in the salty mist.
+
+    The waves divided themselves around the creature they rode on, and from where Dafiro was sitting, he could barely feel them. He felt only the gentle and slow undulating motion of the great mass heaving beneath him, ponderous, forceful, four hundred tons of muscle and sinew.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: sinew: sinew
+
+    en: refract: refracted
+
+    </div>
+
+- The airships slowed as they approached Pan and descended toward the palace. The palace guards looked at the ships with little concern. Had the emperor, perhaps, decided that he would ride one of the airships to the front so that he could witness the death throes of the rebels personally?
+
+    They landed in the middle of the Great Court, the wide-open space before the Grand Audience Hall where Emperor Erishi reviewed the palace guards and sometimes played hunting games with horses and animals drugged to be docile and easy to shoot.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: death throe: death throes
+
+    en: docile: docile
+
+    </div>
+
+- Wolf’s Paw stood across the Kishi Channel from the Itanti Peninsula. Its northern and eastern sides, facing the endless ocean, were dominated by rugged cliffs that provided few safe harbors. On the other hand, its western and southern coasts, facing the channel, sloped gently down to the sea and offered many inviting ports. This was the heart of old Gan, which, besides Wolf’s Paw, also claimed the rich alluvial plains and the bustling cities of Géjira on the Big Island.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: alluvial: alluvial
+
+    </div>
+
+- It was said that Tazu manifested himself as a ten-mile-wide maelstrom of roiling water that sucked everything within its orbit into the bottomless deep. It wandered up and down the channel like an angry child tumbling around its room. No one had ever been able to predict its pattern of movement, capricious like the will of Tazu, the legendary rogue. Vessels captured by the whirlpool had no chance of escaping, and over the years, countless ships, some laden with treasure, some filled with lives, were sacrificed to the god’s insatiable hunger.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: insatiable: insatiable
+
+    en: roiling: roiling
+
+    en: maelstrom: maelstrom
+
+    </div>
+
+- Pering sighed. Roma had ordered the rebel navy to intercept the Imperial armada in the Ogé Islands, the archipelago to the north of Wolf’s Paw, supposedly formed from the sweat drops of the god Rufizo, a plan Pering had objected to from the start.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: archipelago: archipelago
+
+    </div>
+
+- Roma, who had spent his entire career in the pre–Conquest Cocru army in the logistics and supply divisions, had little exposure to the battlefield except the defense of Çaruza. He thus tended to think of all military endeavors as variations of city defense. Viewing the Ogé Islands as analogous to the gates to Wolf’s Paw, he had believed that a hodgepodge of rebel ships could hide among the tiny islands to disguise their true strength and surprise the Imperial armada, much as the appearance of undefended city walls could lure attackers into coming too close before being surprised by a shower of falling rocks and buckets of burning oil.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: hodgepodge: hodgepodge
+
+    </div>
+
+- “That is the point, General. Big Toe appears ideal to Marana, and if we leave it undefended, he will not be able to resist taking the bait. But from Big Toe, the isthmus would neutralize the empire’s numerical advantage and force both sides to fight across a narrow strip of land. If we set up our defenses in layers, the hills of the isthmus will be impregnable. Big Toe will become a trap for Marana and Namen, and we will grind their troops down until the demand for supplies by their large army forces them to retreat.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: impregnable: impregnable
+
+    </div>
+
+- “Why should Faça’s boys die for Gan and Cocru?” Marana’s messenger whispered to King Shilué. “Indeed, even now Gan is arguing that the Ogé Islands belong to them rather than Faça. If you were amenable to the offer, the emperor may be willing to support Faça’s claim once the battle is over.”
+
+    King Shilué nodded, deep in thought.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: amenable: amenable
+
+    </div>
+
+- The messenger pressed on. “Only the madmen of Cocru believe that they can thwart the emperor’s will and the tactical genius of Marshal Marana. The marshal understands that it isn’t possible for Gan to formally withdraw from the alliance and pledge fealty to the empire right now. But in the coming battle, if Gan’s troops would simply pull back to Toaza without engaging us, then Marshal Marana can take care of the Cocru problem for Your Majesty, and the marshal would speak on Gan’s behalf before the emperor.
+
+    “Who knows, perhaps Gan may even be rewarded for her act of bravery by being granted the Ogé Islands.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: fealty: fealty
+
+    </div>
+
+- “I am not the commander-in-chief,” said Mata Zyndu.
+
+    “Yet the fate of Cocru and all the Tiro states now rests with you,” said Torulu Pering. “I’ve come to Nasu because I believe Roma is too old and timid, and every day he waits is another day that Marana’s chance of victory grows.”
+
+    “What is that to me? If King Thufi and General Roma believe that I should play ferryman, then that is what I will do.”
+
+    Torulu Pering sighed. Mata sounded like a petulant child.
+
+    “I’m an old man, and I’m no warrior. But during my years watching the rise and fall of those in power, I’ve learned that great men do not wait for their greatness to be recognized.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: petulant: petulant
+
+    </div>
+
+- General Roma watched King Dalo’s betrayal with a mixture of anger and regret. He wished that he had listened to Torulu Pering and attacked before Kindo Marana had a chance to pry the alliance apart. There was no stratagem left now. Only brute force, terror, and the desire to run away.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: stratagem: stratagem
+
+    </div>
+
+- This is why King Thufi and Marshal Zyndu made me commander-in-chief instead of this man.
+
+    Roma tried to straighten his back and make his voice as authoritative as possible. “I’m ordering you to retreat. Your only job is to ferry us back to the Big Island safely.”
+
+    Mata unsheathed Na-aroénna and in a single motion lopped off Roma’s head. The Doubt-Ender would not tolerate a commander who vacillated and had no heart for battle.
+
+    Silence and stillness gradually spread out from where Mata stood like a ripple until everyone on the docks of Toaza Harbor stared at the towering man in wonder.
+
+    As they watched, Mata ordered his soldiers to set fire to all the rafts, boats, and ships—including those they had arrived on. Within minutes, the water was a sea of roaring flames.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: unsheath: unsheathed
+
+    en: lop: lopped
+
+    en: vacillate: vacillated
+
+    </div>
+
+- Kuni administered Pan with the same care he had managed Zudi.
+
+    Every day, he spent hours dealing with the minutiae of getting the city back to some semblance of normalcy after the chaos of the conquest and the ensuing looting. He reorganized the surrendered soldiers and began to get to know their commanders. He met with the elders of the city and the surrounding villages to take measure of their thoughts and concerns.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: minutia: minutiae
+
+    en: chaos: chaos
+
+    en: ensue: ensuing
+
+    </div>
+
+- “I like to believe that people keep their promises, but it’s always better if you can be sure. And the best way to be sure is to make sure the man understands that I have the power to hurt him a great deal if he tries to renege.”
+
+    Rin tried to keep the impatience out of his voice. “A charming bit of advice, Master Scorpion. The king and I will keep that in mind.”
+
+    Scorpion smiled. “King Thufi, the princeps, has promised that anyone who captured Emperor Erishi would be King of Géfica, a new Tiro state. But it seems to me that if King Kuni wants to be sure that the promise is kept, he ought to show others that he has teeth. Any claim becomes more legitimate when it is backed up by arms.
+
+    “And any army that wants to come into Géfica must pass through Thoco Pass.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: renege: renege
+
+    </div>
+
+- Now that the empire was without a leader like Marshal Kindo Marana or General Tanno Namen, the remaining pockets of Imperial resistance in Géjira collapsed before Mata Zyndu like empty husks. Many garrisons surrendered without a fight.
+
+    But a few cities did fight, and the other rebel commanders vied to present Mata with stratagems for conquering them to prove their worth. A scrawny little man named Gin Mazoti, in particular, insisted on seeing him at every opportunity.
+
+    “If you give me fifty men, we can enter cities as disguised merchants long before your arrival and open the gates for you when you do.”
+
+    “There is a drainage pipe that empties out into the sea here; we may be able to enter the city through the sewers.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: stratagem: stratagems
+
+    </div>
+
+- But Namen and Marana he treated with respect. They were not great warriors in his estimation, but he respected their stations. There was no shame for men who strove to carry out their duties but were denied victory due to the limitation of their abilities—and how could anyone expect to win against him, Fithowéo incarnate? He gave Namen’s sword—since the body was not available—a burial befitting a duke, and he even allowed Marana to keep his sword. Marana’s small frame had surprised him, and he could not understand why Kikomi had chosen this sallow, weak man over him—more evidence of her lack of judgment and true nobility, perhaps. Faced with such an inferior specimen of manhood, Mata found himself unable to even summon feelings of jealousy at this “rival” for Kikomi’s affections—it was beneath him. He might even magnanimously ask Marana to serve him one day like the ancient heroes did with their defeated foes—he hadn’t thought that far yet.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: magnanimous: magnanimously
+
+    </div>
+
+- The first task of the new, bigger army was to build more ships to replace those that had been lost.
+
+    Many of the former Imperial soldiers had served as supervisors on the emperor’s grand construction projects, where they wielded whips on the corvée laborers. Many of the Cocru soldiers, on the other hand, had worked as corvée laborers or had family and friends who did.
+
+    Now that they were supposed to be comrades with their erstwhile tormentors, the men of Cocru exacted revenge in ways big and small. Latrine duty was always assigned to the former Imperials, as was cooking, cleaning, and standing guard at night.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: erstwhile: erstwhile
+
+    </div>
+
+- “But our victory became assured when I decided to listen to that old woman, who was truly Tazu’s messenger, and offer him a sacrifice commensurate with his appetite. The gods were speaking to us, don’t you see?
+
+    “I had been too merciful. Perhaps I had allowed Kuni Garu, my gentle brother, to affect me too much. After all, he’s no great warrior. I had to remember that being merciful to one’s enemies is the same as being cruel to one’s own men. Tazu wanted blood, and I had to give it to him.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: commensurate: commensurate
+
+    </div>
+
+- Soto’s room was just down the hall from Jia’s, and she was a light sleeper.
+
+    She heard Jia’s door open after everyone had gone to bed, and she knew she would hear the door open again right before dawn.
+
+    She had seen the way Steward Otho Krin looked at Lady Jia when he thought no one was watching. She had seen the way he lingered near her when he held the reins of her carriage. She had also seen the way Lady Jia furtively returned his smiles and carefully listened as he gave the reports on household finances.
+
+    More than anything else, the scrupulous way they avoided being too close to each other when others were around told Soto everything she needed to know.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: scrupulous: scrupulous
+
+    </div>
+
+- Morale sank, and desertion became rampant. The platoons dispatched to chase the raiders down were always a step behind. And since the raiders took care to distribute some of their loot to the peasants in the surrounding areas, the result was that when Namen’s men came to the villages to ferret out the raiders, not a single person would help the Imperials. When Namen’s frustrated soldiers took out their anger on the recalcitrant villagers, they only managed to swell the ranks of the “noble raiders.”
+
+    The raiders infuriated Namen. But he had to admit that whoever came up with this tactic was a worthy opponent.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: recalcitrant: recalcitrant
+
+    </div>
+
+- For all intents and purposes, Mata Zyndu was now the real princeps—no, more than a princeps, a hegemon—and all the Tiro states understood this.
+
+    Géjira was finally pacified after a month. But reliable news of happenings in Géfica, the heart of the empire on the other side of the mountains, were hard to come by. The caravan traffic through Thoco Pass had ceased, and none of Mata’s spies came back. The remaining Imperials seemed to huddle in the Immaculate City and sent no reinforcements to Géjira.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: for all intents and purposes: for all intents and purposes
+
+    en: hegemon: hegemon
+
+    </div>
+
+- The soldiers peeked carefully over the wall. “Without Lord Garu’s orders, we won’t let anyone through.”
+
+    “Lord Garu? You mean Kuni Garu, the Duke of Zudi?”
+
+    “The very same. Though now that he’s captured Emperor Erishi, he’s going to be King of Géfica!”
+
+    Mata rode forward. “He’s done what? Open up the gates now and let me speak to him!”
+
+    The defenders of Goa, being former Imperial soldiers who had surrendered to Kuni, wanted to show their zeal for their new lord. They shot volleys of arrows at Mata Zyndu and his guards and laughed at this presumptuous man who thought he could just strut in and talk to their king.
+
+    Ratho lifted his shield in front of Mata, but Mata struck it out of his hand and tossed it away. An arrow struck him in the shoulder, but he didn’t even seem to feel it.
+
+    But Ratho felt as if his heart were bleeding—how could Lord Garu take up arms against his friend? And after all he and the marshal had been through together, too.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: volley: volleys
+
+    en: presumptuous: presumptuous
+
+    en: zeal: zeal
+
+    </div>
+
+- Once he arrived in Pan, Mata Zyndu ordered a general cleansing of the city by looting. His men had been promised the riches of the Imperial capital, and he wasn’t going to deny them their pleasure. He did not exactly encourage the slaughter of Pan’s citizens, who tried to welcome him as best as they could, but he didn’t exactly forbid it either.
+
+    Cold, wintry rain fell, and as panicked people ran through the slick, slippery streets ahead of drawn swords, the rivulets in the city’s gutters gradually turned red.
+
+    The boy emperor Erishi had been left behind in the palace when Kuni and his men left Pan.
+
+    “Please take me with you,” the boy had begged. “I don’t want to face that butcher.”
+
+    Kuni had sighed and said that there was nothing he could do. Mata Zyndu was now the self-proclaimed Hegemon of All Tiro States. The emperor’s fate was in his hands. Kuni pried the child’s fingers from the sleeves of his robe and took his leave, but Erishi’s piteous cries echoed in Kuni’s head long after.
+
+    Mata Zyndu’s men carted away all the treasure that could be removed from the palace. The soldiers then sealed the palace doors with the emperor and his few loyal servants inside.
+
+    Aloud, Mata Zyndu proclaimed the sins of the Xana Empire against the people of the Six States and set the palace on fire. The boy emperor was last seen jumping from the top of the tallest tower in the palace, having run out of places to hide from the rising flames. The fire raged on and on, and the people of Pan were forbidden from trying to put it out, however it spread. All of Pan eventually burned, and the flames smoldered for three months.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: rivulet: rivulets
+
+    </div>
+
+- The Immaculate City was no more.
+
+    “With the death of Erishi, the empire is at an end,” Mata announced. “It is now the first year of the Principate.” The cheers from the crowd seemed to him subdued and lacking in enthusiasm. This irked him.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: irk: irked
+
+    </div>
