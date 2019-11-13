@@ -1588,3 +1588,316 @@ source_type: book
     en: irk: irked
 
     </div>
+
+- Mata drained his goblet in one gulp and threw it to the ground. “Yet not all of us fought with one heart. While my brothers and I bore the brunt of the empire’s most mighty strike, others among us behaved as mice who steal from the banquet while guests are engaged in conversation. What shall we do with men such as these?”
+
+    The assembled lords fell silent. No one dared to look at Kuni Garu.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: brunt: brunt
+
+    </div>
+
+- “Do not call me ‘brother’! Tempted by fame and treasure, you took advantage of the empire’s preoccupation with my army and stole into Pan by a dirty trick. You claimed the riches of the palace as your own and manipulated the hearts of the people of Pan and Géfica to support your dream of ascending to the throne. You wished to keep the fruits of the rebellion for yourself, depriving others, far braver and worthier men, of their just deserts. And then you had the temerity to station troops in Thoco Pass to keep out the forces of other rebel leaders, as though you were first among equals of the lords of our rebellion. Do you deny any of these charges?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: temerity: temerity
+
+    </div>
+
+- Mata threw Thufi’s scroll onto the ground in disgust and ground his foot against it until all the wax logograms had fallen off and were illegibly mixed into the mud. He was finished with listening to that shepherd boy. Henceforth he was done with the old title of Marshal of Cocru. He had defeated the empire, and that made him the hegemon. So he would reward people as he saw fit.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: hegemon: hegemon
+
+    </div>
+
+- To begin with, he would divide the world into new pieces and hand them out to people he thought more deserving. Mapidéré’s error had been to trust people who lacked the necessary qualities. In contrast, he would hearken back to ancient times, when the foundations of the world were laid. Like the great Ano lawgiver Aruano, he would also create a new world order that would last millennia. He would measure the world against the rigid grid of his heart and put each man in charge of a domain no more and no less than his just deserts.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: hearken: hearken
+
+    </div>
+
+- “I’m from Cocru,” he said to Pering. “The whole point of leaving home to accomplish great deeds is so that one day I could return home to receive the adulation of my homeland. Géfica is too far from Tunoa.”
+
+    Pering sighed. Advising Zyndu was often frustrating. He cared so much about honor and display and so little about the real foundation of power.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: adulation: adulation
+
+    </div>
+
+- But Mata understood that to do so would be to encourage further rebellions against the established order. Sometimes those who lit the spark that began a conflagration must be consumed by it lest the fire burn on indefinitely.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: conflagration: conflagration
+
+    </div>
+
+- Mira found the beggar odd. He was surprisingly bold, as if he fancied himself a lord, her superior. And there was something about his air that compelled her attention.
+
+    “But perhaps I misspoke. I should have said that you will be close to him.”
+
+    “Is that a prediction or a command?” Mira asked. The beggar’s impudence was making her angry. She considered calling for some of the courtiers—they were always so eager for her to tell them something to do.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: impudence: impudence
+
+    </div>
+
+- The tent was a mess, she saw. Papers were piled on multiple desks haphazardly arranged around the tent, as though new ones were brought in as soon as old ones had been filled; pillows and cushions for sitting were scattered around, the detritus of ad-hoc meetings with his advisers; the bed where he slept looked like it hadn’t had its sheets changed in weeks.
+
+    Mata was sitting at one of the desks, his back to her, his legs folded under him in géüpa. He did not turn as she entered, perhaps thinking that she was one of his personal guards who had come in to help him get ready for bed, as none of the maids dared to come in.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: detritus: detritus
+
+    en: ad-hoc: ad-hoc
+
+    en: haphazard: haphazardly
+
+    </div>
+
+- But Kuni’s words dispelled the association. “These large ships will be too expensive to maintain, and I’m going to stay here for a while,” Kuni shouted, his hands cupped around his mouth. Smiling ingratiatingly, he waved at Marana’s men. “Bring my good wishes to the hegemon, Your Majesty. Don’t be a stranger!” He bowed repeatedly to Marana, like a servant trying to curry favor with his master.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ingratiating: ingratiatingly
+
+    </div>
+
+- Quickly going to her workshop, she took a cup of dried stone’s ear mushroom, mixed it with water, ground up the mixture until it was a thin paste, and brushed the paste all over the thick page. Then she waited until the paper had been soaked through before dipping it into a thin dish of water, gently washing away the paste.
+
+    Zyndari letters emerged in the blank space on the page, fading into view like ships coming out of the fog. Kuni had written the real letter in dandelion milk, invisible until now.
+
+    _I’m coming home, my beloved, center of my heart._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: dandelion: dandelion
+
+    en: beloved: beloved
+
+    </div>
+
+- “On my way here, I had to travel away from the major cities and big roads, and I got to see a little of how bad things have become. Mata may be a great warrior, but he’s not a good ruler. The old Tiro states were forced to work together only because they feared the empire more than one another, but now all the old enmities are resurfacing; Mata made things worse with his childish map-drawing, and the new Tiro kings he created have no legitimacy. All the states are preparing for war: Taxes have increased to boost the sizes of armies, and prices in the markets keep going up. Though the rebellion is over, the lives of the common people have not grown better.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: enmity: enmities
+
+    </div>
+
+- “King Ponahu of Amu was not amused and arrested my mother for witchcraft. She was scheduled to be executed, but she convinced her guards to slip her some herbs—for her womanly troubles, she claimed—and then used them to create a smoke screen that enveloped the guards. She had them open her cell under the influence of the smoke, and she escaped. And then she came to Cocru, and we’ve tried to live here inconspicuously since then.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: inconspicuous: inconspicuously
+
+    </div>
+
+- Kuni was such a complicated man. There were so many layers in his heart that it appeared opaque. He was like a cabbage, one leaf nestled inside another, each half-formed idea enclosed by another, desires and suspicions and regrets and ideals wrapped tightly lest they spread too far. There was a growing ambition in him and an overwhelming desire to be liked. Yet there was also sorrow and a gnawing sense of doubt, of not being as good a man as he thought he was, of not being as certain of the right path as he wished.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: lest: lest
+
+    </div>
+
+- The locals say that beyond the ocean, beyond the scattered isles where the pirates hide, below the horizon, there are other islands, filled with other people far different from us. Elders speak of strange flotsam and wreckage washing up on shore years ago, bearing designs never seen in all of Dara. We repeat these stories around the bonfire and scare one another, but I do wonder. Wouldn’t it be exciting, Jia, to find other lands out there that we’ve never seen?
+
+    <div markdown="1" class="tagged-entries">
+
+    en: flotsam: flotsam
+
+    </div>
+
+- Her greatest asset was that people didn’t expect her to fight, though this only conferred a fleeting opportunity that she could make use of, once. She could not posture and taunt and boast and display the way the boys did. She had to behave as though she was helpless and then unleash her strike in one overpowering burst of fury. She went for the eyes, the soft tissue under the lump in men’s throats, the groin. She had no qualms about sharp nails, teeth, hidden daggers. She could choose not to fight and yield, or she could choose one flash of deadly force. 
+
+    There was nothing in between.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: qualm: qualms
+
+    </div>
+
+- In the morning, Gin awoke to the sound of children screaming. She rushed out of the house. In the backyard, a few of the children lay on the ground crying. One had a bloody bandage wrapped around his right shoulder, his arm gone. Another sat with gauze wrapped around her head, two spreading red stains marking where her eyes had been. A third had lost his feet, and he crawled slowly, trailing blood on the grass. The other children, still uninjured, were held by members of the gang against the back wall. They screamed and kicked and bit, but the men stood as still as statues, not loosening their iron grasp.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: gauze: gauze
+
+    </div>
+
+- An old woman saw the pair of hungry eyes peeking out from behind a tree and offered to share her lunch with the emaciated, dirty boy in rags. Gin thanked her.
+
+    The next day, Gin showed up again, and the old laundress shared her food with the boy again.
+
+    This went on for twenty days. Gin knelt down and put her forehead against the ground. “Granny, if I ever make it, I will repay your kindness a hundredfold.”
+
+    The old woman spat on the ground. “You foolish child! You think I share my food with you because I expect a reward? I do it only because I think you are a sorry sight, and Tututika said all living things have a right to food. I would do no different for a stray dog or cat.” She softened her voice. “I feed you so that you don’t have to steal. A man who steals is a man who has lost all hope, and you’re too young to have no hope.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: emaciate: emaciated
+
+    </div>
+
+- “You play cüpa like you strut around the docks, as if you can’t bear to be considered weak for even a moment. 
+You play like you have something to prove.”
+
+    Gin avoided the dockmaster’s eyes. “Because I’m small, everyone has always acted as if they can push me around.”
+
+    “And you hate that.”
+
+    “I can’t afford to appear soft—”
+
+    The dockmaster’s voice took on a stern tone. “You dream of someday standing tall before men who’re bigger than you, but you have not learned to bide your time. If you insist on fighting every fight that comes your way, you’re simply letting them push you around in a different way. You will die young and foolish.”
+
+    Gin sat still, thinking. Then she nodded.
+
+    After two weeks, Gin started winning against the dockmaster.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: bide: bide
+
+    </div>
+
+- The dockmaster, impressed, gave her some classical books on cüpa.
+
+    “These books explain the origin of cüpa as a simulation of war. If you study them, you will also understand how the game is entwined with military history and military strategy.”
+
+    “I can’t read,” Gin said, embarrassed.
+
+    “Then it’s time to learn.” The dockmaster’s eyes and voice were gentle. “My sister never learned to read, and she didn’t understand that she had been betrayed by the man she married when he had her sign a contract that deprived her of her right to dower. You must learn to read to protect yourself. I’ll teach you.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: dower: dower
+
+    </div>
+
+- A cüpa set sat in Cogo Yelu’s front hall. The stones on the board were laid out in a famous pattern. It was the final formation of a game concluded two hundred years ago between two great cüpa masters: Count Soing, the great Amu strategist, playing with white stones, had conceded the game to Duke Fino, the famed adviser to the Cocru court, playing with black stones.
+
+    “Do you play?” Cogo asked.
+
+    Mazoti nodded. “I’ve always thought that Soing should not have given up. There was hope yet.”
+
+    Cogo was not a great player, but he was a connoisseur of cüpa history and strategy. Mazoti’s statement made no sense. Most of the board was occupied by black stones. The white stones, clustered in the center, had few breaths left.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: connoisseur: connoisseur
+
+    </div>
+
+- Even the most realistic war games could only do so much. To further the soldiers’ training, Mazoti sent small detachments on raiding missions to pirate havens in the islets to the far north. These skirmishes gave the men experience of real warfare that could not be obtained any other way. Whatever booty they captured they got to keep.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: skirmish: skirmishes
+
+    </div>
+
+- Now that it had been a year since Kuni Garu had come to Dasu, Cogo was finally beginning to see the fruits of his efforts at attracting men (and women) of talent to the island. Rumors spread all over Dara that in Dasu, a hardworking man could count on light taxes and fair laws and that interesting ideas would get a fair hearing, and even a woman would be treated with respect and given a chance to prove the worth of her thoughts.
+
+    Many came: inventors with new contraptions, warriors of great strength, magicians claiming new knowledge, herbalists with novel recipes, entertainers with fresh acts—Cogo welcomed them all and tried to sift through the charlatans for nuggets of gold.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: charlatan: charlatans
+
+    </div>
+
+- “Had Mapidéré patiently spent more time on consolidating his rule, rather than pursuing the mirage of immortality; had he focused more effort on just administration and lasting institutions, rather than megalomaniacal engineering projects—it’s possible that the empire would have survived more than two generations. Had that been the case, in another hundred years, men who remember the old Tiro states would have all passed into death, and the new generations would have known nothing but a unified peace under Xana. Memories of the death and suffering caused by wars do not last beyond three generations, and people would remember Emperor Mapidéré fondly, as a visionary, a lawgiver who gave us peace.”
+
+    Kuni Garu threw more wood on the fire. “You are a heretic, Luan. Few dare to think such thoughts.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: megalomaniac: megalomaniacal
+
+    </div>
+
+- Luwen, the surrendered Dasu soldier, made his way next to Marana.
+
+    “We were both fooled,” Kindo said. “You were just a pawn in her game. She whipped you not because she needed you to work harder, but to hide her real plans.”
+
+    Luwen grinned at him. Marana looked back, and his face fell as he finally understood.
+
+    With one quick stroke, Luwen lopped off Marana’s head. Then he leapt from the wall, holding aloft the head by its hair.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: lop: lopped
+
+    </div>
+
+- Mata led his guards to the house of Jia, just outside of Çaruza. He would avenge this act of rebellion and treachery by the ruthless Kuni, whose ambition couldn’t even be contained by the threat to his family. Jia and the children would pay for Kuni’s sins.
+
+    But a middle-aged woman stood at the door of Jia’s house and refused to let the guards in. She held up a jeweled pin in the shape of the chrysanthemum arms of the Zyndu Clan and asked to speak to Mata Zyndu. As the pin was clearly old and precious, the guards did not force their way past her but sent a report back to the hegemon.
+
+    Mata went up to the madwoman.
+
+    “Do you recognize me, Mata?”
+
+    Mata Zyndu stared at her. In her lined face he could see shades of Phin Zyndu and of himself.
+
+    “I am your aunt, Soto Zyndu.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: chrysanthemum: chrysanthemum
+
+    </div>
+
+- Unmatched in speed and maneuverability, these airships evaded the hegemon’s airships and flew all over the Islands of Dara; their heavier pursuers were slower and could not stay aloft for as long.
+
+    As they flew over the cities, Dasu airships dropped leaflets denouncing Mata Zyndu for his sins: the Massacre at Dimu, the Slaughter of Prisoners at Wolf’s Paw, the Destruction of Surrendered and Peaceful Pan, the Betrayal of the Promise of Just Rewards for Rebel Leaders, the Usurpation of the Throne of Cocru, the Murder of King Thufi . . .
+
+    The self-righteous tone, the lurid language, the manipulative illustrations—these had troubled Kuni when Cogo Yelu first presented them.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: lurid: lurid
+
+    en: maneuverability: maneuverability
+
+    </div>
+
+- However, Luan Zya, who had studied the weather patterns around the Islands of Dara during his extensive travels, had been prepared. He had advised Gin to equip the crew with long-handled pikes that they now used to loosen the sheets of ice as they leaned out of the gondola. The Dasu ship rose, unscathed, and for good measure, dropped a full load of pamphlets on the capital of Cocru.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: unscathed: unscathed
+
+    </div>
+
+- Sometime the sailors saw great pods of crubens passing under the ships in the sea lanes between Rui and the Big Island. Sighting a cruben was an auspicious occurrence, and most of the sailors were glad. Maybe it was a sign that the gods favored Hegemon Zyndu, and their time away from the comforts of home would soon be over.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: auspicious: auspicious
+
+    </div>
+
+- Central and South Géfica collapsed before Marshal Mazoti’s forces like termite-infested logs before a heavy axe. The two kings, Noda Mi and Doru Solofi, had neglected their own military preparations, thinking Théca would take the brunt of Mazoti’s assault. They had no choice now but to flee across the Liru River into Cocru for refuge.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: brunt: brunt
+
+    </div>
+
+- 
