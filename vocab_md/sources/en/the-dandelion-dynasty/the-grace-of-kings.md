@@ -1900,4 +1900,327 @@ You play like you have something to prove.”
 
     </div>
 
-- 
+- Kuni’s return to Zudi brought tears from his father—who had finally decided that it was time to throw his lot in with the son who would not stop rebelling—and wild jubilation among the people.
+
+    To add to the good news, Puma Yemu had managed to rescue Jia and the children right from under the noses of the Cocru troops in a daring raid at Çaruza. The family would finally be reunited in their hometown.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: jubilation: jubilation
+
+    </div>
+
+- As Kuni repeatedly kissed Jia, he whispered into her ear, “I’m so sorry for everything you’ve suffered. I know you don’t think I understand, but I do. I’ve chewed on bitter herbs every morning so that I can feel a fraction of what you felt, alone, frightened, surrounded by enemies and trying to raise two children.”
+
+    Jia, who had always maintained a stoic face in front of the others, finally broke down. She hit Kuni in the chest, hard, a few times, and then pulled him to her in a hungry kiss. Tears and laughter mingled in her face.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: stoic: stoic
+
+    </div>
+
+- The three got up and left, discreetly closing the door behind them. Kuni was alone with his two wives.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: discreet: discreetly
+
+    </div>
+
+- he imagined Kuni and Risana together, and despite herself, she was consumed with fury. When they were first married, Kuni and she had shared an easy, joking rapport. But she wasn’t much of a singer, and she didn’t remember him ever laughing or crying with her the way the maid described him doing with Risana. She did not dance, could never have danced, like Risana. Suddenly she felt the ghost of her vanished youth. Gone was the redheaded girl who had once inspired the future king with a dandelion.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: rapport: rapport
+
+    en: dandelion: dandelion
+
+    </div>
+
+- When Marshal Mazoti went north to deal with Rima, she left behind the bulk of the Dasu army at Zudi. Fifty thousand men and tens of thousands of horses, too many to garrison in the city, camped on the Porin Plains. This was a larger army even than the combined forces of Tanno Namen and Kindo Marana at Wolf’s Paw. Cogo Yelu, always meticulous and careful, kept the provisions smoothly flowing.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: meticulous: meticulous
+
+    </div>
+
+- Love was a complicated thing, she conceded.
+
+    “The only fool I pity here is that girl, Risana. She has no idea who she’s dealing with,” Soto said.
+
+    Their brief moment of merriment was interrupted by the sound of shouting men and clashing swords in the street. The gates to the mayor’s house flew open, and a blood-soaked Captain Dosa stumbled in, his body pierced by arrows.
+
+    Mata was here
+
+    <div markdown="1" class="tagged-entries">
+
+    en: merriment: merriment
+
+    </div>
+
+- Mata decided to press the psychological advantage he had to the fullest. On a large flat-bottomed boat—slow and shallow-drafting and thus not a military threat—he rode into the middle of the Liru and asked Kuni to join him for parley.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: parley: parley
+
+    </div>
+
+- Kuni shook his head. “It’s not you I’m fighting against, but the idea you represent. I mean to re-create the dream of Emperor Mapidéré, but this time I’ll do it right. You want to leave the world to be divided between Tiro states, full of endless wars to serve the empty martial glory of the great nobles. I want to end all that and give the common people a chance to live their lives in peace. Mata, don’t stand in my way. Abdicate and hand me the seal of the world.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: abdicate: abdicate
+
+    </div>
+
+- It’s impossible to see into men’s hearts. The last glimmer of hope in his mind died.
+
+    Kuni leaned forward, eagerly looking into Mata’s eyes. “Cook him! Cook him so I can focus on how to get you into the pot one day.”
+
+    Mata shook his head. He would demonstrate his moral superiority to Kuni today and shame him with his lack of filial piety—even if it was doubtful that Kuni had any sense of shame left. That had always been Kuni’s problem, utter lack of honor.
+
+    Mata ordered the fire extinguished and Féso Garu taken away. “Men ultimately sink to their true stations. You’re a heartless thug, Kuni, and the people of Dara will see through your facade.”
+
+    He sailed back toward Dimu, and behind him, Kuni waited until Mata was out of sight before collapsing to the deck. His clothes were soaked through with sweat, and he felt as though his heart had been pried from him.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: facade: facade
+
+    </div>
+
+- An informal armistice was now in place along the Liru. The people along the river tried to carry on their lives the best they could while living in a war zone that could heat up again at any minute. Merchants and fishing ships cautiously sailed up and down the river. Zones of control and safe passage for civilian vessels had to be negotiated. From time to time, Kuni and Mata sent each other envoys to work out these issues.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: armistice: armistice
+
+    </div>
+
+- It was nothing new, and there was nothing special to the way he spoke, but the crowd roared and clapped, and he felt as though he was being lifted on their voices, on their strength of will. And his words became more fiery in response. He called for the people to tear the palace down, to usher in a more harmonious and just Rima.
+
+    Shilué and the ambassadors trembled in the palace, but Shilué shrewdly saw an opportunity. He pressed the two kings of Rima to not only agree to a cease-fire, but to abdicate their thrones and to support Zato Ruthi as the king of a unified new Rima.
+
+    “The people have spoken,” he said, “and they are not calling for either of your names.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: abdicate: abdicate
+
+    </div>
+
+- “Sire, we must attack now, before her men put their armor back on.”
+
+    “You wish to besmirch the name of our army? What would King Jizu, the Pure-Hearted Ruler, say of your plots? No, we must wait. Besides, look how she’s gathering her soldiers into formation! Kon Fiji taught us that when there’s a river around, one should never set up the infantry so that the soldiers’ backs are against the river because they will have no room to maneuver. We gave them plenty of space to properly form up, yet Mazoti is lining up her men against the shore of the river.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: besmirch: besmirch
+
+    </div>
+
+- But Mazoti assured him that it was all right. She would enjoy the show as much as any man. King Shilué toasted her and said that he looked forward to working with her in the service of their common lord.
+
+    “Shilué, do you confess your sins?”
+
+    Shilué was feeling very drunk, so he wasn’t quite sure that he had heard the marshal correctly.
+
+    “What?”
+
+    “Your plot to betray King Kuni,” Mazoti said. She unsheathed her sword and killed Shilué on the spot.
+
+    As the assembled ministers and generals of Faça stood in shock, Mazoti’s men quickly secured the palace. Outside, the Dasu troops had already seized Boama’s gates and harbors.
+
+    Mazoti sent a fast messenger airship back to Dimushi with this note:
+
+    _Faça has been conquered. The plan for surrender was a trick Shilué used to fool Luan Zya. He had planned to betray you and defect to Mata Zyndu again. But I saw through the ruse and executed him for treason before he could put the plot into motion._
+
+    She felt a twinge of guilt, but in war, every victory was good, whether against enemies, friends, or lovers.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: unsheath: unsheathed
+
+    </div>
+
+- Every day, Mata launched himself into the air over the Liru on a battle kite.
+
+    “Kuni Garu, come into the air and fight me!” he shouted.
+
+    Kuni Garu never responded.
+
+    Instead, Kuni summoned an airship. To Mata’s way of thinking, such an act was despicable, like bringing a knife to a wrestling match. But Kuni was not bound by such scruples.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: scruple: scruples
+
+    </div>
+
+- “Queen Gin has always argued that if one goes to war, one should do all one can to win. A knife is not malicious merely because it is sharp, and a plot is not evil merely because it is effective. All depends on the wielder. The grace of kings is not the same as the morals governing individuals.”
+Kuni did not respond.
+
+    “If you do not make use of every advantage given to you, the gods will condemn you for your error.”
+
+    The treaty felt heavy in Kuni’s hands. Would the lives of the people feel even heavier?
+
+    I think I wield power, Kuni thought, but perhaps it is Power that wields me.
+
+    “Summon Mün Çakri and Than Carucono.”
+
+    Kuni sighed in resignation and tore the paper into pieces.
+
+    In a minute, the pieces had disappeared in the wind, like words spoken and then forgotten.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: malicious: malicious
+
+    </div>
+
+- Finally, they arrived at the sea. Mata leapt off his horse and saw the dilapidated house nearby. His heart skipped a beat as he recognized it. This was where Jia had stayed for many years right outside Çaruza and where he had once shared drinks with Kuni and held his son in his arms.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: dilapidated: dilapidated
+
+    </div>
+
+- Réfiroa was on the ground, dozens of arrows sticking out of his great body. He let out a scream that sounded almost human. Around him, most of the other horses were dead, but a few let out piteous screams.
+
+    Eyes glistening in the torchlight, Mata walked up to Réfiroa. With a clean, wide sweep of his arm, Na-aroénna swung through the air, and Réfiroa’s head, separated from his torso, flew in a long, gentle arc that ended in the distant sea. Mata’s soldiers came forward and gave clean deaths to the few other surviving horses as well.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: piteous: piteous
+
+    </div>
+
+- “Daf!” Ratho cried out. He could see his brother’s face in the flickering torchlight. “Daf, it’s me, Rat!”
+
+    Mata glanced at Ratho. “That’s your brother?”
+
+    Ratho nodded. “Yes. He picked the wrong side. He serves a lord with no honor.”
+
+    “Brothers should not take up arms against each other,” Mata said. “You’ve been a great soldier, Rat, the best I’ve ever seen. Let me give you a final gift. Take my head and make yourself a count.”
+
+    He lifted Na-aroénna and whispered, “Grandfather and Uncle, I’m sorry. There was never doubt in my heart, but perhaps that is not enough.”
+
+    With one quick stroke, he severed the arteries in his neck. Blood spurted everywhere and stained the snowy beach. His body remained upright for a moment, then collapsed like a mighty oak cut down.
+
+    “Rat, stop!”
+
+    But it was too late. Ratho Miro imitated his lord and wiped his own throat with Simplicity. Around him, the other riders of Mata Zyndu also collapsed like great trees.
+
+    The men of Dasu rushed in to grab a piece of Mata Zyndu’s body and claim the reward. He was torn limb from limb, and ultimately Kuni Garu had to award five soldiers, who each presented a piece of Mata Zyndu’s body.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: sever: severed
+
+    en: simplicity: simplicity
+
+    </div>
+
+- But it was the words of Kuni Garu, who gave the last eulogy, that would be recalled long after: “Though I am declared victorious today, who knows in ten generations whether your name or mine will be the brighter? You died a grace of kings at my hand, but doubt will haunt me till the day I die.
+
+    “I saw you soar in the sky when you held Namen back at Zudi, and I bore witness when you slaughtered the innocent in Dimu. I marveled at your courage, nobility, and loyalty, and I shuddered at your cruelty, suspicion, and obstinacy. I laughed as you cradled my infant son outside Çaruza, and I cried as you burned down the Immaculate City. I understood your dedication to the world as you thought it ought to be, and I regret it is not a world that all of us wish to live in. I swallowed bitterness as you refused to call me brother, and I had to do so again to betray you at Rana Kida. I felt closer to you than I did to my brother by blood when the chance for victory seemed remote, yet we could not break bread together in joy in Pan. From the shores of Wolf’s Paw to the skies over Zudi, you left in the hearts of the people an indelible image.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: eulogy: eulogy
+
+    en: indelible: indelible
+
+    </div>
+
+- As the hegemon’s body was about to be lowered into the ground, the sky above the funeral procession was suddenly filled with the beating wings of a flock of giant ravens, both black and white. As they parted like cüpa stones sorting themselves by color, Mingén falcons dove toward the procession. The gathered nobles and ministers scattered, abandoning the hegemon’s casket next to the gravesite.
+
+    Then, the ground around the gravesite exploded like a roiling sea, and a pack of monstrous wolves, each four times as big as a man, emerged. The wolves, ravens, and falcons converged on the casket, and settled around it neatly in rows, like guards preparing for review at a parade.
+
+    A furious storm arose: stones tumbled along the ground, trees were uprooted, and a thick cloud of dust obscured everything. In that confusion, all sounds and speech drowned in a sea made of the shrieking of the wind, the howling of wolves, the cawing of ravens, and the shrill, piercing cry of falcons.
+
+    The world seemed to return to primordial chaos, and even thought was impossible.
+
+    Abruptly, the sound and the fury ceased, and bright sunlight bathed the calm scene left after the destruction. All the animals had disappeared, along with the hegemon’s body.
+
+    Slowly, the nobles and ministers, prostrate during the brief storm, stood up on unsteady legs, looking around in wonder and confusion.
+
+    Cogo Yelu was the first to recover. “How auspicious!” he proclaimed into the stunned silence. “The gods of Dara have together welcomed the hegemon into another realm. We who are left are witnessing the start of a new era of harmonious peace!”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: roiling: roiling
+
+    en: auspicious: auspicious
+
+    </div>
+
+- A simple meal of fruits, nectars, and wild game was laid out on the smooth grass, and the gods reclined or sat around it.
+
+    Lutho, Rapa, and Rufizo, the hosts, looked relaxed, joyful, even radiant.
+
+    “Of course you look happy,” said Fithowéo. “Your favorites won.”
+
+    “Come, come,” said Rufizo. “A new era among the mortals should herald a new era among us as well. Brothers and sisters, let’s drink together and heal the discord between us.” He lifted a flagon of mead, and Rapa and Lutho followed suit.
+
+    “I’ve always said that we should have been drinking, not fighting,” said Tututika, and she lifted her flagon in response.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: discord: discord
+
+    </div>
+
+- Mün Çakri, First General of the Infantry, Than Carucono, First General of the Cavalry, and Rin Coda, Farsight Secretary (a title he suggested because it sounded better than “Spymaster”), hosted Duke Théca Kimo and Marquess Puma Yemu at a table in the corner, where their rowdy drinking games wouldn’t bother the other guests. From time to time, when they argued too loudly about who should be drinking, Kuni had to go over to adjudicate personally.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: adjudicate: adjudicate
+
+    </div>
+
+- Soto Zyndu looked at her, and then at Risana, who sat quietly by Kuni, content with his attention alone. Kuni had announced before the banquet that since Risana’s son, the young prince known as Hudo-tika, had also reached the age of reason, he would be formally named Phyro, meaning “Pearl in the Palm.”
+
+    Only a few who had studied the Ano Classics in depth understood the obscure allusion. The Cocru patriot and poet Lurusén had once written a poem celebrating the birth of a new prince:
+
+    _A son who carries on the legacy of his father_
+
+    Is more precious than a pearl in the palm of a great king.
+
+    Prince Timu’s name, Gentle Ruler, had been an allusion to a son’s love for his mother, but Phyro’s name seemed to indicate Kuni’s thoughts on succession. No wonder Jia’s face had been stony when the name was announced, though Risana had appeared completely oblivious.
+
+    From time to time, the sound of children playing and laughing in the courtyard drifted into the banquet hall.
+
+    Soto sighed. Risana was in trouble, and she didn’t even know it. Risana thought Kuni’s favor alone was enough, but she did not understand that the politics among the wives and children of the emperor would be far more deadly and intricate.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: intricate: intricate
+
+    </div>
+
+- Outside, the air was filled with dandelion seeds, drifting like snow in summer.
+
+    “I heard you declined the titles of Imperial Scholar and Grand Secretary,” said Cogo, as he sat down next to Luan. “So what are you going to do?”
+
+    “Oh, I haven’t decided yet,” Luan said. “Maybe I’ll try adapting the machinery in the mechanical crubens into iron horses and oxen; traders and farmers would like that. Maybe I’ll travel the Islands in a balloon and make better maps. Maybe I’ll go back into the mountains to perfect my stringless kite.”
+
+    “But you’ve made up your mind not to stay around the court?”
+
+    “There is a time to rise with the cruben, and a time to withdraw.”
+
+    Cogo smiled and said no more.
+
+    Luan looked over at Gin Mazoti. She looked back, smiled, and raised her cup. Luan saw only trust in her eyes, but he could not help but feel a chill as he listened to Kuni’s song. _The hunt is over._
+
+    Luan sighed, raised his cup in turn, and drank.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: dandelion: dandelion
+
+    </div>
