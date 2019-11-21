@@ -95,6 +95,8 @@ source_type: book
 
     en: chrysanthemum: chrysanthemum
 
+    en: intricate: intricately
+
     </div>
 
 - At the outer gate of the castle, Phin picked up a fallen red flag: singed, dirty, but still showing the embroidered gold chrysanthemum, emblem of the Zyndu Clan. He wrapped Mata in it, scant protection against the winter air, and uncovered the baby’s face by lifting up a corner of the cloth.
@@ -224,6 +226,8 @@ source_type: book
     <div markdown="1" class="tagged-entries">
 
     en: ethereal: ethereal
+
+    en: intricate: intricate
 
     </div>
 
@@ -538,6 +542,8 @@ source_type: book
     en: ignominous: ignominous
 
     en: usurp: usurped
+
+    en: intricate: intricate
 
     </div>
 
@@ -1022,6 +1028,8 @@ source_type: book
     <div markdown="1" class="tagged-entries">
 
     en: effusive: effusive
+
+    en: intricate: intricately
 
     </div>
 
@@ -2189,7 +2197,7 @@ Kuni did not respond.
 
     _A son who carries on the legacy of his father_
 
-    Is more precious than a pearl in the palm of a great king.
+    _Is more precious than a pearl in the palm of a great king._
 
     Prince Timu’s name, Gentle Ruler, had been an allusion to a son’s love for his mother, but Phyro’s name seemed to indicate Kuni’s thoughts on succession. No wonder Jia’s face had been stony when the name was announced, though Risana had appeared completely oblivious.
 
