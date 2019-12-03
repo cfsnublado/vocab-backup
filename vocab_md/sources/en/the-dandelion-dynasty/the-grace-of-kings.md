@@ -1,6 +1,6 @@
 ---
 source_name: The Grace of Kings
-source_description: Book 1 of The Dandelion Dynasty, by Ken Liu
+source_description: Book 1 of _The Dandelion Dynasty_, by Ken Liu
 source_type: book
 
 ---

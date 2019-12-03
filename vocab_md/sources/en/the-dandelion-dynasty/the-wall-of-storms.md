@@ -532,4 +532,573 @@ And that was how the humble orchid joined the Calendrical Dozen._
 
     </div>
 
+- “What are you thinking?” Zomi’s guard was up. Luan’s tone was too strange.
+
+    “Don’t argue! You’re the student. You must obey.”
+
+    “I won’t obey an order that is wrong!”
+
+    Luan laughed. “Now you sound like a Moralist. It was Kon Fiji himself who said that the duty to the Just and True supersedes all others, even a command from a teacher. I thought you didn’t like Kon Fiji.”
+
+    “Even an idiot can be right sometimes.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: supersede: supersedes
+
+    </div>
+
+- The villagers rushed over. Without saying a word, Séji ripped open Luan’s leggings to reveal the sickening wound in his thigh. While she ripped strips from Luan’s robe to fashion a tourniquet to stop the bleeding, Képulu rummaged through her basket for leaves that she chewed into a poultice, applied it to the wound, and bandaged the leg.
+
+    Meanwhile, the earl’s men maneuvered the screaming Zomi into the gondola. The four “cushions” shifted to make space so that she was directly under the dials and levers for controlling the balloon’s stove, and then they squeezed in and held her legs so that she was trapped next to the earl and his pile of boar trophies.
+
+    “Let me go!” Zomi shouted. “I won’t fly the balloon for you.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: maneuver: maneuvered
+
+    </div>
+
+- Zomi stared at Luan in disbelief. She couldn’t understand why her teacher was choosing this moment to engage in another philosophy discussion. _And why is he just standing there?_
+
+    “No matter what else you think of the Moralists, their core belief is right: Sometimes you must do the right thing even if it hurts you. Actions reify ideals. We must never stop striving to do good, to protect the weak and the powerless. This is the charge to all men of learning.”
+
+    Zomi nodded, but she continued to stare at the stiff figure of Luan. Having dealt with a weak leg all her life, she was sensitive to the way people distributed their weight on their legs.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: reify: reify
+
+    </div>
+
+- “How dare”—but realizing that Zomi was necessary for them to get out of the maelstrom of scalding winds buffeting the balloon, the earl swallowed his curse—“you can’t possibly think a wild peasant’s life is worth more than one of my servants.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: maelstrom: maelstrom
+
+    </div>
+
+- She learned to draft in the unique plain brushstrokes of Xana engineers, who combined zyndari letters with barely sketched flat projections of Ano logograms to create a script that eschewed the emotive qualities of language in favor of the precision and elegance of numbers. She learned the one thousand and one semantic roots, the fifty-one groups of motive modifiers, and all the phonetic adapters, inflection glyphs, and tone elevation techniques that allowed a scholar to wield the knife and the brush to marshal the Ano logograms into complicated idea-machines for purposes of persuasion, explication, exploration, and artistic pleasure.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: eschew: eschewed
+
+    en: semantic: semantic
+
+    </div>
+
+- “Ah, Mimi.” Luan was moved by her combination of pride and solicitousness. “Do as you will. But I know that I will never have another student as good as you. I eagerly wait for the day you soar to heights I can only aspire to.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: solicitousness: solicitousness
+
+    </div>
+
+- “Intrude!” said Rin. “You’re practically family! Though you have been absent for much too long! We must have at least six cups of wine later; I dare say I have a much better liquor collection now, and I’m sorry we haven’t been able to spend much time together for your visit. While you’ve been away, my people have had a very difficult time keeping an eye on you—for protection!—for you’re like an elusive turtle in the ocean, popping up in some town for a few days and then disappearing for months!”
+
+    Luan chuckled. “Thank you for your concern for my safety, but perhaps it’s best for our chief spy not to admit in front of the emperor that your employees have been having trouble keeping a simple itinerant scholar under surveillance.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: surveillance: surveillance
+
+    </div>
+
+- Kuni struggled to get his laughter under control. “Ahem . . . Zomi Kidosu is right that the Imperial examinations, as fair as I’ve tried to make them, are not a good way to attract the talents of all of Dara. Though I’ve opened the examinations and the civil service to women, few have applied to take the examinations and even fewer have risen through the ranks. I have been asking Rin to find girls of promising talent and to secretly offer their parents a stipend to encourage them to attend school and take the tests—that is what I meant by the Golden Carp. But so far the results have been poor, even in Haan. Most parents do not want their daughters to leave home and seek a career in the service of the Imperial bureaucracy.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: bureaucracy: bureaucracy
+
+    </div>
+
+- Kuni gave him a bitter smile. “We’re all young in the eyes of the gods and old in the eyes of our children. A young dynasty must pass through a wall of storms before the first succession—no less treacherous than the mythical walls in your ancient tomes. If we succeed, this empire might last as long as the Seven States; if we fail, my fate will be no different from that of Mapidéré. Jia and Risana both have been pushing, in their own ways, for me to name the crown prince. Who would you choose?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: succession: succession
+
+    </div>
+
+- “Surely things are not as bad as that!”
+
+    “No, perhaps not. But . . . so far you’ve been speaking of talents. What of a father’s heart?”
+
+    Luan took a deep breath. “There is a natural affection between you and Prince Phyro, which is lamentably absent between you and Prince Timu.”
+
+    Kuni winced but did not look away. “The gods keep an accounting of our errors and mistakes, and sooner or later we are asked to pay. I was absent from Timu’s life for much of his childhood, and things have always been awkward between us. But is it right to deprive the firstborn of his natural inheritance for choices he did not make?”
+
+    “Guilt is not the best way to pick an heir.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: lamentably: lamentably
+
+    </div>
+
+- “If the young do not have radical ideas, the world will never change,” said Kuni—and Luan was reminded of the legend of a young Kuni Garu who had gazed upon the face of Mapidéré and saw his eventual downfall. “Each fresh wave coming to land from the sea is brash, bold, radical, and wild like a newborn idea; the wave is worn down by the unyielding reality of the hard land and eventually dissipates, exhausted, to be replaced by the next wave in an apparently futile endeavor. Yet the cumulative efforts of such successive surges, over generations and eons, carved the coastline of Dara. Like me, she will learn the art of the possible; I’m patient.”
+
+    “Sometimes I think you’re a kite rider in time,” said Luan. “Your visions are so far beyond the horizon of the present.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: cumulative: cumulative
+
+    </div>
+
+- “I have to be in control long enough to see the seeds I plant germinate and blossom—in some ways, the older I grow, the more I become sympathetic to Mapidéré, who also begged the gods for more time. So I keep myself in good health with Jia’s herbs that regulate the humors, and vigorous exercise.” Kuni picked up the buckets for another trip back to the stream. “As long as I can keep things from spilling over, I think I have a chance of preparing Dara to weather the wall of storms.”
+
+    And so the emperor and his adviser continued to labor in the farm in the middle of the Imperial palace, nourishing an old friendship and new sprouts.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: vigorous: vigorous
+
+    </div>
+
+- “Ahem.” Kado cleared his throat awkwardly. “I can’t hide anything from you. Yes, I’m sorry, but such a thought did cross my mind. I should have been more circumspect, of course.”
+
+    “So if you didn’t recommend her, how did she come to be in possession of a pass to the Examination Hall? Was it a forgery?”
+
+    “I did do some discreet investigating afterward. She got in with a proper examination pass, but it wasn’t one signed by me.”
+
+    “Who did sign it?”
+
+    “Queen Gin of Géjira.”
+
+    Jia looked thoughtful. Then she smiled and raised the cup again. “Thank you, brother. Thank you.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: circumspect: circumspect
+
+    </div>
+
+- Eight years earlier, Mata Zyndu, the greatest warrior who had ever walked the Islands of Dara, had committed suicide along with his faithful consort, Lady Mira, after being betrayed by his erstwhile friend, Kuni Garu. When news arrived that the Hegemon had refused to cross the channel because he could not bear the shame of facing the people of his homeland, many had vowed to fight Kuni Garu to the bitter end to avenge their lord.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: erstwhile: erstwhile
+
+    </div>
+
+- Then the emperor announced that the Tunoa Isles would not be enfeoffed to a noble, but would remain directly under Imperial administration. To honor the man the emperor had once called brother, the people of Tunoa would not have to pay taxes for five years. The palace would buy all the dried fish it needed exclusively from Tunoa at guaranteed prices as well as offer positions in the palace for the women of Tunoa to work as Imperial embroiderers. Finally, Zyndu Castle would be renovated and turned into a mausoleum for the Hegemon, and the Imperial Treasury hinted at a large roster of local masons, carpenters, blacksmiths, and general laborers who would be employed.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: efeoff: enfeoffed
+
+    </div>
+
+- “The emperor agrees with me that adding more biography to our curriculum is a good idea,” said Zato Ruthi.
+
+    A spring breeze wafted through the instruction hall, bringing with it the fragrance of early-blooming flowers.
+
+    “As the sons and daughters of the emperor, it is my hope that the great deeds of important historical figures will inspire you to greater virtue and that the patterns of the past will warn you of pitfalls for the future. I want each of you to spend the next month focusing on a figure of your choice from the recent past. You will study that person’s life in detail and explain his rise and fall, connecting that experience with the broader patterns of history.
+
+    “Fara, why don’t we begin with you? Who do you want to study?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: waft: wafted
+
+    </div>
+
+- “The Hegemon’s consort?” Ruthi pondered this request and then nodded approvingly. “Lady Mira tried to mitigate the Hegemon’s more volatile tendencies, and in the end she died to demonstrate her faith to her beloved husband. She was a paragon of virtuous womanhood, and a fit choice for a young lady to study. Now, Prince Timu, who is your favorite?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: mitigate: mitigate
+
+    en: paragon: paragon
+
+    en: virtuous: virtuous
+
+    </div>
+
+- The memory of those more dangerous but also more carefree days made Otho’s heart throb with pain. He shook off the reminiscences and continued, “Rin Coda’s spies keep a close eye on shipping through the ports by merchants and large landowners as well as the bigger smuggling gangs, but they rarely pay attention to itinerant entertainers, especially the women. The actresses recommended by Lady Ragi were able to hide the funds and other goods in prop trunks and bring them into Tunoa without Duke Coda’s spies ever suspecting that anything was amiss—it also helped that the troupe had a letter of introduction from Lady Ragi’s husband.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: reminiscence: reminiscences
+
+    </div>
+
+- “Of course he would,” said Kuni. “Standard lease terms will help curb the sort of abuses that Zomi Kidosu spoke of, and place the tax burden where it belongs. Getting the nobles to promulgate these models in their domains will be trickier, however. They’ll view it as more Imperial interference in their affairs.”
+
+    To the side, Théra continued to plant sweet lantern seedlings. Her ears perked up and her hands slowed down at the mention of Zomi’s name.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: promulgate: promulgate
+
+    </div>
+
+- “I have a solution for that,” said Risana. “When you issue the edict, you can couch it as a request for comments. That way, each of the nobles will be able to offer suggestions and adapt the model for conditions unique in each fief.”
+
+    “Good,” said Kuni. “That way, they’ll feel consulted rather than imposed on.”
+
+    “And I will write privately to the wives of the most recalcitrant lords. I know what most of them are really afraid of, and by assuring the wives that this policy has nothing to do with the empress, they’ll pass the sentiment on to their husbands.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: edict: edict
+
+    en: recalcitrant: recalcitrant
+
+    </div>
+
+- “Thank you,” said Kuni. “You are always so circumspect.”
+
+    “It’s enough that you know what I’ve done,” said Risana, and she and Kuni shared a kiss and continued to talk in lowered voices.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: circumspect: circumspect
+
+    </div>
+
+- “When you try something repeatedly and it doesn’t work, continuing along the same path would be madness.”
+Soto took a deep breath. “I’ll always be loyal to you, Jia. But I have affection for all the children. I don’t like to see any of them hurt.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: madness: madness
+
+    </div>
+
+- “Like the Hegemon, Kuni places too much faith in personal trust. During the Chrysanthemum-Dandelion War, he allowed Gin Mazoti to declare herself queen, gambling that the gesture of trust would buy her loyalty. He allows each of his nobles to keep an army large enough to bring ruin upon the land, though the Islands are at peace. Like the man he once called brother, Kuni has decided to build his empire upon bonds of trust between him and those who serve him.”
+
+    “And why is that wrong?”
+
+    “Because trust is fickle and will not bear a heavy load. Kuni has made the empire dependent on him because he thinks only he can see a path forward. That is a fragile state. Phyro, though he is young, shows the same tendencies.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: fickle: fickle
+
+    </div>
+
+- Looking at her happy brothers, Théra felt the pangs of another bout of envy. They were going to go into the wide world and experience life. Still mere boys, they would make decisions that changed the lives of the people—albeit with some supervision and advice from Zato Ruthi and Rin Coda. They were starting down the path to a life of accomplishment, of judgment and rule. She, on the other hand, was going to be cooped up in the palace, preparing for the only future that she could see: a marriage to some mysterious man.
+
+    But she was assuaged by the thought that she had taken a small step to change that future.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: assuage: assuaged
+
+    en: pang: pangs
+
+    </div>
+
+- _Sorry I haven’t written in so long. It’s not much of an excuse, but I’ve been busy because work is going very well. I’m given a lot of responsibility, and the queen, I think, trusts me more with each passing day. Right now I’m working on a pet project whereby I try to teach the daughters of the farming families of Géjira the zyndari letters and have them read the Ano Classics in vernacular translation, without forcing them to learn the Ano logograms. They love it! There is so much beauty in Classical Ano literature, but so few get to enjoy it because they cannot read the logograms. Already the girls are writing beautiful stories full of Classical Ano allusions—and other than the fact that they’re in vernacular translation, I think they’re better than the stories written by the boys their age in the private academies._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: vernacular: vernacular
+
+    en: allusion: allusions
+
+    </div>
+
+- Jia jabbed Kuni in the ribs.
+
+    “Aw! Ahem! Excellent reading, excellent!” Somewhat disoriented, Kuni shouted at the mostly empty private audience hall.
+
+    “I was doing the reading,” said Jia, “not some scribe. Did you really fall asleep?”
+
+    “Asleep? No! I was merely resting my eyes.”
+
+    “How could you!”
+
+    “Jia, you can’t possibly blame me for this! Timu’s letters have gotten more and more tedious over time. He has always tended to pleonasm, but I’m afraid his prose has grown as out of control as the weeds at the edge of my garden.”
+
+    “Prince Timu’s style is . . . ornate,” said Risana.
+
+    “He takes ten sentences to say what could be said in one, which is to say, what others may—oh, look, he’s even gotten me to do it!”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: tedious: tedious
+
+    en: pleonasm: pleonasm
+
+    en: prose: prose
+
+    </div>
+
+- _Pursuant to my decision early on to outlaw all private worship of Mata Zyndu and to direct all who wished to honor the Hegemon to the mausoleum in Farun, Duke Coda has been leading the effort to crack down on the troublemakers. You and I both have commended the speed with which he uncovered these nests of poisonous snakes and captured their leaders—sometimes it seemed as if he had a preternatural sense for where they would be found, as befitting the reputation of the Imperial Farsight Secretary._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: preternatural: preternatural
+
+    </div>
+
+- _Rumors that Mi and Solofi could converse with the spirit of the Hegemon could be heard on every street corner, and we finally tracked down their source when we captured about a dozen mirrors endowed with strange magic. Although they seem plain enough, when placed in the sun, they project an image of the Hegemon in a supernatural manner. Duke Coda and I have studied these mirrors in depth, consulting expert mirror makers and scholars, even destroying a few of them in the process, but none could discover their secret. Noda Mi and Doru Solofi are now in open rebellion, and more foolish men and women rally to their cause daily, inspired by the belief that they have the aid of the dauntless spirit of Mata Zyndu._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: dauntless: dauntless
+
+    </div>
+
+- Kimo took a deep breath and started in on the speech Cano Tho had written for him. “Lord Garu and I were once coequal lords of Dara, dedicated to the ideal of overthrowing the despotism of Xana.”
+
+    Kuni’s face didn’t change at Théca’s addressing him as “Lord Garu.” That was to be expected.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: despotism: despotism
+
+    </div>
+
+- Kimo went on. “Yet even so, Lord Garu appears dissatisfied. Over time, your decrees have evinced the intent to weaken the enfeoffed nobles and strip them of their arms and land. It does not seem that Lord Garu would stop until all of Dara is under a single fist. For the sake of my heirs and those who have followed me, I demand justice from Lord Garu.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: evince: evinced
+
+    en: efeoff: enfeoffed
+
+    </div>
+
+- Théra blushed at having her intent seen through so clearly. But the man continued amiably, “My name isn’t very important. I’m just an old smith who happens to have an interest in music. Do not blame the guards—I come and go as I please, and I play music for an audience in whom I have great hopes. We’re all in search of the one true friend who can understand the voice in your heart when you play a hesitant tune on the moaphya.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: amiable: amiably
+
+    </div>
+
+- The familiarity of the man’s last sentence made Théra relax. Whoever this man was, she felt that she coul343d trust him. “If master will not share his name, I won’t press. You call this a moaphya? I’ve never seen one before.”
+
+    “It’s an old Ano instrument, rarely seen after the Diaspora Wars,” said the man. “The name means ‘square sound.’ You can spot mentions of it in the old heroic sagas. The hero Iluthan was a skilled player.” He beckoned at Fara. “Would you like to try it?”
+
+    While Fara enthusiastically banged on the slabs without much skill, Théra asked, “Can you tell me more about it?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: coul343d: coul343d
+
+    </div>
+
+- _You must weigh the fish._ Théra remembered the colorful phrase from Zomi Kidosu’s Palace Examination performance. _The Prophecy of the Fish had been a trick; why should the “magic mirrors” be any different?_
+
+    Théra threw herself into her task with abandon. Never before had she been given such a complex, intricate puzzle to solve, and she found joy in facing off against such a foe. Perhaps, she thought, _this is something like the battle lust that the Hegemon always spoke of and Hudo-tika always yearned for. There is a pleasure in dedicating yourself to overcoming overwhelming odds, in bringing all your strength to bear against the unknown._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: intricate: intricate
+
+    </div>
+
+- Doru Solofi had to keep himself from laughing as he listened to Noda’s bombast. He and Noda had hardly thought to endow the date of their discovery of the mirrors with such significance until much later, of course, but he supposed that if he squinted really hard, what Noda Mi was saying wasn’t exactly a lie. The prostitute from whom Noda had stolen the money purse with the first magic mirror was indeed dark-haired, and the girl he had been with that night had been a blonde. They certainly had been billed by the indigo house as of “goddess” quality. Anyway, as Noda Mi always said, “The grace of kings lies in graceful lies,” which he claimed to be a palindrome when written out in Ano logograms.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: palindrome: palindrome
+
+    </div>
+
+- “You dare to desecrate the image of the Hegemon?” asked Phyro. He leaned the portrait over the edge of the wall. “This was one of Lady Mira’s famous embroideries and captured the very essence of the Hegemon’s spirit. Are you so impious that you wish to swing a sword against the soul of the Hegemon himself?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: impious: impious
+
+    </div>
+
+- Gin Mazoti had never shied away from letting her daughter know how she came by her throne, and Zomi was used to the way the princess spoke easily of killing and warfare. In truth, since her arrival in Géjira, she had been working to moderate some of Gin’s more militaristic instincts to administer the realm with a gentler hand. For instance, she had encouraged Gin to freeze the military budget and divert more funds into building village schools for the poor modeled on the learning huts of old Haan. She was using them to experiment with a new curriculum that emphasized writing in the vernacular and practical skills like mental arithmetic and geometry that eschewed proofs. Gin had been far more amenable to her suggestions than the Imperial bureaucracy, and Zomi felt that she was finally finding a perch from which she could shine. Gin’s generous stipend also allowed her to send a lot more money home to Dasu. Everything in her life seemed to be moving in the right direction.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: eschew: eschewed
+
+    </div>
+
+- Since this was the first time the empress had ever been the regent, the ministers and generals were not quite sure what to expect. Her reputation for possessing a fiery temper filled everyone with trepidation.
+
+    But she soon reassured everyone. She visited the city garrison, thanking the soldiers for defending the capital against acts of sabotage by Théca Kimo’s spies or the remnants of the insurgency in Tunoa; she went to oversee the shipment of grains and feed for the emperor’s expedition in Arulugi; she gathered the scholars and spoke to them about the importance of stability.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: trepidation: trepidation
+
+    </div>
+
+- The empress again nodded. “A third question then. Now, suppose an enfeoffed noble ignores threats to his lord’s well-being, offers comfort and succor to his lord’s enemies, instigates discord and harmony in the family of his lord, forms factions and parties among his lord’s followers, what shall the lord do with him?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: enfeoff: enfeoffed
+
+    </div>
+
+- Zomi wasn’t used to such morose sentiments coming from the queen. She wondered whether it was because Gin still felt some trepidation at being summoned by the empress out of the blue. The messenger had explained that the empress wished to discuss the rebellion in Arulugi, and that as time was of the essence, Gin had to leave right away in the Imperial messenger airship. The ship’s small capacity allowed Gin only a single attendant, and she chose Zomi Kidosu. She had none of her guards and trusted generals with her.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: morose: morose
+
+    en: trepidation: trepidation
+
+    </div>
+
+- “Zomi, do you know who Aya’s father is?” asked Gin.
+
+    The question surprised Zomi. She had always assumed that this was a topic that Gin did not wish to broach.
+
+    “You know him,” said Gin. “You are the daughter of his mind as Aya is the daughter of his flesh.”
+
+    Zomi was stunned by the revelation.
+
+    “Aya does not know the truth. I’ve always hidden it from her because . . . I suppose I wanted her to be prouder of me than of her father. Vanity is a sin none of us can be free from. I’ve never told him either because . . . I wanted him to stay because of me, not because of duty.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: broach: broach
+
+    </div>
+
+- Cogo remained kneeling with his forehead to the ground. But when it was clear that the empress would not go on until he gave an answer, he spoke reluctantly, pausing between words, “There must be ironclad proof, lest the people speak ill of Your Imperial Majesty.”
+
+    Jia waved her hand, and Chatelain Otho Krin came forward. “Spies have returned with a new report from Géjira. Queen Mazoti feasts every night with Noda Mi and Doru Solofi, as well as many of their followers.”
+
+    Jia waited.
+
+    Cogo looked up. “I serve the emperor,” he said. Then he bowed again and touched his forehead to the ground. “And the empress.”
+
+    The other ministers, generals, and nobles bowed and said together, “I serve the emperor and the empress.”
+
+    Jia looked impassively at them and nodded, once.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ironclad: ironclad
+
+    </div>
+
+- So this was how the wealthy lived.
+
+    She seethed as she wiped herself. She thought about the muddy hut she had grown up in; she thought about her mother going to Master Ikigégé’s house to wash the floor and clean the toilets; she thought about her own childhood spent hauling fish and working the fields until the skin of her hands had grown as rough as the soil itself. Meanwhile, the regent of Dasu was cleaning his ass with silk.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: seeth: seethed
+
+    </div>
+
+- “I heard that years ago, back on Dasu, Lord Garu himself once dashed out the door of his house without shoes to welcome you back,” said a wistful Gin. She emphasized Lord Garu deliberately, but the empress did not react to her breach of decorum. “He thought you had run away.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: decorum: decorum
+
+    </div>
+
+- _Kuni will never turn against me, she thought. It doesn’t matter what the empress thinks. If she acts against me, it will only prove what I’ve surmised from Noda Mi and Doru Solofi._
+
+    “Gin,” Cogo whispered. “How could you?” He stepped back.
+
+    “Gin Mazoti,” said the empress. “Do you confess your sins?”
+
+    Gin heard the sharp clang of dozens of swords being unsheathed at once. She couldn’t get up because she was tied in place, and she no longer had her sword with her. She felt the tips of a few swords pressing against her back.
+
+    She laughed mirthlessly. She realized that she wasn’t even surprised.
+
+    “Cogo, my old friend,” she said, “you are the cause of my rise. It is only proper that you are also the cause of my downfall.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: mirthless: mirthlessly
+
+    </div>
+
+- “I will not give Kuni the satisfaction of having it both ways. He wants to assuage his conscience while his wife does the dirty work of clearing his doubt. He wants the love and trust of his old retainers while they’re disarmed, disgraced, and distanced from the levers of power. He thinks he can have the love of the people as well as the praise of the lords, the loyalty of his old friends as well as the bought affection of old enemies. He thinks he can balance all the forces around him and resolve everything by secret compromise, but in matters of honor, there is only wrong or right.
+
+    “Let him choose and live with his choice.”
+
+    She turned away from Dafiro to face the wall, indicating that the conversation was over.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: assuage: assuage
+
+    </div>
+
+- Kuni flinched. “Gin is not blameless in this affair. Her flaw has always been pride. In Faça, she killed Shilué and claimed the Throne of Faça and Rima as a test of my trust. Despite Jia’s obvious enmity for the enfeoffed nobles, Gin never made an effort to placate her, preferring to again and again flaunt her status and past contributions. I have already done all I can for her—Dafiro—” He shook his head, unwilling to go on.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: enfeoff: enfeoffed
+
+    en: enmity: enmity
+
+    </div>
+
+- Kuni’s face shifted through a series of expressions like a roiling sea before finally settling down to an impassive mask. “You think that because I feel sorry that I left her, alone, at the mercy of the Hegemon for years, I’m now putting the throne and the future of Dara at risk to assuage my conscience?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: assuage: assuage
+
+    en: roil: roilling
+
+    </div>
+
+- “If you won’t believe the words of pirates—who are, after all, men of Dara—why would you assume that the intention of the strangers is friendly?” countered an exasperated Ra Olu.
+
+    “Because the pirates have proven themselves to be lawless criminals motivated only by greed, but we know nothing of these strangers. As Kon Fiji said, ‘Embrace the stranger who comes over the sea, and the stranger will embrace you.’ ”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: exasperate: exasperated
+
+    en: intention: intention
+
+    </div>
+
+- Behind the phalanxes, hundreds of expensive carriages were parked helter-skelter on top of the hill. Temporary shelters and viewing platforms constructed from bamboo and silk stood in the blank spaces between the carriages. Many of the noble and wealthy families of Daye had come out to witness this historic sight: Prince Timu’s representative was about to make contact with immortals from beyond the sea.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: helter-skelter: helter-skelter
+
+    en: palanx: phalanxes
+
+    </div>
+
+- _The immortals certainly have an odd sense of architecture_, thought Ruthi. He had always imagined the immortals as ethereal beings who built with gossamer web and silky clouds, with flower petals and dewy leaves. He had imagined them as sophisticated poets and philosophers who communed with the gods and transcended all material needs. The reliance on bones and skin here, on the deaths of animals, seemed rather jarring.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ethereal: ethereal
+
+    en: transcend: transcended
+
+    </div>
+
+- After leaving the gifts on the ground, Ruthi’s guards stepped back. The tall barbarian, while keeping his eyes on Ruthi, gestured for a few of his retinue to approach the pile of gifts. They poked at the pork and fish, tried some, and then excitedly shouted for more of their companions to join them. They ate ravenously, pushing and shoving each other to get at the food, and soon the pork and fish were gone. The silk was carried back into the camp by two greasy-fingered men. The scroll, on the other hand, was examined and then carelessly dropped.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ravenous: ravenously
+
+    </div>
+
+- Pékyutenryo continued to pick out objects from one pile—a sword, a gauntlet, a helmet, a shield, a bow—and find counterparts from the other pile, scrutinizing and comparing them. From time to time he called for a few of his nobles to approach, and the small group would confer and examine the weapon or armor, arguing or agreeing with each other loudly.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: scrutinize: scrutinizing
+
+    en: counterpart: counterparts
+
+    </div>
+
 - 
