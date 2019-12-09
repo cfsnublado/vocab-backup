@@ -1101,4 +1101,583 @@ Soto took a deep breath. “I’ll always be loyal to you, Jia. But I have affec
 
     </div>
 
-- 
+- Kuni flinched. “Gin is not blameless in this affair. Her flaw has always been pride. In Faça, she killed Shilué and claimed the Throne of Faça and Rima as a test of my trust. Despite Jia’s obvious enmity for the enfeoffed nobles, Gin never made an effort to placate her, preferring to again and again flaunt her status and past contributions. I have already done all I can for her—Dafiro—” He shook his head, unwilling to go on.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: enfeoff: enfeoffed
+
+    en: enmity: enmity
+
+    </div>
+
+- Kuni’s face shifted through a series of expressions like a roiling sea before finally settling down to an impassive mask. “You think that because I feel sorry that I left her, alone, at the mercy of the Hegemon for years, I’m now putting the throne and the future of Dara at risk to assuage my conscience?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: assuage: assuage
+
+    </div>
+
+- “If you won’t believe the words of pirates—who are, after all, men of Dara—why would you assume that the intention of the strangers is friendly?” countered an exasperated Ra Olu.
+
+    “Because the pirates have proven themselves to be lawless criminals motivated only by greed, but we know nothing of these strangers. As Kon Fiji said, ‘Embrace the stranger who comes over the sea, and the stranger will embrace you.’ ”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: exasperate: exasperated
+
+    </div>
+
+- Behind the phalanxes, hundreds of expensive carriages were parked helter-skelter on top of the hill. Temporary shelters and viewing platforms constructed from bamboo and silk stood in the blank spaces between the carriages. Many of the noble and wealthy families of Daye had come out to witness this historic sight: Prince Timu’s representative was about to make contact with immortals from beyond the sea.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: phalanxe: phalanxes
+
+    en: helter-skelter: helter-skelter
+
+    </div>
+
+- _The immortals certainly have an odd sense of architecture_, thought Ruthi. He had always imagined the immortals as ethereal beings who built with gossamer web and silky clouds, with flower petals and dewy leaves. He had imagined them as sophisticated poets and philosophers who communed with the gods and transcended all material needs. The reliance on bones and skin here, on the deaths of animals, seemed rather jarring.
+There was an opening in the fence, a gate of sorts, formed from the giant jaws of a shark. The entire scene exuded a sense of stark strength and discipline, a spare simplicity of functional elegance.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ethereal: ethereal
+
+    </div>
+
+- After leaving the gifts on the ground, Ruthi’s guards stepped back. The tall barbarian, while keeping his eyes on Ruthi, gestured for a few of his retinue to approach the pile of gifts. They poked at the pork and fish, tried some, and then excitedly shouted for more of their companions to join them. They ate ravenously, pushing and shoving each other to get at the food, and soon the pork and fish were gone. The silk was carried back into the camp by two greasy-fingered men. The scroll, on the other hand, was examined and then carelessly dropped.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ravenous: ravenously
+
+    </div>
+
+- Pékyutenryo continued to pick out objects from one pile—a sword, a gauntlet, a helmet, a shield, a bow—and find counterparts from the other pile, scrutinizing and comparing them. From time to time he called for a few of his nobles to approach, and the small group would confer and examine the weapon or armor, arguing or agreeing with each other loudly.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: scrutinize: scrutinizing
+
+    en: counterpart: counterparts
+
+    </div>
+
+- “Nonsense,” said Ruthi. “This is about two minds coming together to communicate. Exercise your atrophied empathy, Captain Jima! Since he’s curious about how we’d respond, wouldn’t it be better to show him the might of Dara’s arms in a sandbox than to have him find out through actual warfare? The emperor has always wanted to minimize the loss of lives.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: atrophy: atrophied
+
+    en: empathy: empathy
+
+    </div>
+
+- Pékyutenryo nodded vigorously and grinned ingratiatingly at the Imperial envoy.
+
+    Zato Ruthi felt elated. He might once have met a humiliating defeat at the hands of Gin Mazoti in the woods of Rima, but here, today, he had managed to intimidate and impress a barbarian king into willing submission to the Emperor of Dara just by drawing pictures in sand!
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ingratiating: ingratiatingly
+
+    </div>
+
+- Pékyutenryo grinned and said something to his nobles, who all laughed. Then Pékyutenryo picked up the bowl of alcoholic yogurt—the “kyoffir”—and handed it to Ruthi. Ruthi drank from it happily. The strong drink was having a positive effect on his mood.
+
+    “Thank you for your information,” said Pékyutenryo. His accent was heavy, but the words were clearly understandable.
+
+    Ruthi looked over the rim of the kyoffir bowl, stunned. Behind him, Jima and the rest of Ruthi’s men leapt up in alarm. But they were too late. Pékyutenryo’s war club had already crushed Ruthi’s skull, and the other Lyucu nobles made short work of the rest of the delegation from Dara.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: delegation: delegation
+
+    en: leap: leapt
+
+    </div>
+
+- The Lyucu warriors who were ducked down at the center of the fire shelters poked up their war clubs in a rhythmic pattern, and the cover of each tent began to undulate like the surface of the sea. Most of the burning tar, carried by the waves, soon sloughed off the tents and fell harmlessly to the ground.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: slough: sloughed
+
+    </div>
+
+- The creatures were unlike anything Ra Olu had ever seen, an impossible amalgamation of features from different species: a barrel-shaped body about the size of three or four elephants—using the airships hovering nearby for scale; a serpentlike tail that trailed in the air; two clawed feet, like those on falcons, extended below the belly; a pair of great leathery wings that spanned 120 feet or more; and a long, slender neck topped with a deerlike, antlered head.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: amalgamation: amalgamation
+
+    </div>
+
+- Only now did Ra Olu understand that the initial Lyucu charge had been but a ruse. It was designed to test the strength of the Imperial forces, to lure them into attacking and demonstrating their tactics while the barbarians held them in place until the aerial beasts could be summoned.
+Ra Olu knew that he had to be decisive; he had only one chance.
+
+    “Charge!” he gave the order.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ruse: ruse
+
+    </div>
+
+- “I saw a man whose eyes turned red as fire after the Lyucu killed his parents, wife, and three children in front of him. He went after the Lyucu with the only weapon he had—a shovel—and they struck him so many times with their clubs that there was nothing but a paste of meat and pulverized bone left in the ground after they were done. . . .”
+
+    “I saw such horrors as the Lyucu entered my village while I hid inside the overturned fishing boat. They killed everyone they thought was too old or sickly or crippled to make good workers, and then made all the mothers strangle their babies so that they would be free to become concubines for the Lyucu warriors. . . .”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: concubine: concubines
+
+    en: pulverize: pulverized
+
+    </div>
+
+- “How could we have drifted so far apart?” muttered Kuni. “And yet, you have forced me into keeping your secret for you. If I reveal the truth about Rin’s suicide and your role in all that has happened, the empire will fall apart at the moment when we can least afford it. Rulers, like gods, cannot be seen as making mistakes, and so you have yoked me to this lie that I cannot repudiate.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: repudiate: repudiate
+
+    </div>
+
+- “Oh, I don’t know everything you’ve been through, but I recognize the symptoms of your malaise. You once scolded me for lamenting my fate when I had advantages others did not, and you told me that if I did not have the life I wanted, perhaps it was because I had not tried to live as myself at all. I throw these accusations in your face today.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: malaise: malaise
+
+    </div>
+
+- “Even though Ra Olu has betrayed your trust by acting as an amanuensis for the barbarian king, his desire to please his new master with florid prose may provide us with useful intelligence. In my experience, Ra Olu and Lady Lon are a vain couple who feel the constant need to boast and strut and cannot suffer humiliation—this may explain the ease with which they betrayed you as well as give us an advantage.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: amanuensis: amanuensis
+
+    </div>
+
+- “We should be ready to attack in no more than two months, while it’s still winter,” said Kuni. “Puma Yemu can wrap up his affairs in Arulugi and lead the vanguard.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: vanguard: vanguard
+
+    </div>
+
+- “Planning an invasion of this scale is not like plotting the downfall of a recalcitrant and foolish noble,” said Gin. “It takes time.”
+
+    Jia’s face flushed, but she kept her voice even. “Timu must be suffering daily as a prisoner. As a mother, surely you must understand how I feel.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: recalcitrant: recalcitrant
+
+    </div>
+
+- The riders on the back of the garinafin, too excited by the sight of the burning, sinking airships, didn’t see this new flying assailant. The garinafin did see, but for it, the tiny winged contraption was like a gnat or mosquito, and it paid the machine no mind. It was only after the flying drum had landed on the back of the garinafin, in the midst of the riders attached to the webbing in various harnesses, that shouts of surprise and alarm arose. A few of the Lyucu riders unstrapped themselves from their harnesses and climbed up the webbing with their bone clubs, ready to finish off this impudent escapee from the burning airships.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: impudent: impudent
+
+    </div>
+
+- In addition, the oarsmen were also hard at work, bracing themselves against the oars to slow the ship down even further. Even so, Lutho’s Luck was plowing ahead through the ocean at a fast clip. Behind it, Proud Kunikin and Stone Turtle tacked zigzag courses and sailed as close to the wind as possible, struggling to keep up. As Lutho’s Luck hesitated at the apex of each swell before dipping down into the trough, it almost seemed about to be lifted out of the sea by whatever was attached at the distant end of the cable.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: apex: apex
+
+    </div>
+
+- “Well, the view was so incredible that I kind of didn’t want to return. The pristine ocean stretched endlessly beneath me like a blue mirror, only marred here and there by atolls like dust motes. Even the horizon itself appeared curved, providing further confirmation for Na Moji’s theory that we live upon a vast globe. And the color of the empyrean! It was a hazy purple through which you could see the twinkling of the stars . . . I imagine that is what the gods and the immortals see.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: pristine: pristine
+
+    en: atoll: atolls
+
+    </div>
+
+- “Only in the ancient sagas of the Ano did I read of such a thing,” said Luan Zya, his voice full of awe. “And I had always dismissed the tale of the journey though the Wall of Storms as an allegorical myth. No matter how much we think we know or have seen, the world is still full of wonders undreamed of by mankind.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: allegorical: allegorical
+
+    </div>
+
+- But at least he had a way to make fire, and that was something. He was immensely cheered: The knowledge he had gained in his travels through Dara was still worth something. Though he was far from home, the sun and the sea still worked as before. A lens still bent light, and fire could be made by harnessing the power of the sun. He could still improve his lot through diligence and ingenuity. Though the gods could not hear his prayers, the universe was knowable.
+
+    The fire eventually went out, but hope had returned to his heart.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: diligence: diligence
+
+    en: ingenuity: ingenuity
+
+    </div>
+
+- Luan woke up in a tent, lying on a bed of furs and covered by another fur. The dim interior of the tent was redolent with the musk of animals, strong but not unpleasant. Light came through a single central opening in the top, which also served as the chimney for the smoke from the cooking fire, over which a pot made of animal skins bubbled.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: redolent: redolent
+
+    </div>
+
+- This was a fresh world of wonders, of new sights and new paths. After being alone for so long on the endless sea, the succor of human contact was too sweet for him not to savor it. The inquisitive and respectful prince and princess awakened the teacher in him, who always craved the stimulation of conversing with fresh, young minds. The joy of exploration and discovery was intoxicating, and he could not resist the lure of testing his mettle against an intricate new puzzle.
+
+    And yet, the ever-cautious Luan could not fully suppress his own nagging doubt. He decided to take precautions.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: succor: succor
+
+    </div>
+
+- “Are you from Dara?” a voice asked. It sounded raspy, hesitant, as though the owner was no longer used to speaking aloud. But the accent was not like that of Cudyu and Vadyu—it was redolent with the harmonies of home. “Have you been sent here by Emperor Mapidéré?”
+
+    Luan took another step forward, his heart pounding with excitement. _Could it be? Were Cudyu and Vadyu wrong about everyone having died?_
+
+    <div markdown="1" class="tagged-entries">
+
+    en: redolent: redolent
+
+    </div>
+
+- For centuries, the Lyucu and the Agon were locked in a stalemate punctuated by occasional, but bloody and indecisive, border skirmishes. However, during the decades immediately before the arrival of the expedition from Dara, the Agon gradually came to dominate both Ukyu and Gondé with an advantage in the number of garinafins. After a series of massacres in which tens of thousands of Lyucu were slaughtered, the Lyucu chieftains rebelled against their king, Pékyu Toluroru, and forced him to acknowledge the suzerainty of the Agon. To show the sincerity of the Lyucu chieftains and Toluroru, the prince of the Lyucu, Tenryo Roatan, was given to the Agon as a hostage.
+
+    “The Agon would come to regret this decision,” said Oga. “Had the boy not been raised as a hostage among them, you and I would also not be conversing today in this underground prison.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: suzerainty: suzerainty
+
+    </div>
+
+- Toluroru’s surprise rebellion against the Agon proceeded well, and soon the Lyucu had recovered most of their ancestral moiety of the scrublands from their erstwhile conquerors. But warfare was an expensive affair and could not be carried out indefinitely in the scrublands, where harsh winter storms and unpredictable summer droughts made survival the first priority and forced the tribes to continuously seek out new pastures as they migrated across the land. The two nations of Lyucu and Agon, each unable to overcome the other, eventually conceded that they had to, once again, coexist peacefully.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: moiety: moiety
+
+    en: erstwhile: erstwhile
+
+    </div>
+
+- The other garinafin riders shuddered and scrambled to obey. They mounted their beasts and took off, diving at the riderless Kidia. The foot soldiers followed their training and formed a protective formation around Tenryo, raising their garinafin-hide shields to defend their lord against a final, desperate assault.
+
+    Kidia died within minutes, her body singed and torn to bloody pieces by a coordinated assault from dozens of garinafins.
+
+    Tenryo gathered all the pilots of the garinafins and the squad leaders of his foot soldiers, and ordered one in five executed as an example of the consequences of not following his orders with alacrity. The families of the executed men and women were made into slaves and distributed to the other pilots and squad leaders.
+
+    “Never question my orders,” he said. “Never.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: alacrity: alacrity
+
+    </div>
+
+- “Do not invoke the name of the All-Father,” said Tenryo. “Do not blame your failure on the All-Father, just as I do not attribute my success to Him. It is only the weak who think that the gods care about the affairs of men; the strong know that they make their own path in this world, and the gods always favor those who triumph.”
+
+    Nobo looked up at him, shocked by these words of sacrilege.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: sacrilege: sacrilege
+
+    </div>
+
+- When my father sent me to you so that my life could guarantee his safety, where was the All-Father? When I spilled the blood of your son to save my life, where was the All-Father? When I committed patricide to seize the reins of power, where was the All-Father? Every winter, hundreds of men and women die because of lack of food or shelter; where are the All-Father and His son, the Merciful Toryoana of Healing Hands? Every summer, families starve as their cattle fail to make it across the parched landscape to the next watering hole; where are the All-Father and His daughter, Aluro of a Thousand Streams? In battle, both your warriors and mine invoke the names of the All-Father and Diasa, His club-maiden, to aid their cause; who do you think they listen to?”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: patricide: patricide
+
+    </div>
+
+- Zomi watched the logograms take shape on the tray, one after another. She saw that the hands were slowing down, growing sluggish. Tears flowed down her face unimpeded; she felt her heart was on the verge of breaking.
+
+    _Weigh the fish, the universe is knowable._
+
+    _A cruben breaches; the remora detaches._
+
+    _Mewling child, cooing parent,_
+
+    _Grand-souled companions, brothers,_
+
+   _Wakeful weakness,_
+
+    _Empathy that encompasses the world._
+
+    _To imagine new machines, to see unknown lands,_
+
+    _To believe the grace of kings belongs to all._
+
+    _Grateful._
+
+    This was a summary of his life, the ultimate call of the wild goose departing the pond.
+
+    The last logogram took shape; the fingers stopped. And with a final, barely audible gasp, Luan Zya died.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: unimpede: unimpeded
+
+    en: audible: audible
+
+    </div>
+
+- Oga Kidosu’s and Luan Zya’s bodies rested in the grand audience hall. After a suitable mourning period, Zomi would take both for burial in their hometowns in Dasu and Haan. Given the state of the war, however, that might take some time.
+
+    _Why didn’t you whisk the body of your protégé away, Turtle-Brother, the way we took the bodies of our favorites away in their moments of apotheosis?_
+
+    <div markdown="1" class="tagged-entries">
+
+    en: apotheosis: apotheosis
+
+    </div>
+
+- Tenryo waved his arm decisively, and the pilot on the back of the garinafin stuck the speaking trumpet into the base of her mount’s neck and shouted into it.
+
+    The beast lowered its head to the ground and closed its mouth.
+
+    “No!” screamed Kuni Garu, and he let go, falling from the ladder.
+
+    The beast snapped its mouth open, and a red glowing tongue of flames emerged from its maw and swept across the crowd before it.
+
+    Time seemed to slow down. As Kuni fell, he watched the tongue flicking across each man, woman, and child, turning each from a person into a pillar of flames. Their screams rose to a horrifying, synchronized crescendo and then abruptly ceased.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: crescendo: crescendo
+
+    en: maw: maw
+
+    </div>
+
+- Mün Çakri gave the order for his men to attack, but they stood rooted to the ground, too shocked to move. The old general, eyes bloodred with fury, rushed straight at Tenryo himself by running through the huddled crowd.
+
+    “Hiyaaaaa!”
+
+    The pékyu chopped his arm through the air. The garinafin snapped its maw shut and snapped it open again, and a new tongue of flames flickered out, instantly incinerating the running figure of Mün Çakri and the men and women and children around him.
+
+    The fiery, dead figure of Mün Çakri continued to run at Pékyu Tenryo, as though the body was being animated by a spirit stronger than life itself. It crashed into the ranks of the Lyucu warriors standing in front of Tenryo, and four or five of the warriors were set afire by the burning body before they could stop him.
+
+    Behind him, another hundred flame pillars replaced a hundred lives.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: incinerate: incinerating
+
+    </div>
+
+- Gin closed her eyes. She thought of the gang leader in her youth who had maimed children while she stood by, helpless. She thought of the men and women of Rui, chained to each other while Pékyu Tenryo calmly ordered their slaughter. Evil existed in this world; it had to be confronted.
+
+    She opened her eyes and raised Na-aroénna. The last light of the sun caught its tip as she led the crowd in a chant. The voices swelled until it seemed the very heavens shook and the first twinkling stars trembled.
+
+    “Fight! Fight! Fight!”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: maim: maimed
+
+    </div>
+
+- Aware of the skepticism directed at her, Théra chose to ignore the climate of mild hostility and threw herself into the work. She labored alongside the other scholars: climbing over the gigantic carcasses with rough cables and sharp hooks, never complaining about the danger; lifting and shifting massive limbs and cutting body parts without showing any sign that such physical labor was beneath her; plunging her arms deep into the blood and fat without concern until her face was spattered with gore and her body steeped in the stench of garinafin viscera. She listened to the talk of the scholars with care, and did not interrupt the discussions with her opinions.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: viscera: viscera
+
+    </div>
+
+- Although the garinafins were clearly mammals, dissection of the two carcasses—both female—revealed partially formed eggs with hard shells, suggesting that they were oviparous.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: oviparous: oviparous
+
+    </div>
+
+- Kyzen shook his head. “It is always possible to come up with some reasonable-sounding explanation after the fact, but much of life is capricious and governed by forces beyond our understanding. The secret to happiness is to plan for the worst but be ready to seize opportunities when they flash briefly like shooting stars in the night sky.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: capricious: capricious
+
+    </div>
+
+- “How—” Dafiro was stunned. Zomi Kidosu had asked everyone to seek out novel ways of making fire, and this definitely qualified. He asked to see the strange bamboo-and-whale-tooth contraption, which he decided to call a fire tube. There was no metal or flint anywhere on either of the pieces, and he realized that since the cylindrical tooth formed a tight seal against the walls of the bamboo tube, as the tooth was slammed down, air would be trapped at the bottom of the bamboo tube and become compressed. Was that how fire started? Simply by compressing air? The very idea seemed like magic.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: contraption: contraption
+
+    </div>
+
+- “The people must eat, and I’ll kill these mindless creatures one by one if that’s what it takes,” said the empress. “Some have mistaken my reticence as weakness. If the gods truly want the House of Dandelion to end, then let them kill me today in this field. I’m not going back.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: reticence: reticence
+
+    </div>
+
+- The Lyucu had been pursuing a policy of deliberately impregnating as many native women as possible, Kuni knew. Almost all of these pregnancies were the result of rape. The terror, violence, and brutality of the policy were designed not only to break the spirit of the native population, but also to affirm the Lyucu claim to this land, to put down roots in it. The women warriors of the Lyucu had generally avoided becoming pregnant to preserve their own fighting readiness, and it was obvious that the Lyucu princess’s bond with Timu had been coerced.
+But Timu’s face flushed at his restrained words.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: coerce: coerced
+
+    </div>
+
+- “Have you learned nothing of what I’ve tried to teach you about the flow of power—”
+
+    “Of course I have! Just as you once seized power in order to wield it more justly, I now submit to power so that I can ameliorate its harsh bite. You and I are not so different after all, Father.”
+
+    “But the Lyucu are wolves, Toto-tika—”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ameliorate: ameliorate
+
+    </div>
+
+- _Therefore, I, Tenryo Roatan, have decided to deliver this ultimatum to Empress Jia. In one month, after making proper sacrifices to the All-Father and the gods of Dara, to wit: Cudyufin-Kana, Nalyufin-Rapa, Aluro-Tututika, Péa-Kiji, Toryoana-Rufizo, Diasa-Fithowéo, and Péten-Lutho-Tazu, I and the might of Lyucu will fall upon the shores of unredeemed Dara to reclaim the throne for the legitimate ruler of Dara, Emperor Thaké, my loyal thane, known in the past as Timu._
+
+    _All those who rally to the flag of Emperor Thaké shall be rewarded and all who adhere to the usurper Jia shall be punished._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: usurper: usurper
+
+    </div>
+
+- When the village families broke open the biscuits on the night of the High-Autumn Festival, they saw to their surprise that in addition to the inked messages on the front of the slips of paper, some of the blank backs of the paper slips were also filled with brown letters. Lady Lon had painstakingly written these messages using an eyebrow brush and fruit juice ink, which remained invisible until the heat of baking caramelized the sugar in the juices.
+
+    Families gathered around these slips of paper to read silently, and then they swallowed the slips.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: painstaking: painstakingly
+
+    </div>
+
+- Chittering, rasping, rustling, rumbling, the locusts devoured everything in their path. They swarmed over the fields—red, green, gold—and drained them of all color and shape save the tan of bare soil and skeletal, bare branches stripped of all leaves. Rice, wheat, sorghum, taro, sugarcane, grass, weed—everything was ground up by millions of mandibles and then disappeared into millions of winged stomachs.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: mandible: mandibles
+
+    en: rasp: rasping
+
+    </div>
+
+- he villagers, once they understood what the pékyu had in mind, howled with rage and despair and rushed at the guards who had come to seize the granaries. But a few more swipes of the flaming breath of the garinafins soon quelled the nascent rebellion. The villagers stood by and watched mutely as the granaries were emptied and the garinafins and long-haired cattle feasted upon the food that was meant to supply the villages over the winter.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: quel: quelled
+
+    en: nascent: nascent
+
+    </div>
+
+- “I pity you, old man,” said Tenryo to the supine figure of Kuni Garu. “It must be hard to see your victories come to naught, to see your accomplishments swept away by the vicissitudes of fate and the inconstancy of the gods.”
+
+    Kuni remained oblivious in his slumber, turning and muttering inaudibly.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: vicissitude: vicissitudes
+
+    </div>
+
+- The greatest weakness of the fermentation-gas-powered airships, of course, was the flammability of their lift gas. If any of the gasbags sprang a leak, even a spark would cause the entire ship to turn into a fiery bubble. There was not much the marshal could do to reduce the risk, however, as any additional armor for the ship would have increased its weight beyond the power of the weak lift gas. She had to rely on the fortunate happenstance that the Lyucu had not adopted the use of archers, especially not with fire arrows.
+
+    For the same reason, the marshal had to eschew equipping the airships with flamethrowers; instead, Mazoti would have to rely on other surprises.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: happenstance: happenstance
+
+    en: eschew: eschew
+
+    </div>
+
+- “Though all life is an experiment, there are moments of purity of purpose that demand no justification. Today, Dara is under threat of a dark storm that has no comparison. There is no long view that can justify enslavement and capitulation. When the only alternative is death and servitude, I believe all of us know what must be the right choice.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: capitulation: capitulation
+
+    </div>
+
+- “What’s wrong?” shouted Tanvanaki. But the riders on the struck garinafins looked confused. Their mounts were no longer obeying their orders, but flapped their wings laboriously and convulsively, panic evident in their dark, pupilless eyes.
+
+    And then, just like that, the five struck garinafins exploded, turning into five burning, bloody clouds—flesh, bone, leather, viscera, gore rained down upon the stunned Lyucu warriors gazing up at this fantastical display.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: viscera: viscera
+
+    en: gore: gore
+
+    </div>
+
+- Lines of crackling silkmotic force crisscrossed the body of the garinafin, catching it inside a web of lightning sparks. The glow from the lines of power was so bright that the soldiers closed their eyes as they hung on, willing the power they wielded to hold and destroy the massive beast in front of them.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: crisscross: crisscrossed
+
+    </div>
+
+- Just like the limbs of the frogs in the laboratories that moved through the water and swam with the power of silkmotic force, the marshal’s lifeless arms began to jerk and move, and, guided by the flexing harnesses, they waved the banner of Dara proudly through the air.
+
+    Again and again, Zomi touched the wires to the jars. The act felt like a violation, a desecration of the body. The smell of burning flesh filled her nostrils. She had to hold back her own nausea and continue, knowing that it was the right thing to do, that the marshal would have understood.
+
+    A breeze dissipated the smoke around the bowsprit, revealing the figure of the flag-wielding Gin Mazoti.
+
+    A lone cry rose from the deck of one of the Dara ships.
+
+    “The marshal is alive!”
+
+    “The pékyu is dead!”
+
+    Several voices joined the first, and then several more, until the wave of voices thundered from one end of the sea to the other.
+
+    Gin Mazoti, Marshal of Dara, was once again commanding the forces of Dara, even as her body began to char and smoke from the powerful currents of silkmotic force.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: desecration: desecration
+
+    </div>
+
+- The questioning voice was mellifluous and gentle, like a cool spring after a march through the desert.
+
+    _You’ve really decided to leave in this form?_
+
+    The replying voice cracked with the weight of age and wisdom, like the back of a turtle shell.
+
+    _I have. It’s not possible to pass through the Wall of Storms as long as I remain an immortal._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: mellifluous: mellifluous
+
+    </div>
