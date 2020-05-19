@@ -565,7 +565,7 @@ Humano la miró con perplejidad, incapaz de responder nada. Miro le pasó a Ouan
 
     <div markdown="1" class="tagged-entries">
 
-    es: chuvinismo: chauvinismo
+    es: chauvinismo: chauvinismo
 
     es: recelo: recelo
 
