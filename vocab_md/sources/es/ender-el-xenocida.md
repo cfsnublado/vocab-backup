@@ -1,6 +1,6 @@
 ---
 source_name: Ender el xenocida
-source_description: Libro 3 de La saga de Ender, Orson Scott Card
+source_description: Libro 3 de _La saga de Ender_, de Orson Scott Card
 source_type: book
 
 ---
