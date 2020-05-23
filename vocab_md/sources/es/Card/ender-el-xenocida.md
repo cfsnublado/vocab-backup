@@ -37,11 +37,11 @@ source_type: book
 
     </div>
 
-- Me tienes para siempre.
+- &mdash;Me tienes para siempre.
 
-    Te perderé esta noche. O mañana. O la semana que viene.
+    &mdash;Te perderé esta noche. O mañana. O la semana que viene.
 
-    Pensemos en la naturaleza del deseo instó Jiang-ging.
+    &mdash;Pensemos en la naturaleza del deseo &mdash;instó Jiang-ging.
 
     Como antes, usaba la filosofía para sacarlo de su amarga melancolía.
 
@@ -75,13 +75,13 @@ source_type: book
 
     </div>
 
-- Muy profundo comentó Jiang-ging.
+- &mdash;Muy profundo &mdash;comentó Jiang-ging.
 
-    Si fuera japonés, cometería seppuku y vertiría mis entrañas en la jarra de tus cenizas.
+    &mdash;Si fuera japonés, cometería seppuku y vertiría mis entrañas en la jarra de tus cenizas.
 
-    Muy sucio y desagradable dijo ella.
+    &mdash;Muy sucio y desagradable &mdash;dijo ella.
 
-    Entonces debería ser un antiguo hindú y quemarme en la pira.
+    &mdash;Entonces debería ser un antiguo hindú y quemarme en la pira.
 
     Pero ella ya estaba cansada de bromas.
 
@@ -127,17 +127,17 @@ source_type: book
 
     </div>
 
-- He contado veintitrés carpas blancas en el arroyo del jardín declaró Qing-jao.
+- &mdash;He contado veintitrés carpas blancas en el arroyo del jardín declaró Qing-jao.
 
-    ¿Tantas? preguntó Jiang-ging.
+    &mdash;¿Tantas? &mdash;preguntó Jiang-ging.
 
-    Creo que se estaban mostrando ante mí para que pudiera contarlas. Ninguna quería quedarse fuera.
+    &mdash;Creo que se estaban mostrando ante mí para que pudiera contarlas. Ninguna quería quedarse fuera.
 
-    Te quiero susurró Jiang-ging.
+    &mdash;Te quiero &mdash;susurró Jiang-ging.
 
     Han Fei-tzu oyó un nuevo sonido en la voz jadeante: un estallido, como burbujas rompiéndose con sus palabras.
 
-    ¿Crees que ver tantas carpas significa que seré una agraciada? preguntó Qing-jao.
+    &mdash;¿Crees que ver tantas carpas significa que seré una agraciada? &mdash;preguntó Qing-jao.
 
     <div markdown="1" class="tagged-entries">
 
@@ -259,11 +259,11 @@ source_type: book
 
     </div>
 
-- Lárgate y déjame transmitir esto.
+- &mdash;Lárgate y déjame transmitir esto.
 
-    Estoy acostumbrado a tener trabajo que hacer en los viajes protestó Jakt. Aquí los ordenadores lo hacen todo, y esta nave nunca cabecea o se zambulle en el mar.
+    &mdash;Estoy acostumbrado a tener trabajo que hacer en los viajes protestó Jakt. Aquí los ordenadores lo hacen todo, y esta nave nunca cabecea o se zambulle en el mar.
 
-    Lee un libro.
+    &mdash;Lee un libro.
 
     <div markdown="1" class="tagged-entries">
 
@@ -471,13 +471,15 @@ source_type: book
 
 - Ella entró en el compartimento. Jakt cerró la puerta y la selló.
 
-    ¿Eso es todo lo que soy para ti? preguntó ella. ¿Bienes raíces?
+    &mdash;¿Eso es todo lo que soy para ti? &mdash;preguntó ella&mdash;. ¿Bienes raíces?
 
-    Un trocito de terreno en el que puedo arar y plantar y cosechar, todo en su estación adecuada extendió la mano hacia Valentine, y ella se echó en sus brazos. Suavemente, deslizó las manos por su espalda, le acarició los hombros. Ella se sentía contenida en su abrazo, nunca confinada.
+    &mdash;Un trocito de terreno en el que puedo arar y plantar y cosechar, todo en su estación adecuada.
 
-    El otoño se acaba comentó ella. Nos acercamos al invierno.
+    Extendió la mano hacia Valentine, y ella se echó en sus brazos. Suavemente, deslizó las manos por su espalda, le acarició los hombros. Ella se sentía contenida en su abrazo, nunca confinada.
 
-    Tiempo de desbrozar, tal vez contestó Jakt. O tal vez ya sea hora de encender el fuego y mantener cálida la vieja cabaña antes de que lleguen las nieves.
+    &mdash;El otoño se acaba &mdash;comentó ella&mdash;. Nos acercamos al invierno.
+
+    &mdash;Tiempo de desbrozar, tal vez &mdash;contestó Jakt&mdash;. O tal vez ya sea hora de encender el fuego y mantener cálida la vieja cabaña antes de que lleguen las nieves.
 
     <div markdown="1" class="tagged-entries">
 
@@ -566,7 +568,7 @@ El cerebro humano, concluyó Miro, era como un ordenador, únicamente puede reci
 
     </div>
 
-- No he venido. Me fui. No venía a encontrarme con esta gente. Me marchaba de allí. Escapaba. Sólo que me engañé a mí mismo. Pensé en marcharme en un viaje de treinta años, que es sólo como les parecerá a ellos. Para mí únicamente ha transcurrido una semana y media. Eso no es tiempo ninguno. Y mi soledad ya se ha acabado. Mi tiempo de estar a solas con Jane, que me escucha como si todavía fuera un ser humano, se ha terminado.»
+- &laquo;No he venido. Me fui. No venía a encontrarme con esta gente. Me marchaba de allí. Escapaba. Sólo que me engañé a mí mismo. Pensé en marcharme en un viaje de treinta años, que es sólo como les parecerá a ellos. Para mí únicamente ha transcurrido una semana y media. Eso no es tiempo ninguno. Y mi soledad ya se ha acabado. Mi tiempo de estar a solas con Jane, que me escucha como si todavía fuera un ser humano, se ha terminado.&raquo;
 
     <div markdown="1" class="tagged-entries">
 
@@ -594,11 +596,11 @@ El cerebro humano, concluyó Miro, era como un ordenador, únicamente puede reci
 
 - Por un momento, le pareció como si recibiera un martillazo en el corazón: ella hablaba sobre su situación con más franqueza que nadie, excepto Andrew. Pero era su hermana, ¿no? Tendría que haber esperado que fuera directa.
 
-    ¿O prefieres que finjamos que no hay una barrera entre los demás y tú?
+    &mdash;¿O prefieres que finjamos que no hay una barrera entre los demás y tú?
 
     Ella había advertido su sorpresa. Pero ya había pasado, y ahora se le ocurrió que no debería estar molesto, sino alegre de que no tuvieran que dar un rodeo ante el tema. Sin embargo, estaba molesto, y tardó un momento en pensar por qué. Entonces lo supo.
 
-    Mi lesión cerebral no es su problema.
+    &mdash;Mi lesión cerebral no es su problema.
 
     <div markdown="1" class="tagged-entries">
 
@@ -614,7 +616,7 @@ El cerebro humano, concluyó Miro, era como un ordenador, únicamente puede reci
 
     </div>
 
-- Si me impide entenderte, entonces es un problema con el que tengo que tratar. No te vuelvas quisquilloso ya conmigo, jovencito. Sólo he empezado a molestarte, y tú sólo has empezado a molestarme a mí. Así que no te enfades porque yo haya mencionado tu lesión cerebral como si fuera de algún modo mi problema. No tengo ninguna intención de sopesar cada palabra que diga por temor a ofender a un joven supersensible que piensa que el mundo entero gira en torno a sus frustraciones.
+- &mdash;Si me impide entenderte, entonces es un problema con el que tengo que tratar. No te vuelvas quisquilloso ya conmigo, jovencito. Sólo he empezado a molestarte, y tú sólo has empezado a molestarme a mí. Así que no te enfades porque yo haya mencionado tu lesión cerebral como si fuera de algún modo mi problema. No tengo ninguna intención de sopesar cada palabra que diga por temor a ofender a un joven supersensible que piensa que el mundo entero gira en torno a sus frustraciones.
 
     <div markdown="1" class="tagged-entries">
 
@@ -643,5 +645,180 @@ El cerebro humano, concluyó Miro, era como un ordenador, únicamente puede reci
     es: escrutar: escrutó
 
     es: retorcido: retorcido
+
+    </div>
+
+- &mdash;Sí, los dos tenemos familia allí. Y a los dos nos preocupa salvar a los pequeninos de la destrucción. Y ambos sabemos que Ender ha devuelto a la vida a la reina colmena en tu mundo, de modo que hay dos especies alienígenas que serán destruidas si el Congreso Estelar se sale con la suya. Hay mucho en juego y yo ya estoy haciendo todo lo posible para detener esa flota. Si pasar unas cuantas horas contigo puede ayudarme a hacerlo mejor, merece la pena robar tiempo a mis escritos para hablar contigo. Pero no tengo ninguna intención de malgastar mi tiempo preocupándome por si voy a ofenderte o no. Así que si vas a ser mi adversario, puedes quedarte sentado aquí solo y yo volveré a mi trabajo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: salir con la suya: sale con la suya
+
+    es: alienígena: alienígenas
+
+    es: escrito: escritos
+
+    es: malgastar: malgastar
+
+    </div>
+
+- Miro la observó. Pero incluso al hacerlo, supo que ella tenía razón: estaba siendo supersensible. La palabra _interferir_, usada en contexto científico, apenas tenía connotaciones. Simplemente significaba que había introducido un cambio en la cultura que estaba estudiando. Y si tenía una connotación negativa, era que había perdido su perspectiva científica: había dejado de estudiar a los pequeninos y había empezado a tratarlos como amigos. Seguramente era culpable de eso. No, no culpable: estaba orgulloso de haber hecho esa transición.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: interferir: interferir
+
+    es: connotación: connotaciones
+
+    </div>
+
+- &mdash;La flota supone el xenocidio.
+
+    &mdash;Eso he dicho en mi propaganda &mdash;apuntó Valentine.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: xenocidio: xenocidio
+
+    es: propaganda: propaganda
+
+    </div>
+
+- Tuvo el efecto deseado: ella interrumpió su conferencia e incluso levantó las cejas, cuestionándolo. El problema era que Miro tenía ahora que explicar lo que había querido decir.
+
+    &mdash;La descolada. Es la forma de vida más peligrosa que existe.
+
+    &mdash;La respuesta a eso es cuarentena. No enviar una flota armada con el Pequeño Doctor y la capacidad de convertir a Lusitania y todos sus habitantes en polvo estelar microscópico.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: cuestionar: cuestionándolo
+
+    es: polvo: polvo
+
+    es: cuarentena: cuarentena
+
+    </div>
+
+- &mdash;La descolada se adapta &mdash;dijo Miro&mdash;. Jane me contó que ya ha cambiado un par de veces. Mi madre y mi hermana Ela están trabajando en el tema, intentando adelantarse a la descolada. A veces parece que la descolada lo hace deliberadamente. Con inteligencia. Busca estrategias para sortear los productos químicos que usamos para contenerla e impedir que mate a la gente. Se está metiendo en las cosechas terrestres que los humanos necesitan para sobrevivir. Ahora hay que fumigarlas. ¿Encontrará la descolada una forma de vencer esas barreras?
+
+    Valentine guardó silencio. Ahora no hubo ninguna respuesta lenguaraz. No se había enfrentado a esta cuestión antes. Nadie lo había hecho, excepto Miro.
+
+    &mdash;No le he dicho esto ni siquiera a Jane &mdash;suspiró Miro&mdash;. Pero ¿y si la flota tiene razón? ¿Y si la única forma de salvar a la humanidad de la descolada es destruir Lusitania ahora?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: adelantarse: adelantarse
+
+    es: sortear: sortear
+
+    es: cosecha: cosechas
+
+    es: sobrevivir: sobrevivir
+
+    es: vencer: vencer
+
+    es: lenguaraz: lenguaraz
+
+    es: salvar: salvar
+
+    </div>
+
+- &mdash;¿Cómo podrían matar a todo el virus de la descolada? Es una parte integral del ciclo de vida de los pequeninos. Cuando la forma-cuerpo del pequenino muere, es el virus de la descolada lo que permite la transformación en el estado-árbol, lo que los cerdis llaman la tercera vida…, y es sólo en la tercera vida, siendo árboles, como los pequeninos machos pueden fecundar a las hembras. Si el virus desaparece, será imposible el paso a la tercera vida, y esta generación de cerdis será la última.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: fecundar: fecundar
+
+    es: integral: integral
+
+    es: virus: virus
+
+    </div>
+
+- &mdash;Los pequeninos no son varelse. Tampoco la reina colmena.
+Pero la descolada lo es. Varelse. Una forma de vida alienígena que es capaz de destruir a toda la humanidad.
+
+    &mdash;A menos que podamos domarla…
+
+    &mdash;… y con la que no podemos comunicarnos, una especie alienígena con la que no podemos convivir. Usted dijo que en ese caso la guerra es inevitable. Si una especie alienígena parece decidida a destruirnos y no podemos comunicarnos con ella, si no podemos comprenderla, si no hay ninguna posibilidad de desviarlos pacíficamente de su rumbo, entonces estamos justificados en cualquier acción necesaria para salvarnos a nosotros mismos, incluyendo la destrucción completa de la otra especie.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: alienígena: alienígena
+
+    es: convivir: convivir
+
+    es: domar: domarla
+
+    es: rumbo: rumbo
+
+    es: salvar: salvarnos
+
+    </div>
+
+- &mdash;¿Cuándo se ha convertido esta conversación en una discusión acerca de mí?
+
+    &mdash;Has pensado en todo esto, has visto todas las posibilidades para el futuro, buenas y malas por igual, y sin embargo el único futuro en que estás dispuesto a creer, el único futuro imaginado que tomas como base para todas tus consideraciones morales, es el futuro en el cual todo el mundo que tú y yo hemos amado y todo lo que hemos anhelado debe ser aniquilado.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: aniquilar: aniquilado
+
+    es: discusión: discusión
+
+    </div>
+
+- &mdash;Sí, mi marido y yo nos trasladaremos aquí y viviremos en tu nave.
+
+    Se levantó de su asiento y se dirigió al corredor que conducía al tubo de tránsito.
+
+    &mdash;¿Por qué ha decidido eso?
+
+    &mdash;Porque nuestra nave está demasiado abarrotada. Y porque decididamente merece la pena hablar contigo. Y no sólo para conseguir material para los ensayos que tengo que escribir.
+
+    &mdash;Oh, entonces, ¿he aprobado su examen?
+
+    &mdash;Sí &mdash;respondió ella&mdash;. ¿He aprobado el tuyo?
+
+    &mdash;No la estaba examinando.
+
+    &mdash;Y un cuerno. Pero, por si no te has dado cuenta, te lo diré: he aprobado. De lo contrario no me habrías dicho todas las cosas que dijiste.
+
+    Se marchó. Miro pudo oírla pasillo abajo, y luego el ordenador informó que estaba atravesando el tubo entre las naves.
+
+    Ya la echaba de menos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: echar de menos: echaba de menos
+
+    es: aprobar: he aprobado
+
+    es: trasladarse: nos trasladaremos
+
+    es: dirigirse: se dirigió
+
+    es: abarrotado: abarrotada
+
+    </div>
+
+- Porque tenía razón. Había aprobado su examen. Le había escuchado como no lo había hecho nadie, sin impaciencia, sin terminar sus frases, sin dejar que su mirada se apartara de su rostro. Él le había hablado no con cuidadosa precisión, sino con enorme emoción. Gran parte del tiempo sus palabras debieron parecer casi ininteligibles. Sin embargo, ella le había escuchado con tanta atención que comprendió todos sus argumentos y ni una sola vez le pidió que repitiera algo. Podía hablar con esta mujer con tanta naturalidad como hablaba con cualquier persona antes de su lesión cerebral. Sí, ella era porfiada, cabezota, mandona y rápida para sacar conclusiones. Pero también podía escuchar una visión opuesta, cambiar de opinión cuando era necesario. Sabía escuchar, y por eso él podía hablar.
+
+    Tal vez con ella podría seguir siendo Miro.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ininteligible: ininteligibles
+
+    es: repetir: repitiera
+
+    es: aprobar: había aprobado
+
+    es: apartar: apartara
+
+    es: lesión: lesión
+
+    es: porfiado: porfiada
 
     </div>
