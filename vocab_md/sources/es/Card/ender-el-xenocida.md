@@ -87,7 +87,7 @@ source_type: book
 
     <div markdown="1" class="tagged-entries">
 
-    es: seppuki: seppuku
+    es: seppuku: seppuku
 
     es: verter: vertería
 
@@ -820,5 +820,574 @@ Pero la descolada lo es. Varelse. Una forma de vida alienígena que es capaz de 
     es: lesión: lesión
 
     es: porfiado: porfiada
+
+    </div>
+
+- Las primeras veces, un simple lavado bastaba, y entonces se sentía mejor durante días. Pero a medida que transcurría el tiempo, la sensación de suciedad regresaba cada vez más pronto, y hacía falta frotar más para eliminarla, hasta que tuvo que lavarse varias veces al día, usando un cepillo de cerdas duras para frotarse las manos hasta que sangraban. Sólo cuando el dolor era insoportable se sentía limpia, aunque apenas durante unas horas cada vez.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: lavado: lavado
+
+    es: transurrir: transcurría
+
+    es: suciedad: suciedad
+
+    es: frotar: frotarse
+
+    es: sangrar: sangraban
+
+    es: apenas: apenas
+
+- Los dioses conspiraron con ella en secreto. Le permitieron restringir sus salvajes frotes a las palmas de sus manos. Esto significaba que, cuando sus manos estaban malheridas, podía cerrar los puños o metérselas en los pliegues de la falda al andar, o colocarlas mansamente sobre el regazo cuando se sentaba, y nadie las advertía. Sólo veían a una niñita muy bien educada.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: advertir: advertía
+
+    es: conspirar: conspiraron
+
+    es: restringir: restringir
+
+    es: malherido: malheridas
+
+    es: meter: metérselas
+
+    es: pliegue: pliegues
+
+    es: regazo: regazo
+
+    </div>
+
+- Si su madre hubiera vivido, el secreto de Qing-jao se habría descubierto mucho antes. En su situación, transcurrieron meses antes de que un sirviente se diera cuenta. La gorda Mu-pao descubrió una mancha de sangre en el pequeño mantel de la mesa donde Qing-jao tomaba el desayuno. Mu-pao supo de inmediato lo que significaba aquello: ¿no eran las manos ensangrentadas un primer signo de la atención de los dioses? Por eso muchos padres ambiciosos forzaban a un niño particularmente prometedor a lavarse continuamente. Por todo el mundo de Sendero, lavarse las manos ostentosamente se llamaba «invitar a los dioses».
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ensangretado: ensangretadas
+
+    es: transcurrir: transcurrieron
+
+    es: ostentosamente: ostentosamente
+
+    </div>
+
+- Pero la prueba no estaba relacionada con la muerte, o al menos se suponía que no era así. En realidad, era bastante simple. Su padre la condujo a una gran sala donde había arrodillados tres hombres ancianos. Al menos eso parecían: podrían haber sido mujeres. Eran tan viejos que todos los rasgos distintivos habían desaparecido. Sólo tenían diminutas hebras de pelo blanco y nada de barba, e iban vestidos con ropas informes. Más tarde, Qing-jao sabría que eran simples eunucos, supervivientes de los viejos tiempos antes de que el Congreso Estelar interviniera y prohibiera incluso la automutilación voluntaria en servicio a una religión. Ahora, sin embargo, eran misteriosas criaturas espectralmente viejas que la tocaban con sus manos, explorando sus ropas.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: eunuco: eunucos
+
+    es: rasgo: rasgos
+
+    es: prohibir: prohibiera
+
+    es: espectralmente: espectralmente
+
+    es: parecer: parecían
+
+    </div>
+
+- ¿Qué buscaban? Encontraron sus palillos de ébano y los retiraron. Le quitaron el cinturón. Le quitaron las zapatillas. Más tarde, se enteraría de que se quedaron con esas cosas porque otros niños se habían dejado llevar tanto por la desesperación durante la prueba que se habían matado con ellas. Una se había metido los palillos por la nariz y se había arrojado al suelo, para clavárselos en el cerebro. Otra se ahorcó con su cinturón. Otra se introdujo las zapatillas en la boca, hasta la garganta, y se asfixió. Era raro que los intentos de suicidio tuvieran éxito, pero parecían suceder con los niños más brillantes, y eran más comunes con las niñas. Así que le quitaron a Qing-jao todos los medios conocidos para suicidarse.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: clavar: clavárselos
+
+    es: ahorcar: se ahorcó
+
+    es: parecer: parecían
+
+    es: asfixiar: asfixió
+
+    es: suicidio: suicidio
+
+    es: arrojar: se había arrojado
+
+    es: meter: se había metido
+
+    es: suicidarse: suicidarse
+
+    </div>
+
+- El problema de llorar era que no servía de nada. Cuanto más lloraba, más sucia se sentía. La desesperada necesidad de estar limpia abrumó incluso su llanto. Así, con las lágrimas surcándole la cara, empezó a buscar desesperadamente una forma de quitarse la grasa de las manos. Una vez más lo intentó con la seda de la túnica, pero poco después frotó las manos contra las paredes, mientras recorría la habitación, manchándolas de grasa. Frotó las manos contra la pared tan rápidamente que acumuló calor y la grasa se fundió. Lo hizo una y otra vez hasta que las manos se le enrojecieron, hasta que parte de la blanda costra de sus palmas se gastó o fue arrancada por invisibles irregularidades en las paredes de madera.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: surcar: surcándole
+
+    es: frotar: frotó
+
+    es: recorrer: recorría
+
+    es: fundirse: se fundió
+
+    es: enrojecer: enrojecieron
+
+    es: abrumar: abrumó
+
+    </div>
+
+- Finalmente, exhausta, cayó al suelo y lloró por el dolor que sentía en las manos, por la imposibilidad de limpiarse. Tenía los ojos anegados en llanto. Las lágrimas le corrían por las mejillas. Se frotó los ojos, las mejillas, y sintió cuánto ensuciaban las lágrimas su piel, lo asquerosa que estaba. Supo que seguramente significaba esto: los dioses la habían juzgado y la habían encontrado sucia. No merecía vivir. Si no podía limpiarse, tenía que anularse. Eso los satisfaría. Eso acabaría con la agonía. Sólo tenía que encontrar un modo de morir. Dejar de respirar. Su padre lamentaría no haber acudido cuando lo llamaba, pero ella no podía evitarlo. Ahora estaba bajo el poder de los dioses, y ellos la habían juzgado indigna para figurar entre los vivos. Después de todo, ¿qué derecho tenía a respirar cuando la puerta de los labios de su madre había dejado de permitir el paso y la salida del aire durante tantos años?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: satisfacer: satisfaŕía
+
+    es: agonía: agonía
+
+    es: caer: cayó
+
+    es: acudir: háber acudido
+
+    </div>
+
+- Otra vez se golpeó la cabeza contra la pared. Sin embargo, ahora no hubo tanto dolor. Una y otra vez, pero ahora advirtió que contra su voluntad su cuerpo retrocedía ante el golpe, rehusando causarse mucho daño. Esto la ayudó a comprender por qué los dioses la encontraban tan indigna: era demasiado débil para lograr que su cuerpo obedeciera. Bien, no estaba indefensa. Podía engañar a su cuerpo hasta someterlo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: someter: someterlo
+
+    es: indefenso: indefensa
+
+    es: engañar: engañar
+
+    es: advertir: advirtió
+
+    es: retroceder: retrocedía
+
+    </div>
+
+- Durante un instante, al tocar la espada, pensó en intentar cortarse la garganta con ella. Eso detendría su respiración, ¿no? Pero la hoja era falsa. No estaba afilada, y no podría introducírsela en el cuello en el ángulo adecuado. Así que volvió al plan original. Inspiró profundamente varias veces, luego entrecruzó las manos a la espalda y se inclinó hacia delante. Aterrizaría de cabeza. Eso acabaría con su suciedad.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: afilado: afilada
+
+    es: inspirar: inspiró
+
+    es: entrecruzar: entrecruzó
+
+    es: aterrizar: aterrizaría
+
+    </div>
+
+- La luna que llenaba la habitación oeste le dijo que el destinatario de este poema se trataba realmente de un dios, no de un amante común: las referencias al oeste siempre significaban que los dioses estaban implicados. Li Qing-jao había respondido a la plegaria de la pequeña Han Qing-jao y le había enviado este poema para decirle cómo curar el dolor que no podía desaparecer, la suciedad de su carne.
+
+    «¿Qué es la nota de amor? pensó Qing-jao. Líneas de gansos que regresan…, pero no hay gansos en esta habitación. Pétalos danzando sobre un ondulante arroyo…, pero aquí no hay pétalos, ni arroyo alguno. Sin embargo, cuando mi mirada baja, mi corazón se alza.» Ésta era la clave, ésta era la respuesta, lo sabía. Lenta, cuidadosamente, Qing-jao giró sobre su vientre. Una vez, cuando intentó apoyar su peso en la mano izquierda, el codo cedió y un dolor intensísimo casi le hizo perder de nuevo el sentido. Por fin se arrodilló, la cabeza gacha, apoyándose en la mano derecha. Mirar hacia abajo. El poema prometía que esto permitiría que su corazón se alzara.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: destinatario: destinatario
+
+    es: suciedad: suciedad
+
+    es: gacho: gacha
+
+    es: ondulante: ondulante
+
+    es: arroyo: arroyo
+
+    es: ceder: cedió
+
+    </div>
+
+- Más tarde se enteró de que su padre tuvo que ser atado y amordazado durante la prueba, que cuando subió a la estatua e hizo ademán de apretar su garganta contra la espada se abalanzó hacia delante con tanta fuerza que su silla cayó y se golpeó la cabeza contra el suelo. Esto se consideró una gran merced, pues no vio su terrible caída desde la estatua. Lloró por ella todo el tiempo que permaneció inconsciente. Y luego, cuando se arrodilló y empezó a seguir las vetas de la madera del suelo, fue quien comprendió lo que significaba.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: enterarse: se enteró
+
+    es: hacer ademán: hizo ademán
+
+    es: caer: cayó
+
+    es: abalanzarse: se abalanzó
+
+    es: amordazado: amordazado
+
+    </div>
+
+- «Puede que sea el más grande de los agraciados, pero ama a su hija más que a la vida», se decía de él. Esto hizo que lo amaran tanto como ya lo reverenciaban.
+
+    Entonces la gente empezó a rumorear acerca de la posible cualidad de dios de Han Fei-tzu.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: reverenciar: reverenciaban
+
+    es: rumorear: rumorear
+
+    es: agraciado: agraciados
+
+    </div>
+
+- Estos rumores llegaron muchas veces a oídos de Qing-jao a medida que iba creciendo, y el conocimiento de que su padre bien podría ser elegido dios de Sendero se convirtió en uno de los faros de su vida. Pero en ese momento, y eternamente en su memoria, recordó que sus manos fueron las que llevaron su cuerpo magullado y retorcido al lecho sanador, sus ojos los que derramaron cálidas lágrimas sobre su fría piel, su voz la que susurró en los hermosos tonos apasionados del viejo lenguaje:
+
+    &mdash;Querida mía, mi Gloriosamente Brillante, nunca apartes tu luz de mi vida. Pase lo que pase, nunca te causes daño a ti misma o seguro que moriré.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: magullado: magullado
+
+    es: faro: faros
+
+    </div>
+
+- Resultó que no sólo Valentine y Jakt pasaron a la nave de Miro. También se trasladó Plikt, sin invitación, y se instaló en un miserable cubículo donde no había espacio suficiente para estirarse por completo. Ella era la anomalía del viaje: no era un miembro de la familia, ni de la tripulación, sino una amiga. Plikt fue estudiante de Ender cuando éste estuvo en Trondheim como Portavoz de los Muertos. Por su cuenta llegó a la conclusión de que Andrew Wiggin era el Portavoz de los Muertos y también el Exterminador Wiggin…
+
+    <div markdown="1" class="tagged-entries">
+
+    es: anomalía: anomalía
+
+    es: tripulación: tripulación
+
+    </div>
+
+- Sin embargo, a Valentine no le importaba la pérdida de intimidad. Había frenado su trabajo en los ensayos subversivos; sentía que era más importante llegar a conocer a Miro y, a través de él, a Lusitania. A la gente de allí, a los pequeninos y, sobre todo, a la familia de Miro, pues Ender se había casado con Novinha, la madre de Miro. Valentine se fiaba mucho de ese tipo de información, por supuesto: no habría sido historiadora y biógrafa durante tantos años sin aprender a extrapolar muchos datos a partir de fragmentos dispersos de evidencias.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: extrapolar: extrapolar
+
+    es: fiarse: se fiaba
+
+    es: ensayo: ensayos
+
+    es: subversivo: subversivos
+
+    es: casarse: se había casado
+
+    </div>
+
+- &mdash;La mayoría de la gente no piensa en eso, no seriamente, como tú has hecho &mdash;dijo.
+
+    &mdash;El hecho de que lo haya pensado no significa que sepa nada &mdash;replicó Miro.
+
+    Ella estaba ya acostumbrada a su voz, aunque a veces su habla era enloquecedoramente lenta. En ocasiones necesitaba un auténtico esfuerzo de voluntad para no mostrar ningún signo de falta de atención.
+
+    &mdash;La naturaleza del universo dijo Jakt.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: enloquecedoramente: enloquecedoramente
+
+    es: habla: habla
+
+    </div>
+
+- Miro estuvo a punto de responder, pero su frustración aumentó, al parecer ante la idea de tener que pronunciar un largo discurso con su boca torpe y renuente. Su mandíbula funcionaba, sus labios se movieron levemente. Entonces dijo en voz alta:
+
+    &mdash;No puedo hacerlo.
+
+    &mdash;Escucharemos &mdash;dijo Valentine.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: renuente: renuente
+
+    </div>
+
+- Comprendía su resistencia a intentar un discurso extenso con las limitaciones de su habla, pero también sabía que tenía que hacerlo de todas formas.
+No se obstinó Miro.
+
+    Valentine habría intentado seguir persuadiéndolo, pero vio que sus labios seguían moviéndose, aunque no producían más que leves sonidos. ¿Estaba murmurando? ¿Maldiciendo?
+
+    No, supo que no era eso.
+
+    Tardó un instante en comprender por qué estaba tan segura. Era porque había visto a Ender hacer exactamente lo mismo, mover los labios y la mandíbula, cuando dirigía órdenes subvocalizadas al terminal del ordenador insertado en la joya que llevaba en el oído. Naturalmente: Miro tenía el mismo enlace que Ender, así que le hablaba igual que él.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: obstinarse: se obstinó
+
+    es: mandíbula: mandíbula
+
+    es: joya: joya
+
+    es: enlace: enlace
+
+    es: saber: supo
+
+    es: murmurar: murmurando
+
+    </div>
+
+- En un momento, quedó claro qué orden había dado Miro a su joya. Ésta debía de estar conectada al ordenador de la nave, porque inmediatamente después una de las pantallas se despejó y luego mostró el rostro de Miro. Pero no tenía el abotargamiento que lastraba su cara en persona. Valentine se dio cuenta: se trataba de la cara de Miro tal como era antes. Y cuando la imagen de ordenador habló, el sonido procedente de los altavoces lo hizo con lo que seguramente era la voz de Miro tal como solía ser: clara, fuerte, inteligente, rápida.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: abotargamiento: abotargamiento
+
+    es: lastrar: lastraba
+
+    es: altavoz: altavoces
+
+    es: soler: solía
+
+    es: despejarse: se despejó
+
+    </div>
+
+- Valentine intentó imaginar a Miro experimentando hasta que el programa del ordenador captara su rostro y su voz con exactitud. Lo feliz que debió de ser al recrearse tal como era antes. Y también qué desgraciado al ver lo que podría haber sido y saber que nunca sería real.
+
+    &mdash;Qué buena idea &mdash;exclamó Valentine&mdash;. Como una prótesis de la personalidad.
+
+    Miro se echó a reír, un único «¡Ja!».
+
+    <div markdown="1" class="tagged-entries">
+
+    es: desgraciado: desgraciado
+
+    es: prótesis: prótesis
+
+    </div>
+
+- &mdash;Sí, sí &mdash;se impacientó Miro. Esta vez, sin embargo, habló con su propia boca&mdash;. Pero no es ahí donde quiero llegar. Quiero hablarles acerca de la vida.
+
+    La voz computadorizada (la voz del brillante joven) tomó el relevo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: relevo: relevo
+
+    es: impacientarse: se impacientó
+
+    </div>
+
+- &mdash;He estado pensando en la capacidad de resistencia del enlace. Cuando una estructura enlazada se quiebra, como cuando se rompe una molécula, el viejo enlace filótico permanece durante un tiempo. Fragmentos que ya no están físicamente unidos continúan conectados fllóticamente. Y cuanto más pequeña es la partícula, más dura es esa conexión después de haberse roto la estructura original, y más lentamente cambian los fragmentos para establecer nuevos enlaces.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: enlace: enlace, enlaces
+
+    es: partícula: partícula
+
+    es: quebrarse: se quiebra
+
+    </div>
+
+- &mdash;Es una jerarquía &mdash;respondió la imagen&mdash;. Cuanto más compleja es la estructura, más rápida es la respuesta al cambio. Parece como si cuanto más pequeña fuera la partícula, fuese más estúpida, o más lenta en comprender el hecho de que ahora forma parte de una estructura diferente.
+
+    &mdash;Ahora estás antropomorfizando &mdash;advirtió Valentine.
+
+    &mdash;Tal vez &mdash;convino Miro&mdash;. Tal vez no.
+
+    &mdash;Los seres humanos son organismos &mdash;continuó la imagen&mdash;. Pero los enlaces filóticos humanos van más allá que los de ninguna otra forma de vida.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: enlace: enlaces
+
+    es: jerarquía: jerarquía
+
+    es: partícula: partícula
+
+    es: antropomorfizar: antropomorfizando
+
+    es: advertir: advirtió
+
+    </div>
+
+- &mdash;La vida es la vida &mdash;repitió el programa de ordenador&mdash;. La vida es cuando un solo filote tiene la fuerza de voluntad para unirse a las moléculas de una sola célula, para entrelazar sus rayos en uno. Un filote más fuerte puede unir muchas células en un solo organismo. Los más fuertes de todos son los seres inteligentes. Podemos conferir nuestras conexiones filóticas a donde queramos. La base filótica de la vida inteligente es aún más clara en las otras especies conscientes conocidas. Cuando un pequenino muere y pasa a la tercera vida, es la fuerte voluntad de su filote lo que conserva su identidad y la pasa del cadáver mamaloide al árbol viviente.
+
+    &mdash;Reencarnación &mdash;dijo Jakt&mdash;. El filote es el alma.
+
+    &mdash;Sucede con los cerdis, al menos &mdash;declaró Miro.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: mamaloide: mamaloide
+    
+    es: conferir: conferir
+
+    </div>
+
+- Miro, por supuesto, era ajeno al hecho de que Jakt y Valentine hubieran declarado ya una tregua. Sólo era consciente de la tensión que reinaba entre ellos, y creía ser la causa.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: tregua: tregua
+
+    es: reinar: reinaba
+
+    </div>
+
+- No. Si lo que ella acababa de sugerir era cierto, entonces Jane era más que un programa. Era un ser que habitaba en la telaraña de rayos filóticos, que almacenaba sus recuerdos en los ordenadores de cada mundo. Si ella tenía razón, entonces la telaraña filótica, la red de rayos filóticos entrecruzados que conectaba los ansibles de cada mundo, era su cuerpo, su sustancia. Y los enlaces filóticos continuaban trabajando sin romperse nunca porque ella lo deseaba así.
+
+    &mdash;Así que ahora le pregunto a la gran Demóstenes &mdash;dijo Jane&mdash;: ¿Soy raman o varelse? ¿Estoy viva? Necesito tu respuesta, porque creo que puedo detener a la Flota Lusitania. Pero antes, tengo que saberlo: ¿es una causa por la que merezca la pena morir?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: telaraña: telaraña
+
+    es: almacenar: almacenaba
+
+    es: enlace: enlaces
+
+    es: saber: saberlo
+
+    es: merecer: merezca
+
+    </div>
+
+- &mdash;¡Es fácil hablar de su muerte! ¿Qué es Jane para usted? Un programa, una pieza de software. Pero no lo es, ella es real, tan real como la reina colmena, tan real como cualquiera de los cerdis…
+
+    &mdash;Más real para ti, creo &mdash;dijo Valentine.
+
+    &mdash;Igual de real &mdash;contestó Miro&mdash;. Se olvida de que conozco a los cerdis como si fueran mis propios hermanos…
+
+    &mdash;Pero estás dispuesto a contemplar la filosofía de que destruirlos puede ser moralmente necesario.
+
+    &mdash;No tergiverse mis palabras.
+
+    &mdash;Las estoy liberando. Puedes contemplar la idea de perderlos, porque ya los has perdido. Sin embargo, perder a Jane…
+
+    <div markdown="1" class="tagged-entries">
+
+    es: cualquiera: cualquiera
+
+    es: tergiversar: tergiverse
+
+    es: liberar: liberando
+
+    </div>
+
+- Nadie se sorprendió, excepto la propia Qing-jao, de que aprendiera todos estos lenguajes con mucha más facilidad, más rápidamente y más a fondo que cualquiera de sus compañeros.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: cualquiera: cualquiera
+
+    </div>
+
+- Entonces, cuando estaba sola, podía abrir esa caja y dejar salir el fuego, no con una erupción única y terrible, sino lenta, gradualmente, llenándose de luz mientras inclinaba la cabeza y seguía las líneas del suelo, o se inclinaba sobre la palangana sagrada de sus santos lavados y se frotaba tranquila y metódicamente las manos con piedra pómez, lejía y aloe.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: metódicamente: metódicamente
+
+    es: frotar: frotaba
+
+    </div>
+
+- &mdash;A los científicos, advirtió que el principio de investigación independiente estaba en juego: todo un mundo estaba bajo ataque militar porque se atrevía a preferir el juicio de los científicos del lugar al de los burócratas situados a muchos años luz de distancia. Demóstenes también advirtió a todo el mundo que la Flota Lusitania llevaba el Ingenio de Desintegración Molecular. Por supuesto, eso es obviamente una mentira, pero algunos lo creyeron.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: preferir: preferir
+
+    es: advertir: advirtió
+
+    es: atreverse: se atrevía
+
+    </div>
+
+- Qing-jao permaneció en silencio, aturdida. Nunca había oído a su padre hablar en aparente defensa de ningún aspecto de la guerra: la repudiaba en cualquier forma.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: repudiar: repudiaba
+
+    </div>
+
+- &mdash;Sí &mdash;convino Han Fei-tzu&mdash;. Puedes leer el libro y conseguir de él gran sabiduría, porque es verdad. Pero ¿es el libro una representación adecuada de los propios pequeninos? Resulta difícil creerlo…, una especie mamaloide que se convierte en árbol al morir. Es hermoso como poesía. Ridículo como ciencia.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: mamaloide: mamaloide
+
+    es: sabiduría: sabiduría
+
+    </div>
+
+- &mdash;En la historia. Pero ignoramos si son raman o varelse. La flota lleva al Pequeño Doctor porque podría ser necesario para salvar a la humanidad de un peligro inenarrable. No es cosa nuestra decidir si debe ser usado o no: el Congreso decidirá. No es cosa nuestra decidir si debería haber sido enviado o no: el Congreso lo hizo. Y desde luego no es cosa nuestra decidir si debería existir o no: los dioses han decretado que una cosa así es posible y que puede existir.
+
+    &mdash;Entonces, Demóstenes tenía razón. El Ingenio D.M. viaja con la flota.
+
+    &mdash;Sí.
+
+    &mdash;Y los archivos acerca del gobierno que publicó Demóstenes eran genuinos.
+
+    &mdash;Sí.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: inenarrable: inenarrable
+
+    es: decretar: han decretado
+
+    </div>
+
+- &mdash;Todos mis miedos han desaparecido ahora. Eres en verdad una hija perfecta, mi Qing-jao. Ya sirves bien a los dioses. Y ahora, con tu juramento, puedo estar seguro de que continuarás eternamente. Esto causará gran regocijo en la casa del cielo donde habita tu madre.
+
+    «¿De verdad? En el cielo conocen mi debilidad. Tú, padre, sólo ves que no he fallado todavía a los dioses. Madre debe saber lo cerca que he estado tantísimas veces, lo sucia que estoy cada vez que los dioses me miran.»
+
+    Pero él parecía tan pletórico de alegría que ella no se atrevió a mostrarle lo mucho que temía el día en que demostrara su indignidad para que todos la vieran. Así que lo abrazó.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: regocijo: regocijo
+
+    es: atreverse: se atrevió
+
+    es: temer: temía
+
+    es: pletórico: pletórico
+
+    </div>
+
+- Ella le vio teclear: 4Banda. Reconoció la referencia de inmediato. La antepasada-del-corazón de su madre fue Jing-qing, la viuda del primer emperador comunista, Mao Tse-Tung. Cuando Jing-qing y sus aliados fueron expulsados del poder, la Conspiración de Cobardes los vilipendió bajo el nombre «Banda de los Cuatro». La madre de Qing-jao fue una verdadera hija-del-corazón de aquella gran mártir del pasado. Y ahora Qing-jao podría seguir honrando a la antepasada-del-corazón de su madre cada vez que tecleara el código de acceso. Era un detalle por parte de su padre.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: vilipendiar: vilipendió
+
+    </div>
+
+- &mdash;Bueno, podría ser, Qing-jao. Si puedes imaginar un hecho tan cataclísmico: podría ser que la estrella de Lusitania se convirtiera en supernova. Pasarían décadas antes de que viéramos el destello en los mundos más cercanos. El problema es que sería la supernova más improbable de la historia. No imposible, pero sí improbable.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: cataclísmico: cataclísmico
+
+    es: destello: destello
+
+    </div>
+
+- &mdash;No te avergüences, Qing-jao. Los sabios no son sabios porque no cometan errores. Son sabios porque corrigen sus errores en cuanto los reconocen.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: avergonzarse: no te avergüences
+
+    </div>
+
+- «Si tengo éxito, el resultado puede ser xenocidio. Aunque la decisión pertenezca al Congreso, yo seguiría sabiendo que hice posible semejante atrocidad. La responsabilidad sería parcialmente mía. No importa lo que haga, estaré cubierta de fracaso y manchada de indignidad.»
+
+    <div markdown="1" class="tagged-entries">
+
+    es: atrocidad: atrocidad
+
+    es: xenocidio: xenocidio
+
+    </div>
+
+- Pero Han Qing-jao estaba atando todos los cabos, de manera cuidadosa, sistemática, siguiendo precisas investigaciones de datos. Inevitablemente, acumularía la evidencia que al final demostraría (y acabaría con) la existencia de Jane. Esa evidencia era, expresada en pocas palabras, la falta de evidencias. Nadie más podía verlo, porque nadie había introducido en la investigación una mente metódica que no tuviera ninguna tendencia prefijada.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: atar cabos: atando todos los cabos
+
+    es: prefijado: prefijada
+
+    </div>
+
+- Qing-jao era por tanto la enemiga más peligrosa de Jane, y Jane estaba indefensa y no podía detenerla, al menos físicamente. Intentar bloquear el acceso de Qing-jao a la información tan sólo conseguiría guiarla más rápidamente al conocimiento de su existencia. Así que, en vez de abierta oposición, Jane buscó otra forma de detener a su enemiga. No comprendía toda la naturaleza humana, pero Ender le había enseñado que para impedir que un ser humano haga algo, hay que encontrar un medio para conseguir que deje de querer hacerlo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: indefenso: indefensa
+
+    es: impedir: impedir
 
     </div>
