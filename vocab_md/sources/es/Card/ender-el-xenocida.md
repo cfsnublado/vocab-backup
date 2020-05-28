@@ -1391,3 +1391,168 @@ No se obstinó Miro.
     es: impedir: impedir
 
     </div>
+
+- Si la técnica hubiera funcionado, podría haberse adaptado para todas las plantas y animales de los que dependían para vivir los humanos de Lusitania. Pero el virus de la descolada fue más listo: descubrió sus estratagemas. Con todo, seis semanas era mejor que los dos o tres días de rigor. Tal vez estaban en el buen camino.
+
+    O tal vez las cosas habían ido ya demasiado lejos. Cuando Ender llegó a Lusitania, los nuevos cultivos de plantas y animales terrestres podían durar hasta veinte años antes de que la descolada decodificara sus moléculas genéticas y las rompiera. Pero durante los últimos años al parecer el virus había hecho un avance que le permitía decodificar cualquier molécula genética de la Tierra en cuestión de días, o incluso en horas.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: decodificar: decodificara
+
+    es: molécula: moléculas
+
+    es: genético: genéticas
+
+    es: adaptarse: haberse adaptado
+
+    es: estratagema: estratagemas
+
+    es: cultivo: cultivos
+
+    </div>
+
+- Fumigar un planeta entero resultaba poco práctico, pero no era Imposible: había otras razones para rechazar esta opción. Todas las formas de vida nativa dependían absolutamente de la descolada para reproducirse. Eso incluía a los cerdis, los pequeninos, los nativos inteligentes de este mundo, cuyo ciclo reproductivo estaba inextricablemente vinculado a la única especie nativa de árbol. Si el virus de la descolada fuera destruido, esta generación de pequeninos se convertiría en la última. Sería xenocidio.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: fumigar: fumigar
+
+    es: rechazar: rechazar
+
+    es: inextricable: inextricablemente
+
+    es: vincular: vinculado
+
+    es: xenocidio: xenocidio
+
+    </div>
+
+- Sin embargo, Ender no podía dejar de pensar que, de algún modo, el virus encontraría una forma de abrirse paso, si no a través del cobertizo, entonces por la leve barrera disruptiva que rodeaba la zona de cultivos experimentales como una muralla invisible. Oficialmente, ninguna molécula mayor que un centenar de átomos podía atravesar esa barrera sin ser rota. Las verjas a cada lado de la barrera impedían que los humanos y los cerdis se perdieran en aquella zona fatal, pero Ender imaginaba a menudo lo que sucedería si alguien atravesaba el campo disruptor. Todas las células de su cuerpo morirían al instante mientras los ácidos nucleicos se descomponían. Tal vez el cuerpo se mantuviera unido físicamente. Pero, en su imaginación, Ender siempre lo veía desmoronándose hasta quedar reducido a polvo al otro lado de la barrera, convirtiéndose en humo bajo la brisa antes de poder golpear el suelo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: atravesar: atravesaba
+
+    es: abrirse paso: abrirse paso
+
+    es: molécula: molécula
+
+    es: átomo: átomos
+
+    es: desmoronarse: desmoronándose
+
+    </div>
+
+- Era impensable, pero lo habían hecho: el Congreso había enviado la orden de destruir un mundo. De cometer xenocidio. ¿Había escrito Ender en vano la _Reina Colmena_? ¿Habían olvidado ya?
+
+    Pero para ellos no era «ya». Para la mayoría de la gente habían transcurrido tres mil años. Y aunque Ender había escrito la Vida de Humano, no se la creía ampliamente todavía. No había sido abrazada por la gente hasta el grado de que el Congreso no se atreviera a actuar contra los pequeninos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: xenocidio: xenocidio
+
+    es: transcurrir: habían transcurrido
+
+    es: atreverse: se atreviera
+
+    es: en vano: en vano
+
+    </div>
+
+- La verja resultaba dolorosa para Ender. Ya no había motivos para que existiera, ahora que la política de contacto mínimo entre humanos y pequeninos había sido rota, y ambas especies atravesaban libremente la puerta. Cuando Ender llegó a Lusitania, la verja estaba cargada con un campo que provocaba un dolor insoportable a quien la cruzara. Durante la lucha por ganar el derecho a comunicarse libremente con los pequeninos, el mayor de los hijos adoptivos de Ender, Miro, había quedado atrapado en el campo durante varios minutos, lo que le causó una lesión cerebral irreversible. Sin embargo, la experiencia de Miro era sólo la expresión más dolorosa e inmediata de lo que la verja hacía a las almas de los humanos rodeados por ella. La psicobarrera fue desconectada hacía treinta años. Durante todo este tiempo, no había existido ningún motivo para que se irguiera ninguna barrera entre humanos y pequeninos; sin embargo la verja permanecía. Los colonos humanos de Lusitania lo querían así. Deseaban que la frontera entre humanos y pequeninos siguiera siendo inexpugnable.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: verja: verja
+
+    es: atravesar: atravesaban
+
+    es: lesión: lesión
+
+    es: irreversible: irreversible
+
+    es: erguir: irguiera
+
+    es: inexpugnable: inexpugnable
+
+    </div>
+
+- «Guardo demasiados secretos pensó Ender. Durante todos estos años he sido portavoz de los muertos, descubriendo secretos y ayudando a la gente a vivir a la luz de la verdad. Ahora ya no ansío decirle a nadie la mitad de lo que sé, porque si revelara toda la verdad habría miedo, odio, brutalidad, asesinato, guerra.»
+
+    No lejos de la verja, pero fuera de ella, se alzaban los padres-árbol, uno llamado Raíz, el otro Humano, plantados de forma que desde la verja parecía que Raíz estaba a la izquierda, y Humano a la derecha. Humano era el pequenino a quien Ender tuvo que matar ritualmente con sus propias manos, según lo requerido para sellar el tratado entre humanos y pequeninos. Entonces Humano renació en celulosa y clorofila, convertido finalmente en un macho adulto maduro, capaz de engendrar hijos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ansiar: ansío
+
+    es: verja: verja
+
+    es: sellar: sellar
+
+    es: renacer: renació
+
+    es: celulosa: celulosa
+
+    es: clorofila: clorofila
+
+    es: engendrar: engendrar
+
+    </div>
+
+- &mdash;Lanzan dardos &mdash;dijo Grego.
+
+    &mdash;Ésas fueron palabras mías &mdash;interrumpió Quara&mdash;. No comprendí que era un lenguaje.
+
+    &mdash;Porque no lo era &mdash;sentenció Grego.
+
+    &mdash;Eso fue hace cinco años &mdash;terció Ender&mdash;. Dijiste que los dardos que envían llevan los genes necesarios y luego todos los virus que reciben los dardos revisan su propia estructura para incluir el nuevo gen. Eso difícilmente puede considerarse un lenguaje.
+
+    &mdash;Pero no es la única vez que envían dardos &mdash;objetó Quara&mdash;. Esas moléculas mensajeras entran y salen constantemente, y la mayoría de las veces no están ni siquiera incluidas en el cuerpo. Varias partes de la descolada las leen y luego las transmiten a otra.
+
+    &mdash;¿Esto es lenguaje? &mdash;preguntó Grego.
+
+    &mdash;Todavía no &mdash;admitió Quara&mdash;. Pero a veces, después de que un virus lee uno de esos dardos, crea un dardo nuevo y lo envía. Esto es lo que apunta hacia un lenguaje: la parte delantera del nuevo dardo siempre comienza con una secuencia molecular similar a la parte trasera del dardo que está respondiendo. Mantiene el hilo de la conversación.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: hilo: hilo
+
+    es: dardo: dardos
+
+    es: mensajero: mensajeras
+
+    es: molécula: moléculas
+
+    es: delantero: delantera
+
+    es: trasero: trasera
+
+    </div>
+
+- Ender ignoró la discusión, porque Jane le susurraba al oído a través del receptor en forma de joya que llevaba. Ahora le hablaba menos que en los años anteriores. Él escuchó con atención, sin dar nada por hecho.
+
+    &mdash;Ha encontrado algo &mdash;informó Jane&mdash;. He observado su investigación y hay algo que no sucede con ninguna otra criatura subcelular. He hecho muchos análisis diferentes de los datos, y cuanto más simulo y pruebo esta conducta concreta de la descolada, menos parece un código genético y más se asemeja a un lenguaje. No podemos descartar la posibilidad de que sea voluntario.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: descartar: descartar
+
+    es: asemejar: asemeja
+
+    es: dar por hecho: sin dar nada por hecho
+
+    </div>
+
+- &mdash;Y, si tienes la amabilidad de callarte el tiempo suficiente para escucharme, ella tiene derecho a ser oída. &mdash;Novinha estaba bastante furiosa ahora, pero, como de costumbre, Grego no parecía impresionado&mdash;. Ya deberías saber, Grego, que a menudo las ideas que al principio parecen más absurdas y contraintuitivas son las que después causan cambios fundamentales en la forma en que vemos el mundo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: contraintuitivo: contraintuitivas
+
+    es: absurdo: absurdas
+
+    es: costumbre: costumbre
+
+    </div>
+
