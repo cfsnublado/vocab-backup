@@ -57,7 +57,7 @@ source_type: book
 
     en: predilection: predilections
 
-    en: comingling: comingling
+    en: commingle: comingling
 
     </div>
 

@@ -5,6 +5,34 @@ source_type: book
 
 ---
 
+- _**Juré vengarme de los asesinos de mi padre. Seré medio hombre, pero pronuncié un juramento entero.**_
+
+    Yarvi, el hijo menor del rey, nació con una malformación en una mano que ha llevado a todo el mundo, incluso a su propio padre, a considerarlo «medio hombre». Por eso, en lugar de formarse como guerrero, al igual que el resto de varones de su estirpe, se ha dedicado a estudiar para convertirse en uno de los clérigos del reino. Sin embargo, en la víspera de la última prueba para ingresar en esta poderosa orden de sabios, a Yarvi le llega la noticia de que su padre y su hermano han sido asesinados. 
+
+    Él es el nuevo rey.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: juramento: juramento
+
+    es: guerrero: guerrero
+
+    es: víspera: víspera
+
+    es: vengarse: vengarme
+
+    es: estirpe: estirpe
+
+    es: asesino: asesinos
+
+    </div>
+
+    <div markdown="1" class="vocab-context-audios">
+
+    El juramento de Yarvi: https://www.dropbox.com/s/kwxxkrme70u0m1m/medio-rey-corto.mp3?dl=1
+    
+    </div>
+
 - Mientras Odem se acercaba a él con toda la calma del mundo, Yarvi dio un paso atrás, con las rodillas temblando, y luego otro, hacia ningún lugar que no fuese el bajo parapeto y la larga caída al otro lado.
 
     —Recuerdo la noche en que naciste. —La voz de su tío era fría y llana como el hielo de un lago en invierno—. Tu padre se enfureció con los dioses por esa cosa que tienes en vez de mano. A mí siempre me hiciste sonreír, aun así. Habrías sido un gran bufón. —Odem enarcó las cejas y suspiró—. Pero ¿de verdad va a casarse mi hija con un manco debilucho? ¿De verdad Gettlandia va a tener medio rey, un cachorro tullido al que su madre maneja como quiere? No, sobrino mío, yo… diría… que no.
