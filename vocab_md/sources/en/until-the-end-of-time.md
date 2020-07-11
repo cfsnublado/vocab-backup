@@ -13,13 +13,29 @@ source_type: book
 
     </div>
 
+    <div markdown="1" class="vocab-context-audios">
+
+    In the fullness of time: https://www.dropbox.com/s/gelha6iy1q6kx2m/scythe.mp3?dl=1
+
+    </div>
+
+
 - And yet this looming end, as inevitable as the setting sun, is something only we humans seem to notice. Long before our arrival, the thunderous clap of storm clouds, the raging might of volcanoes, the tremulous shudders of a quaking earth surely sent scurrying everything with the power to scurry. But such flights are an instinctual reaction to a present danger. Most life lives in the moment, with fear born of immediate perception. It is only you and I and the rest of our lot that can reflect on the distant past, imagine the future, and grasp the darkness that awaits.
 
     <div markdown="1" class="tagged-entries">
 
     en: tremulous: tremulous
 
+    en: scurry: scurrying
+
     </div>
+
+    <div markdown="1" class="vocab-context-audios">
+
+    And yet this looming end: https://www.dropbox.com/s/fn8at2vhir1ik48/teem.mp3?dl=1
+
+    </div>
+
 
 - Don Quixote speaks to humankind’s yearning for the heroic, told through the fragile Alonso Quijano, a character created in the imagination of Miguel de Cervantes, a living, breathing, thinking, sensing, feeling collection of bone, tissue, and cells that, during his lifetime, supported organic processes of energy transformation and waste excretion, which themselves relied on atomic and molecular movements honed by billions of years of evolution on a planet forged from the detritus of supernova explosions scattered throughout a realm of space emerging from the big bang. Yet to read Don Quixote’s travails is to gain an understanding of human nature that would remain opaque if embedded in a description of the movements of the knight-errant’s molecules and atoms or conveyed through an elaboration of the neuronal processes crackling in Cervantes’s mind while writing the novel. Connected though they surely are, different stories, told with different languages and focused on different levels of reality, provide vastly different insights.
 
