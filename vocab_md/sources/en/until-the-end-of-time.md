@@ -15,7 +15,7 @@ source_type: book
 
     <div markdown="1" class="vocab-context-audios">
 
-    In the fullness of time: https://www.dropbox.com/s/gelha6iy1q6kx2m/scythe.mp3?dl=1
+    In the fullness of time: https://www.dropbox.com/s/0mprk8bpihy0atj/inthefullness.mp3?dl=1
 
     </div>
 
@@ -32,7 +32,7 @@ source_type: book
 
     <div markdown="1" class="vocab-context-audios">
 
-    And yet this looming end: https://www.dropbox.com/s/fn8at2vhir1ik48/teem.mp3?dl=1
+    And yet this looming end: https://www.dropbox.com/s/agd6fyi44dxs0wa/andyetthislooming.mp3?dl=1
 
     </div>
 
@@ -59,11 +59,23 @@ source_type: book
 
     </div>
 
+    <div markdown="1" class="vocab-context-audios">
+
+    That is some life: https://www.dropbox.com/s/q11suwcbt25jels/thatissomelife.mp3?dl=1
+
+    </div>
+
 - Opinions converge when assessing the impact our cognitive sophistication has had on our behavioral repertoire. Across tens of thousands of generations during the Pleistocene, our forebears joined together in groups that subsisted through hunting and gathering. In time, an emerging mental dexterity provided them with refined capacities to plan and organize and communicate and teach and evaluate and judge and problem-solve.
 
     <div markdown="1" class="tagged-entries">
 
     en: dexterity: dexterity
+
+    </div>
+
+    <div markdown="1" class="vocab-context-audios">
+
+    Opinions converge: https://www.dropbox.com/s/z7ymal3av5aqlrk/opinionsconverge.mp3?dl=1
 
     </div>
 
