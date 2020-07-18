@@ -1,6 +1,6 @@
 ---
 source_name: Hijos de la mente
-source_description: Libro 4 de _La saga de Ender_, de Orson Scott Card
+source_description: Libro 4 de _La saga de Ender_ <br> Orson Scott Card
 source_type: book
 
 ---

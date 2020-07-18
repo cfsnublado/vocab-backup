@@ -1,6 +1,6 @@
 ---
 source_name: La voz de los muertos
-source_description: Libro 2 de _La saga de Ender_, de Orson Scott Card
+source_description: Libro 2 de _La saga de Ender_ <br> Orson Scott Card
 source_type: book
 
 ---

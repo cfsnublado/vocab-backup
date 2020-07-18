@@ -1,6 +1,6 @@
 ---
 source_name: Until the End of Time
-source_description: Mind, Matter, and Our Search for Meaning in an Evolving Universe. Brian Greene
+source_description: Mind, Matter, and Our Search for Meaning in an Evolving Universe. <br> Brian Greene
 source_type: book
 
 ---

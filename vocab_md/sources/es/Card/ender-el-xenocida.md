@@ -1,6 +1,6 @@
 ---
 source_name: Ender el xenocida
-source_description: Libro 3 de _La saga de Ender_, de Orson Scott Card
+source_description: Libro 3 de _La saga de Ender_ <br> Orson Scott Card
 source_type: book
 
 ---
@@ -542,7 +542,7 @@ El cerebro humano, concluyó Miro, era como un ordenador, únicamente puede reci
 
     <div markdown="1" class="tagged-entries">
 
-    es: interlocutor: interloctures
+    es: interlocutor: interlocutores
 
     es: oído: oído
 
