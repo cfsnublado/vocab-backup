@@ -503,7 +503,7 @@ source_type: book
 
     en: entropy: entropy
 
-    en: comingle: comingled
+    en: commingle: comingled
 
     </div>
 
@@ -600,5 +600,95 @@ source_type: book
     en: coalesce: coalesce
 
     en: detritus: detritus
+
+    </div>
+
+- Schrödinger’s math provides the answer, a universal fire code that applies to all quantum theaters: at most two electrons are allowed on tier one, eight electrons on tier two, eighteen on tier three, and so forth, as specified by the equation. Should an atom’s energy be pumped up, say, by having been zapped by a powerful laser, some of its electrons may be sufficiently agitated to jump up to a higher tier, but this exuberance will be short-lived. Such excited electrons quickly fall back to their original tier, emitting energy (carried away by photons) and returning the atom to its calmest configuration
+
+    <div markdown="1" class="tagged-entries">
+
+    en: quantum: quantum
+
+    en: tier: tier
+
+    en: exuberance: exuberance
+
+    </div>
+
+- The math also reveals one further peculiarity, a kind of atomic OCD that’s a primary driver of chemical reactions throughout the cosmos. Atoms have an aversion to tiers that are only partially filled. Tiers that are empty? Fine. Tiers that are full? Fine. But partial occupancy? That drives atoms up the wall. Some atoms are lucky, being endowed with just the right number of electrons to achieve full occupancy on their own. Helium contains two electrons, to balance the electric charge of its two protons, and they happily fill the first tier. Neon has ten electrons, to balance the electric charge of its ten protons, and they just as happily fill its first tier, which accommodates two, and its second tier, which accommodates the remaining eight. But for most atoms, the number of electrons needed to balance the number of protons does not fill a complete set of tiers.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: aversion: aversion
+
+    en: peculiarity: peculiarity
+
+    en: tier: tiers, tier
+
+    </div>
+
+- The distribution of electrical charge across a water molecule might seem like an esoteric detail. But it’s not. It proves essential to the emergence of life. Because of water’s skewed charge distribution, it can dissolve nearly everything. The negatively charged oxygen vertex grabs hold of anything with even a slight positive charge; the positively charged hydrogen tips grab hold of anything with even a slight negative charge. In tandem, the two ends of a water molecule act like charged claws that pull apart most anything that’s submerged for a sufficient time.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: molecule: molecule
+
+    en: esoteric: esoteric
+
+    en: skew: skewed
+
+    en: vertex: vertex
+
+    en: tandem: tandem
+
+    </div>
+
+- Well beyond its utility in personal hygiene, water’s capacity to grab hold of and ingest substances is indispensable to life. Cell interiors are miniature chemistry labs whose workings require the rapid movement of a vast collection of ingredients: nutrients in, waste out, comingling of chemicals to synthesize substances required for cellular function, and so on.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: indispensable: indispensable
+
+    en: commingle: comingling
+
+    </div>
+
+- Having surveyed the synthesis of simple and complex atoms, the origin of the sun and earth, the nature of chemical reactions and the necessity of water, we are now equipped to turn to life itself. While it might seem natural to begin with the genesis of life, that topic, still unsettled, is better approached after exploring the quintessential molecular qualities of life itself.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: quintessential: quintessential
+
+    </div>
+
+- We don’t know the exact number of distinct species on earth, microbes to manatees, but studies have provided estimates ranging from a low in the millions to a high in the trillions. Whatever the exact number, it’s huge. The wealth of different species, however, belies the singular nature of life’s inner workings.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: belie: belies
+
+    en: species: species
+
+    </div>
+
+- Two ubiquitous qualities of life make the case yet more convincing. Each illustrates the deep commonalities shared by all that lives. The first, and more familiar, concerns _information_: how cells encode and utilize the information that directs life-sustaining functions. The second, equally important but less widely celebrated, concerns _energy_: how cells harness, store, and deploy the energy required for carrying out life-sustaining functions. In both we will see that clear across the spectacular breadth of life on earth the detailed processes are identical.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: ubiquitous: ubiquitous
+
+    en: commonality: commonalities
+
+    </div>
+
+- For an automated system, the description is literal. Drones, self-driving cars, Roombas, and so on are governed by software that takes environmental data as input and as output determines a response executed by onboard hardware, from wings to rotors to wheels. For a rabbit, the description is metaphor. Nevertheless, the software-hardware paradigm is a particularly useful way of thinking about life too. The rabbit accumulates sensory data from the environment, runs it through a “neural computer” (its brain), which sends information-laden signals down nerve pathways—eat clover patch, hop over fallen twigs, and so on—generating physical actions. The motion of the rabbit arises from the internal processing and transmission of a complex set of instructions that flows through its physical structure: biological software driving biological hardware. Such processes are wholly absent for a rock.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: paradigm: paradigm
+
+    en: metaphor: metaphor
+
+    en: neural: neural
 
     </div>
