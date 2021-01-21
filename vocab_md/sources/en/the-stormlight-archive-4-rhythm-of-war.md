@@ -4116,4 +4116,248 @@ Kelek shook his head. “You two stumbled into a little war of ideologies. The o
 
     </div>
 
+- Dalinar lurched, rising into the air as the Lashing took effect. The Windrunners darted up after him, including Leyten, who grabbed Szeth. As they left the column of light, Dalinar could see Ishar’s soldiers stepping into the perpendicularity.
+
+    A short time later it vanished. The Herald, his men, and the Honorblade were gone. Transported into Shadesmar.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: perpendicularity: perpendicularity
+
+    en: Ishar: Ishar's
+
+    en: herald: Herald
+
+    </div>
+
+- The Stormfather paused, then rumbled more softly. _I never liked him. Though I was only a wind then—and not completely conscious—I remember him. Ishar was ambitious even before madness took him. He cannot bear sole blame for the destruction of Ashyn, humankind’s first home, but he was the one Odium first tricked into experimenting with the Surges._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Ishar: Ishar
+
+    en: rumble: rumbled
+
+    en: humankind: humankind's
+
+    en: Odium: Odium
+
+    en: Ashyn: Ashyn
+
+    </div>
+
+- The stormform cocked his head, humming an odd song. He stabbed at Adin’s chest, but the spear stopped short again. Adin looked at his body as he lay prone on the floor.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: hum: humming
+
+    en: lie: lay
+
+    </div>
+
+- The ground trembled, as if the entire mountain were shaking. Clanking sounds rang in the hallways, like distant machines, and wind began to blow in the vast chamber—which now was as bright as day. Most amazing, the lightning on the stormforms went out.
+
+    Deepest Ones, who had been clawing out of the ground and grabbing at the feet of soldiers, began screaming and going limp, trapped in the stone. The Heavenly Ones who had been helping dropped to the ground suddenly, then collapsed, unconscious.
+
+    Groans sounded from behind. The Radiants on the floor at the center of the circle began stirring. They were awake!
+
+    “You may turn in your weapons,” Stormblessed said to the enemy. “And return to your kind unharmed, so long as you promise me one thing.” He smiled. “Tell him that I’m particularly going to enjoy hearing what he looked like when he found out what happened here today.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: tremble: trembled
+
+    en: unconscious: unconscious
+
+    </div>
+
+- So Ishar was a butcher, a mad surgeon as well as a crazed theocrat. For some reason, that relieved Dalinar. It was disgusting, but this was an ordinary kind of evil. He’d expected something worse.
+
+    “Sir?” Mela the Windrunner called from across the room. “You should see this.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: butcher: butcher
+
+    en: theocrat: theocrat
+
+    </div>
+
+- Another corpse—half revealed by a drawn-back sheet—was on the slab in front of Mela, though this one was far stranger. The elongated body had a black shell covering most of it, from neck to feet. That had been cut free to open up the chest. Dalinar couldn’t make sense of the shell. It looked like clothing, kind of, but was hard like singer carapace—and had apparently been attached to the skin.
+
+    The head was a soggy mass of black flesh, soft like intestines, with no visible eyes or features.
+
+    “What on Roshar…” Dalinar said. “The hands seem human, if too long, but the rest of it…”
+
+    “I have no idea,” Mela said. She glanced away and shivered. “It’s not human, sir. I don’t know what it is.”
+
+    In the back of Dalinar’s mind, the Stormfather rumbled.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: slab: slab
+
+    en: elongated: elongated
+
+    en: intestine: intestines
+
+    </div>
+
+- This … the spren said. This is not possible.
+
+    What? Dalinar asked.
+
+    _That is a Cryptic,_ he said. _The Lightweaver spren. Only they don’t have bodies in this realm. They can’t._
+
+    “Sir,” Lyn said from a nearby slab. The corpse she’d uncovered was a pile of vines vaguely shaped like a person.
+
+    _Cultivationspren … the Stormfather said. Return to that first body you saw. NOW._
+
+    Dalinar did not object and walked toward the front of the pavilion. What he’d first dismissed as an ordinary body now seemed anything but. The white-blue hair, the pieces of clothing that were—he now recognized—the exact same color as the body. The Stormfather’s thunder grew distant.
+
+    _I knew him,_ the Stormfather said. _I could not see it at first. I did not want to see it. This is Vespan. Honorspren._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: slab: slab
+
+    en: pavilion: pavilion
+
+    </div>
+
+- “So they’re not … some kind of attempt at making men into mimicries of spren,” Dalinar said. “These are actual spren corpses?”
+
+    _Spren don’t have corpses,_ the Stormfather said. _Spren do not die like men. They are power that cannot be destroyed. They … This is IMPOSSIBLE._
+
+    Dalinar searched through the chamber, where more and more drawn-back sheets revealed different strange corpses. Several just skeletons, others piles of rock.
+
+    _This place is evil,_ the Stormfather said. _Beyond evil. What has been done here is an abomination._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: abomination: abomination
+
+    en: mimicry: mimicries
+
+    </div>
+
+- “This is a list of experiments, I think,” the companylord said. “The first column is the name of a spren, the second column a date. The third is a time … maybe how long they lived? None seem to have survived longer than a few minutes.”
+
+    “Blood of my fathers,” Dalinar said, his hands trembling. “And this last column?”
+
+    “Notes, sir,” Sigzil said. “Here, the last entry. ‘Our first honorspren lived nearly fifteen minutes. A new record, and orders of magnitude longer than all previous attempts. Honorspren seem to have the most humanlike essences. When transferred, the organs and muscles form most naturally. We must capture more of them.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: column: column
+
+    en: tremble: trembling
+
+    en: capture: capture
+
+    </div>
+
+- And before that, a terrible sound. It had pushed away his Connection to Odium, forcing Moash to feel pain for the things he’d done—pain he didn’t want. Pain he’d given away.
+
+    That pain seethed and spread inside him. He’d killed Teft.
+
+    He’d. Killed. TEFT.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Odium: Odium
+
+    en: seeth: seethed
+
+    en: Teft: Teft
+
+    </div>
+
+- He should have died, but they found him. A few Heavenly Ones who had been in the air when the tower was restored. They’d awoken, it seemed, after falling from the sky and leaving the tower’s protections. They gave him Stormlight, then lifted him, carrying him away.
+
+    Odium’s gift returned, and Moash breathed easier. Blissfully without his guilt. His spine healed. He could walk by the time they dropped him among a camp of a few others who had managed to flee the tower.
+
+    But he couldn’t see them. No matter how much Stormlight he was given, his eyes didn’t recover. He was blind.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Odium: Odium's
+
+    en: blissfully: blissfully
+
+    en: blind: blind
+
+    en: Moash: Moash
+
+    </div>
+
+- He was in a vision. But he hadn’t heard the highstorm hit.
+
+    And … no. This wasn’t a highstorm vision. This was something else. He turned with trepidation, looking across the glimmering field to where a figure—clad in golden robes—stood on a nearby hilltop, facing away from Dalinar and staring out at the horizon.
+
+    Odium. Storms within, Dalinar thought, flagging. _Not now. I can’t face him right now._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Odium: Odium
+
+    en: trepidation: trepidation
+
+    </div>
+
+- He appeared different from when Dalinar had last seen him. He still resembled a wise old man with a grey beard cut to medium length. A paternal air. Sagacious, knowing, understanding. Only now his skin was glowing in places, as if it had grown thin and a light inside was seeking to escape. The god’s eyes had gone completely golden, as if they were chunks of metal set into a statue’s face.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: sagacious: sagacious
+
+    </div>
+
+- “You didn’t write this,” Odium said, his eyes narrowing. “Nor did that Elsecaller.” The light grew more vibrant beneath Odium’s skin, and Dalinar could feel its heat—like that of a sun—rising. Making his skin burn.
+
+    Anger. Deep anger, white hot. It was consuming Odium. His control was slipping.
+
+    “Cephandrius,” Odium spat. “Ever the rat. No matter where I go, there he is, scratching in the wall. Burrowing into my strongholds. He could have been a god, yet he insists on living in the dirt.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Odium: Odium, Odium's
+
+    en: Cephandrius: Cephandrius
+
+    en: stronghold: strongholds
+
+    </div>
+
+- “I said I cannot agree,” Odium said. “The Everstorm has changed everything, and Cephandrius should have realized this. Singers can adopt Regal forms powered by the Everstorm. The Fused are free now; they can be reborn without my intervention. The Oathpact could have imprisoned them, but it is now defunct. I am literally unable to do as you ask, not without destroying myself in the process.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Cephandrius: Cephandrius
+
+    en: oathpact: Oathpact
+
+    en: imprison: imprisoned
+
+    </div>
+
+- “Why would I want to destroy you? I am your god, Dalinar.” Odium shook his head, staring into the infinite golden distance. “I need soldiers. For the true battle that is coming, not for one people or one miserable windswept continent. A battle of the gods. A battle for everything.
+
+    “Roshar is a training ground. The time will come that I unleash you upon the others who are not nearly as well trained. Not nearly as hardened as I have made you.”
+
+    “Curious,” Dalinar said. “I don’t know if you’ve noticed, but your ‘hardening’ tactic has resulted in Fused who are going mad from the stress.”
+
+    The light grew stronger inside Odium, seeming as if it might explode from his skin.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Odium: Odium
+
+    en: miserable: miserable
+
+    en: tactic: tactic
+
+    </div>
+
 - 
