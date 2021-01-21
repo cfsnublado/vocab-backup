@@ -4360,4 +4360,575 @@ Kelek shook his head. “You two stumbled into a little war of ideologies. The o
 
     </div>
 
-- 
+- “You offer a mortal life for that of a god?” Odium demanded. “No, Dalinar. If I win, I want the Knights Radiant. The forces of Alethkar and Urithiru will surrender to my Fused, and your Radiants will end this war. The other foolish kingdoms of men can keep fighting if they wish, but your people and mine will begin preparing for the true war: the one that will begin when the gods of other worlds discover the strength of Surgebinding. Your heirs will be bound to this, as you are.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: heir: heirs
+
+    en: Odium: Odium
+
+    </div>
+
+- “My life? Odium, I intend to be my own champion. I’ll have died if you win.”
+
+    “Yes,” Odium said, eyes shining golden. “You will have. And you will give your soul to me. You, Dalinar, will join the Fused. You will become immortal, and will personally serve me. Bound by your oaths. You will be the one I send to the stars to serve my interests in the cosmere.”
+
+    A cold shock ran through Dalinar. Like he’d felt the first time he’d been stabbed. Surprise, disbelief, terror.
+
+    _You will join the Fused._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: champion: champion
+
+    en: immortal: immortal
+
+    en: Odium: Odium
+
+    en: oath: oaths
+
+    en: cosmere: cosmere
+
+    </div>
+
+- He took a deep breath. “Final terms are these: A contest of champions to the death. On the tenth day of the month Palah, tenth hour. We each send a willing champion, allowed to meet at the top of Urithiru, otherwise unharmed by either side’s forces. If I win that contest, you will remain bound to the system—but you will return Alethkar and Herdaz to me, with all of their occupants intact. You will vow to cease hostilities and maintain the peace, not working against my allies or our kingdoms in any way.”
+
+    “Agreed,” Odium said. “But if I win, I keep everything I’ve won—including your homeland. I still remain bound to this system, and will still cease hostilities as you said above. But I will have your soul. To serve me, immortal. Will you do this? Because I agree to these terms.”
+
+    “And I,” Dalinar whispered. “I agree to these terms.”
+
+    “It is done.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: champion: champion, champions
+
+    en: occupant: occupants
+
+    en: vow: vow
+
+    en: ally: allies
+
+    en: immortal: immortal
+
+    en: Odium: Odium
+
+    </div>
+
+- Cold steel bit Taravangian’s skin as Szeth stabbed him right in the chest. At the same moment, Taravangian felt something pushing through his fear, his pain. An emotion he’d never thought to feel himself. Bravery.
+
+    Bravery surged through him, so powerfully he could not help but move. It was the dying courage of a man on the front lines charging an enemy army. The glory of a woman fighting for her child. The feeling of an old man on his last day of life stepping into darkness.
+
+    _Bravery._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: stab: stabbed
+
+    en: Szeth: Szeth
+
+    en: Taravangian: Taravangian
+
+    </div>
+
+- The Physical Realm faded as Odium pulled Taravangian into the place between worlds. Taravangian’s body was not as weak here. This form was a manifestation of his mind and soul. And those were strong.
+
+    The sword at Szeth’s waist—that strange, terrible sword—manifested here, in this realm where Odium brought Taravangian. The god looked down and saw the curling black darkness, and seemed surprised.
+
+    Taravangian seized the sword and pulled it free of its scabbard, hearing it scream for pleasure. He turned and thrust it upward—black smoke curling around his hands.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Taravangian: Taravangian
+
+    en: manifestation: manifestation
+
+    en: Odium: Odium
+
+    en: realm: realm
+
+    en: seize: seized
+
+    en: scabbard: scabbard
+
+    </div>
+
+- “Destroy!” the sword bellowed. “DESTROY!”
+
+    Taravangian rammed it up into Odium’s chest.
+
+    The sword drank greedily of the god’s essence, and as it did, Taravangian felt a snap. His body dying. Szeth finishing the job. He knew it immediately. Taravangian was dead. Anger rose in him like he had never known.
+
+    Szeth had killed him!
+
+    Odium screamed, and the golden place shattered, turning to darkness. The sword undulated in Taravangian’s grip, pulling power from the god it had stabbed.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: undulate: undulated
+
+    en: Odium: Odium
+
+    en: Taravangian: Taravangian's
+
+    en: stab: stabbed
+
+    en: Szeth: Szeth
+
+    en: ram: rammed
+
+    en: bellow: bellowed
+
+    </div>
+
+- The figure that contained Odium’s power—the person who controlled it—evaporated, taken by the sword. That alone was so much Investiture that Taravangian felt the sword grow dull in his fingers. Full, lethargic. As when a hot brand was shoved into a barrel of water, there was an initial hiss—but this power was too vast for the sword to drink.
+
+    It killed the person holding that power, however, which left a hole. A need. A … vacuum, like a gemstone suddenly without Stormlight. It reached out, and Taravangian felt a distinct _Connection_ to it.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Odium: Odium's
+
+    en: investiture: Investiture
+
+    en: Taravangian: Taravangian
+
+    en: lethargic: lethargic
+
+    en: vacuum: vacuum
+
+    en: gemstone: gemstone
+
+    </div>
+
+- Passion. Hatred. Today, Taravangian was only passion. Hatred, fear, anger, shame, awe. Bravery. The power loved these things, and it surged around him, enveloping him.
+
+    His soul vibrated.
+
+    _Take me,_ the power pled, speaking not in words, but in emotion. _You are perfect. I am yours._
+
+    Taravangian hesitated briefly, then thrust his hands into the well of power.
+
+    And _Ascended_ to godhood, becoming Odium.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Odium: Odium
+
+    en: Taravangian: Taravangian
+
+    en: awe: awe
+
+    en: surge: surged
+
+    en: envelop: enveloping
+
+    en: plead: pled
+
+    en: thrust: thrust
+
+    en: ascend: ascended
+
+    </div>
+
+- Rlain felt in a stupor, despite a day having passed since his revelation. Since speaking his first Words as a Truthwatcher.
+
+    The spren had been watching him, from the heart of a cremling. Rlain and Venli had mistaken Tumi for a Voidspren, but he wasn’t exactly the same thing. Once an ordinary mistspren, Tumi had let Sja-anat touch him, and in so doing make him into something new. A spren of both Honor and Odium.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: stupor: stupor
+
+    en: Odium: Odium
+
+    en: Rlain: Rlain
+
+    en: Tumi: Tumi
+
+    </div>
+
+- Tumi pulsed to a new rhythm. The Rhythm of War. Something he had learned recently. Something important for his siblings to hear.
+
+    Renarin knows? Rlain thought.
+
+    He suggested you, Tumi said. And told our mother about you. He was right. Our bond will be strong, and you will be wondrous. We are awed by you, Rlain. The Bridger of Minds. We are honored.
+
+    Honored. That felt good. To be chosen because of what he’d done.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: rhythm: rhythm of war
+
+    en: Tumi: Tumi
+
+    en: wondrous: wondrous
+
+    en: awe: awed
+
+    </div>
+
+- Taravangian’s vision expanded, his mind expanded, his essence expanded. Time started to lose meaning. How long had he been like this?
+
+    He became the power. With it, he began to understand the cosmere on a fundamental level. He saw that his predecessor had been sliding toward oblivion for a long, long time. Weakened by his battles in the past, then deeply wounded by Honor, this being had been enslaved by the power. Failing to claim Dalinar, then losing the tower and Stormblessed, had left the being frail. Vulnerable.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: essence: essence
+
+    en: cosmere: cosmere
+
+    en: predecessor: predecessor
+
+    en: oblivion: oblivion
+
+    en: enslave: enslaved
+
+    en: vulnerable: vulnerable
+
+    </div>
+
+- He was aware of what he’d left behind in the mortal realm. Szeth had long since climbed to his feet and sheathed Nightblood. Beside him, the assassin had found a burned-out corpse, mostly eaten by the sword’s attack. That was Rayse, Taravangian’s predecessor, but Szeth wasn’t able to tell. The sword had consumed clothing and most of the flesh, leaving bits of stone-grey bone.
+
+    _They think that’s me,_ Taravangian thought, reading the possible futures. _Szeth didn’t see what happened to me spiritually. He doesn’t know Odium was here._
+
+    Almost all possible futures agreed. Szeth would confess that he’d gone to kill Taravangian, but somehow Taravangian had drawn Nightblood—and the weapon had consumed him.
+
+    They thought him dead. He was free.…
+
+    <div markdown="1" class="tagged-entries">
+
+    en: sheath: sheathed
+
+    en: mortal: mortal
+
+    en: realm: realm
+
+    en: assassin: assassin
+
+    en: predecessor: predecessor
+
+    en: Odium: Odium
+
+    en: consume: consumed
+
+    en: Szeth: Szeth
+
+    </div>
+
+- Taravangian grew more capable by the moment.
+
+    The power molded him as he bridled it. He stepped to the edge of infinity, studying endless possibilities as if they were a million rising suns and he were standing on the bank of an eternal ocean. It was beautiful.
+
+    A woman stepped up beside him. He recognized her full hair, black and tightly curled, along with her vibrant round face and dark skin. She had another shape as well. Many of them, but one deeper and truer than the others.
+
+    “Do you understand now?” she asked him.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: mold: molded
+
+    en: infinity: infinity
+
+    en: eternal: eternal
+
+    en: Taravangian: Taravangian
+
+    en: bridle: bridled
+
+    </div>
+
+- “Odium’s power is the most dangerous of the sixteen,” she said. “It ruled Rayse, driving him to destroy. It will rule you too, if you let it.”
+
+    “They showed you this possibility, I assume,” Taravangian said, looking at infinity. “But this isn’t nearly as … certain as I imagined it. It shows you things that can happen, but not the hearts of those who act. How did you dare try something like this? How did you know I’d be up to the challenge?”
+
+    “I didn’t,” she said. “I couldn’t. You were heading this direction—all I could do was hope that if you succeeded, my gift would work. That I had changed you into someone who could bear this power with honor.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: infinity: infinity
+
+    en: Rayse: Rayse
+
+    </div>
+
+- Such power. Such incredible power. Taravangian peered into infinity. He’d wanted to save his city, and had succeeded. After that, he’d wanted to save Roshar. He could do that now. He could end this war. Storms, Dalinar and Odium’s contract—which bound Taravangian just as soundly—would do that already.
+
+    But … beyond that, what of the entire cosmere? He couldn’t see that far yet. Perhaps he would eventually be able to. But he did know his predecessor’s plans, and had access to some of his knowledge. So Taravangian knew the cosmere was in chaos. Ruled by fools. Presided over by broken gods.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: cosmere: cosmere
+
+    en: chaos: chaos
+
+    en: infinity: infinity
+
+    </div>
+
+- “Taravangian,” Cultivation said, holding her hand out to him. “Come. Let me teach you about what you’ve been given. I realize the power is overwhelming, but you can control it. You can do better than Rayse ever did.”
+
+    He smiled and took her hand. Inside, he exulted.
+
+    _Oh, you wonderful creature,_ he thought. _You have no idea what you have done._
+
+    He was finally free of the frailties of body and position that had always controlled and defined him. He finally had the freedom to do what he’d desired.
+
+    And now, Taravangian was going to save them all.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: exult: exulted
+
+    en: frailty: frailties
+
+    en: Rayse: Rayse
+
+    </div>
+
+- She removed her hand and situated herself at the desk. Adolin fell silent, waiting and watching as Shallan lifted the top of Mraize’s cube. With help from Kelek, they’d gotten it open without harming the thing inside: a spren in the shape of a glowing ball of light, a strange symbol at the center. No one here recognized the variety of spren, but Wit called it a seon.
+
+    “Are you well, Ala?” Shallan asked. It was said like A-lay.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: seon: seon
+
+    en: wit: Wit
+
+    </div>
+
+- “Veil and I are one now, Mraize,” Shallan said, resting her hand on her notebook—which contained the fascinating things Kelek had told her about other worlds, other planets. Places he desperately wished to see.
+
+    Like the other Heralds, Kelek wasn’t entirely stable. He was unable to commit to ideas or plans. However, to one thing he had committed: He wanted off Roshar. He was convinced that Odium would soon take over the world completely and restart torturing all the Heralds. Kelek would do practically anything to escape that fate.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: fascinating: fascinating
+
+    en: commit: committed, commit
+
+    en: Odium: Odium
+
+    en: Kelek: Kelek
+
+    en: herald: heralds
+
+    </div>
+
+- “My brothers? Is that what you’re referencing? You must know by now that they are no longer in the tower, Mraize. Pattern and Wit got them out before the occupation even occurred. Thank you for this seon, by the way. Wit says that unbound ones are difficult to come by—but they make for extremely handy communication across realms.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: seon: seon
+
+    en: realm: realms
+
+    en: wit: Wit
+
+    </div>
+
+- “I have what I need, thank you very much,” she said as Adolin put a comforting hand on hers. “I’ve been speaking to Kelek, the Herald. He seems to think the reason you’re hunting him is because of an Unmade. Ba-Ado-Mishram? The one who Connected to the singers long ago, giving them forms of power? The one who, when trapped, stole the singers’ minds and made them into parshmen?
+
+    “Why do you want the gemstone that holds Ba-Ado-Mishram, Mraize? What are you intending to do with it? What power do the Ghostbloods seek with a thing that can bind the minds of an entire people?”
+
+    Mraize didn’t respond. The seon, imitating his face, hovered in place. Expressionless.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: seon: seon
+
+    en: Kelek: Kelek
+
+    en: gemstone: gemstone
+
+    en: ghostblood: Ghostbloods
+
+    </div>
+
+- “This will not end well for you, Shallan,” Mraize said. “You make an enemy of the most powerful organization in all the cosmere.”
+
+    “I think we can handle you.”
+
+    “Perhaps. Can you handle my master? Can you handle her master?”
+
+    “Thaidakar?” Shallan guessed.
+
+    “Ah, so you’ve heard of him?”
+
+    “The Lord of Scars, Wit calls him. Well, when you next meet this Lord of Scars, give him a message from me.”
+
+    “He comes here in avatar only,” Mraize said. “We are too far beneath his level to be worthy of more.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: enemy: enemy
+
+    en: avatar: avatar
+
+    en: Thaidakar: Thaidakar
+
+    </div>
+
+- “Then tell his avatar something for me. Tell him … we’re done with his meddling. 
+His influence over my people is finished.” She hesitated, then sighed. Wit had asked nicely. “Also, Wit says to tell him, ‘Deal with your own stupid planet, you idiot. Don’t make me come over there and slap you around again.’”
+
+    “So it must be,” Mraize said. “Know that in doing this, you have moved against the Ghostbloods in the most offensive of ways. We are now at war, Shallan.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: avatar: avatar
+
+    en: meddling: meddling
+
+    </div>
+
+- Ever optimistic. Well, he had good reason. With the leaders of the honorspren in disgrace, and Lasting Integrity open again to all who would visit, he had accomplished his mission. He’d been correct all along, both about the honorspren and about Shallan herself.
+
+    Shallan reached forward and flipped to the next page in her notebook, where she’d done a drawing using Kelek’s descriptions. It showed a pattern of stars in the sky, and listed the many worlds among them.
+
+    Shallan had kept her head down too long. It was time to soar.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: soar: soar
+
+    en: optimistic: optimistic
+
+    en: disgrace: disgrace
+
+    </div>
+
+- Venli held out her hand, and the little lightspren inched into the air, then began spinning around Venli’s mother. The Reachers were searching for people who exemplified their Ideal: freedom. And the listeners were the perfect representation.
+
+    However, a Radiant bond required volition, and her mother couldn’t speak Ideals—though the Reachers indicated that the start of the bonding process didn’t require that. They also thought becoming Radiant would heal her mother, though they couldn’t say for certain. Mental wounds were difficult, they explained, and healing depended greatly on the individual.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: volition: volition
+
+    </div>
+
+- A shadow fell over Venli, and she started, staring up at a powerful long neck with a wicked arrowhead face on the end. A chasmfiend. Here. And no one was panicking.
+
+    Storms. “That’s…” she whispered. “That’s how you got out of the chasms that night, during the storm?”
+
+    Thude hummed Confidence.
+
+    Before she could demand answers, something else interrupted her. A voice.
+
+    “Venli? Venli, is that you?”
+
+    Venli looked down to see that her mother’s eyes had focused, _seeing her._
+
+    _Your Words, Venli,_ a distant femalen voice said in her mind, _are now accepted._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: arrowhead: arrowhead
+
+    en: Venli: Venli
+
+    </div>
+
+- “It is,” Kaladin said with awe. “How is Lift, by the way?”
+
+    “My lunch is gone,” Dalinar said. “So I’d say she’s doing fine. We found her spren once the tower was restored, and they have—for some reason—decided to begin carrying around a bright red chicken.” He sighed. “Anyway, she said she found that flute in a merchant’s bin down in the Breakaway. One who sells salvage from the Shattered Plains. There might be other things your men were forced to abandon there.”
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Lift: Lift
+
+    en: merchant: merchant's
+
+    en: salvage: salvage
+
+    </div>
+
+- “But you mistook me,” El said. “When we said we did not want to have to wait for your rebirth, it was not your convenience that troubled us, but mine. I am very curious, you see, and you were the sole appropriate subject.”
+
+    “Subject for what?” the Pursuer asked, reaching the window and looking out over Kholinar at night.
+
+    “Oh, to see if this really works.” El raised the Voidlight sphere … and the Pursuer saw it was attached to a knife. Did the Light look wrong somehow? Warping the air around the gemstone?
+
+    “I think this might hurt,” El said, then grabbed the Pursuer by the front of his beard. “Enjoy this final Passion, Defeated One.”
+
+    He plunged the knife down as the Pursuer struggled.
+
+    And his soul ripped itself apart.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: plunge: plunged
+
+    en: convenience: convenience
+
+    en: sole: sole
+
+    en: warp: warping
+
+    </div>
+
+- “Sense, Odium. The only kind I have is nonsense. Well, and some cents, but cents are nonsense here too—so we can ignore them. Scents are mine aplenty, and you never cared for the ones I present. So instead, the sense that matters is the sense Dalinar sensibly sent you.”
+
+    _I hate you._
+
+    “Rayse, dear,” Wit said, “you’re supposed to be an idiot. Say intelligent things like that too much, and I’ll need to reevaluate. I know you adjusted the contract, trying for an advantage. How does it feel to know that Dalinar bested you?”
+
+    _I shall have my vengeance,_ Odium said. _Even if it takes an eternity, Cephandrius, I will destroy you._
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Odium: Odium
+
+    en: aplenty: aplenty
+
+    en: Cephandrius: Cephandrius
+
+    </div>
+
+- Wit cocked his head. There was something odd about this change in tone from Odium. Asking whom Wit would choose? Rayse wouldn’t care to know.
+
+    <div markdown="1" class="tagged-entries">
+
+    en: Rayse: Rayse
+
+    en: whom: whom
+
+    en: tone: tone
+
+    en: Odium: Odium
+
+    en: cock: cocked
+
+    en: wit: Wit
+
+    </div>
+
+- _I have made an error, I see,_ the power said, soft and thoughtful. _I am new to this. I should not have pushed for information. It’s all about giving you what you expect. Even a being thousands of years old can be tricked. I know this from personal experience now._
+
+    “Who are you?” Wit whispered.
+
+    _Odium,_ the power said. _Let me see … I cannot harm you. But here, you have used this other Investiture to store your memories, haven’t you? Because you’ve lived longer than a mortal should, you need to put the excess memories somewhere. I can’t see your mind, but I can see these, can’t I?_
+
+    For the first time in a long, long while, Wit felt true terror. If Odium destroyed the Breaths that held his memories …
+
+    _I don’t believe this will cause you actual harm …_ Odium said. _Yes, it seems my predecessor’s agreements will allow me to—_
+
+    <div markdown="1" class="tagged-entries">
+
+    en: predecessor: predecessor's
+
+    en: investiture: Investiture
+
+    en: wit: Wit
+
+    en: Odium: Odium
+
+    en: excess: excess
+
+    en: mortal: mortal
+
+    en: breath: breaths
+
+    </div>
