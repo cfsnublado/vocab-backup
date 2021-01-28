@@ -1428,7 +1428,7 @@ source_type: book
 
     en: prow: prow
 
-    en: obsidian
+    en: obsidian: obsidian
 
     </div>
 
@@ -2878,8 +2878,6 @@ I have been tracking him due to his unusual circumstances. He possesses an artif
     en: artifact: artifact
 
     en: Ulim: Ulim
-
-    en: Nale: Nale
 
     en: Gavilar: Gavilar
 
@@ -4932,3 +4930,6 @@ His influence over my people is finished.” She hesitated, then sighed. Wit had
     en: breath: breaths
 
     </div>
+
+
+
