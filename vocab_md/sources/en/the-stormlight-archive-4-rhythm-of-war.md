@@ -63,7 +63,7 @@ source_type: book
 
     <div markdown="1" class="tagged-entries">
 
-    en: wantonly: tags
+    en: wantonly: wantonly
 
     en: shard: Shard
 
