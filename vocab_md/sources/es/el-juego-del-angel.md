@@ -959,4 +959,272 @@ source_type: book
 
     </div>
 
+- —Cómo está el mundo —exclamó el hombre ante las noticias de su periódico—. Se conoce que, en las fases más avanzadas del cretinismo, la falta de ideas se compensa con el exceso de ideologías.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ideología: ideologías
+
+    es: cretinismo: cretinismo
+
+    </div>
+
+- —¿Puedo al menos quedarme con la tranquilidad de que pensará en lo que he le dicho y que volveremos a hablar? —preguntó.
+
+    —No sé qué decir, señor Corelli.
+
+    —No me diga nada ahora. Le prometo que la próxima vez que nos encontremos lo verá usted mucho más claro.
+
+    Con estas palabras me sonrió cordialmente y se alejó hacia las escaleras.
+
+    —¿Habrá una próxima vez? —pregunté.
+
+    Corelli se detuvo y se volvió.
+
+    —Siempre la hay.
+
+    —¿Dónde?
+
+    Las últimas luces del día caían sobre la ciudad y sus ojos brillaban como dos brasas.
+
+    Le vi desaparecer por la puerta de las escaleras. Sólo entonces me di cuenta de que, durante toda la conversación, no le había visto pestañear una sola vez.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: pestañear: pestañear
+
+    es: caer: caín
+
+    es: detenerse: se detuvo
+
+    es: brasa: brasas
+
+    es: Corelli: Corelli
+
+    </div>
+
+- Me legaba su considerable arsenal de humo y de espejos. Y me pedía que le dejase ir, porque él había nacido para ser olvidado. Tomé las páginas que llevaba escritas de su última novela y les prendí fuego, sintiendo cómo una losa se me quitaba de encima con cada página que entregaba a las llamas. Una brisa húmeda y calurosa soplaba aquella noche sobre los tejados, y al entrar por mis ventanas se llevó las cenizas de Ignatius B. Samson y las esparció entre los callejones de la ciudad vieja de donde nunca, por mucho que sus palabras se perdiesen para siempre y su nombre resbalase de la memoria de sus más devotos lectores, se marcharía.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: llama: llamas
+
+    es: legar: legaba
+
+    es: arsenal: arsenal
+
+    es: prender: prendí
+
+    es: soplar: soplaba
+
+    es: ceniza: cenizas
+
+    es: resbalarse: resbalase
+
+    es: marcharse: se marcharía
+
+    es: esparcir: esparció
+
+    </div>
+
+- —¿Qué malas noticias son ésas? —preguntó Escobillas.
+
+    —¿Lleva algo de retraso, amigo Martín? —añadió Barrido amistosamente—. Seguro que podemos acomodar.
+
+    —No. No hay retraso. Sencillamente no va a haber libro.
+
+    Escobillas dio un paso al frente y arqueó las cejas. Barrido dejó escapar una risita.
+
+    —¿Cómo que no va a haber libro? —preguntó Escobillas.
+
+    —Como que ayer le prendí fuego y no queda una sola página del manuscrito.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: prender: prendí
+
+    es: retraso: retraso
+
+    es: arquear: arqueó
+
+    es: manuscrito: manuscrito
+
+    </div>
+
+- Al término del discurso, Barrido hizo una pausa escénica. Tal vez esperaba que rompiese a aplaudir, pero cuando vio que me quedaba quieto prosiguió su exposición sin más dilación.
+
+    —Por eso voy a proponerle lo siguiente: tómese usted seis meses, nueve si hace falta, porque un parto es un parto, y enciérrese en su estudio a escribir la gran novela de su vida. Cuando la tenga nos la trae y nosotros la publicaremos con su nombre, poniendo toda la carne en el asador y apostando el todo por el todo. Porque estamos a su lado.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: discurso: discurso
+
+    es: aplaudir: aplaudir
+
+    es: proponer: proponerle
+
+    es: parto: parto
+
+    es: traer: traer
+
+    es: apostar: apostando
+
+    </div>
+
+- Empecé a trabajar aquel mismo día. Mi plan era tan simple como descabellado. De día reescribiría el libro de Vidal y de noche trabajaría en el mío. Sacaría brillo a todas las malas artes que me había enseñado Ignatius B. Samson y las pondría al servicio de lo poco digno y decente, si es que lo había, que me quedaba en el corazón. Escribiría por gratitud, por desesperación y vanidad. Escribiría sobre todo para Cristina, para demostrarle que también yo era capaz de pagar mi deuda con Vidal y que David Martín, aunque estuviese a punto de caerse muerto, se había ganado el derecho a mirarla a los ojos sin avergonzarse de sus ridículas esperanzas.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: descabellado: descabellado
+
+    es: avergonzarse: avergonzarse
+
+    </div>
+
+- A los pocos días de haber puesto punto y final a las dos novelas, la de Vidal y la mía, Pep se presentó en mi casa sin previo aviso. Iba enfundado en aquel uniforme que había heredado de Manuel y que le confería el aspecto de un niño disfrazado de mariscal de campo. En principio supuse que traía algún mensaje de Vidal, o tal vez de Cristina, pero su sombrío semblante traicionaba una inquietud que me hizo descartar aquella posibilidad tan pronto cruzamos la mirada.
+
+    —Malas noticias, señor Martín.
+
+    —¿Qué ha pasado?
+
+    —Es el señor Manuel.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: enfundar: enfundado
+
+    es: traer: traía
+
+    es: sombrío: sombrío
+
+    es: descartar: descartar
+
+    </div>
+
+- El eco de relámpagos en el horizonte y un viento cálido que olía a polvo y a electricidad hacían presagiar que se avecinaba una tormenta estival de considerable envergadura. Cuando llegué a la estación estaban empezando a verse las primeras gotas, brillantes y pesadas como monedas caídas del cielo. Para cuando me adentré en el andén a esperar la llegada del tren, la lluvia ya golpeaba con fuerza la bóveda de la estación y la noche pareció precipitarse de golpe, apenas interrumpida por las llamaradas de luz que estallaban sobre la ciudad y dejaban un rastro de ruido y furia.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: relámpago: relámpagos
+
+    es: oler: olía
+
+    es: presagiar: presagiar
+
+    es: avecinarse: se avecinaba
+
+    es: envergadura: evergadura
+
+    es: estival: estival
+
+    es: andén: andén
+
+    es: bóveda: bóveda
+
+    es: llamarada: llamaradas
+
+    es: estallar: estallaban
+
+    es: rastro: rastro
+
+    </div>
+
+- Al amparo de aquel paraguas nos aventuramos bajo el diluvio rumbo a la casa de la torre, adonde gracias a las ráfagas de viento y los charcos llegamos diez minutos más tarde completamente empapados. La tormenta se había llevado el alumbrado, y las calles estaban sumidas en una oscuridad líquida, apenas punteada por faroles de aceite o velas prendidas proyectados desde balcones y portales. No dudé que la formidable instalación eléctrica de mi casa debía de haber sido de las primeras en sucumbir. Tuvimos que subir las escaleras a tientas y, al abrir la puerta principal del piso, el aliento de los relámpagos desenterró su aspecto más fúnebre e inhóspito.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: amparo: amparo
+
+    es: paraguas: paraguas
+
+    es: diluvio: diluvio
+
+    es: rumbo: rumbo
+
+    es: ráfaga: ráfagas
+
+    es: empapar: empapados
+
+    es: alumbrado: alumbrado
+
+    es: relámpago: relámpagos
+
+    es: inhóspito: inhóspito
+
+    es: formidable: formidable
+
+    </div>
+
+- La dejé a solas y me dirigí a mi habitación para desembarazarme de los zapatos empapados. Puse agua a calentar y me senté en la galería a esperar. La lluvia seguía cayendo con fuerza, ametrallando los ventanales con rabia y formando regueros, en los desagües de la torre y el terrado, que sonaban como pasos en el techo. Más allá, el barrio de la Ribera estaba sumido en una oscuridad casi absoluta.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: empapar: empapados
+
+    es: ametrallar: ametrallando
+
+    es: ventanal: ventanales
+
+    es: reguero: regueros
+
+    es: desagüe: desagües
+
+    </div>
+
+- Examiné la fotografía y recordé exactamente el día de verano en que Manuel me había dejado subir en el primer coche que había comprado Vidal y me había enseñado los rudimentos de la conducción. Luego habíamos sacado el coche hasta la calle Panamá y, a una velocidad de unos cinco kilómetros por hora que a mí me pareció vertiginosa, habíamos ido hasta la avenida Pearson y habíamos vuelto conmigo a los mandos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: rudimento: rudimentos
+
+    es: conducción: conducción
+
+    es: vertiginoso: vertiginosa
+
+    </div>
+
+- Seguí viajando a través de la memoria del pobre Manuel hasta dar con una página en la que aparecía una fotografía que no parecía encajar con el resto. En ella se apreciaba a una niña de unos ocho o nueve años caminando sobre un pequeño muelle de madera que se adentraba en una lámina de mar luminosa. Iba de la mano de un adulto, un hombre vestido con un traje blanco que quedaba cortado por el encuadre. Al fondo del muelle se podía apreciar un pequeño bote de vela y un horizonte infinito en el que se ponía el sol. La niña, que estaba de espaldas, era Cristina.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: encajar: encajar
+
+    es: muelle: muelle
+
+    es: lámina: lámina
+
+    es: vela: vela
+
+    </div>
+
+- —Porque nuestras vidas no nos pertenecen. Ni la mía, ni la de mi padre, ni la tuya…
+
+    —Todo pertenece a Vidal —dije con amargura.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: pertenecer: pertenece, pertenecen
+
+    es: amargura: amargura
+
+    </div>
+
+- Cuando el primer aliento del alba rozó las ventanas abrí los ojos y encontré el lecho vacío. Salí al corredor y fui hasta la galería. Cristina había dejado el álbum y se había llevado la novela de Vidal. Recorrí la casa, que ya olía a su ausencia, y fui apagando una por una las velas que había prendido la noche anterior.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: alba: alba
+
+    es: rozar: rozó
+
+    es: recorrer: recorrí
+
+    es: oler: olía
+
+    es: vela: velas
+
+    es: prender: había prendido
+
+    </div>
+
 - 
