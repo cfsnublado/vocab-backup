@@ -3960,3 +3960,1788 @@ Su amigo,_
     es: sendos: sendos
 
     </div>
+
+- La calle de la Lleona, más conocida entre los lugareños como la dels Tres Llits en honor al notorio prostíbulo que albergaba, era un callejón casi tan tenebroso como su reputación. Partía de los arcos a la sombra de la plaza Real y crecía en una grieta húmeda y ajena a la luz del sol entre viejos edificios apilados unos sobre otros y cosidos por una perpetua telaraña de líneas de ropa tendida. Sus fachadas decrépitas se deshacían en ocre, y las láminas de piedra que cubrían el suelo habían estado bañadas de sangre durante los años del pistolerismo. Más de una vez la había utilizado como escenario en mis historias de _La Ciudad de los Malditos_ e incluso ahora, desierta y olvidada, me seguía oliendo a intrigas y pólvora.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: lugareño: lugareños
+
+    es: prostíbulo: prostíbulo
+
+    es: ajeno: ajena
+
+    es: apilado: apilados
+
+    es: decrépito: decrépitas
+
+    es: lámina: láminas
+
+    es: telaraña: telaraña
+
+    es: escenario: escenario
+
+    es: intriga: intrigas
+
+    es: pólvora: pólvora
+
+    </div>
+
+- —Ahí es donde la cosa se pone interesante —dijo Salvador—. ¿Sabía usted que el señor Marlasca, amén de abogado, erudito y escritor había sido, de joven, campeón en dos ocasiones de la travesía navideña a nado del puerto que organiza el Club Natación Barcelona?
+
+    —¿Cómo se ahoga un campeón de natación? —pregunté.
+ 
+    —La cuestión es dónde. El cadáver del señor Marlasca fue encontrado en el estanque de la azotea del Depósito de las Aguas del Parque de la Ciudadela. ¿Conoce usted el lugar?
+
+    Tragué saliva y asentí. Aquél era el primer lugar donde me había encontrado con Corelli.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: erudito: erudito
+
+    es: ahogar: se ahoga
+
+    es: natación: natación
+
+    </div>
+
+- —Cuando Marlasca se cayó al estanque, o cuando alguien lo empujó, estaba en llamas. El cuerpo presentaba quemaduras de tercer grado en torso, brazos y rostro. Era opinión del forense que el cuerpo pudo haber ardido por espacio de casi un minuto antes de que entrase en contacto con el agua. Restos encontrados en las ropas del abogado indicaban la presencia de algún tipo de disolvente en los tejidos. A Marlasca lo quemaron vivo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: caer: se cayó
+
+    es: llama: llamas
+
+    es: tejido: tejidos
+
+    </div>
+
+- —¿Por qué iba alguien a hacer algo así?
+
+    —¿Ajuste de cuentas? ¿Simple crueldad? Elija usted. Mi opinión es que alguien quería retrasar la identificación del cuerpo de Marlasca para ganar tiempo y confundir a la policía.
+
+    —¿Quién?
+
+    —Jaco Corbera.
+
+    —El representante de Irene Sabino.
+
+    —Que desapareció el mismo día de la muerte de Marlasca con el importe de una cuenta personal que el abogado tenía en el Banco Hispano Colonial y de la que su esposa no sabía nada.
+
+    —Cien mil francos franceses —apunté.
+
+    Salvador me miró, intrigado.
+
+    —¿Cómo lo sabe usted?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ajuste de cuentas: ajuste de cuentas
+
+    es: restrasar: retrasar
+
+    </div>
+
+- Jaco tenía un socio, Damián Roures, que estaba metido en esos ambientes. Un farsante de tomo y lomo. Entre los dos, y con la ayuda de Irene Sabino, embaucaron a Marlasca, prometiéndole que podía entablar contacto con el niño en el mundo de los espíritus. Marlasca era un hombre desesperado y dispuesto a creer lo que fuese. Aquel trío de sabandijas tenía organizado el negocio perfecto hasta que Jaco se volvió más codicioso de la cuenta. Hay quien opina que la Sabino no actuaba de mala fe, que estaba genuinamente enamorada de Marlasca y que creía en todo aquello al igual que él. A mí esa posibilidad no me convence, pero a efectos de lo que sucedió es irrelevante.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: socio: socio
+
+    es: farsante: farsante
+
+    es: sabandija: sabandijas
+
+    es: codicioso: codicioso
+
+    es: irrelevante: irrelevante
+
+    </div>
+
+- —Una cabezadita y me quedo como nuevo.
+
+    Decidí acompañarle hasta el piso en el que vivían padre e hijo, justo encima de la librería, y asegurarme de que se metía bajo las mantas. Tardamos un cuarto de hora en negociar el tramo de las escaleras. Por el camino nos encontramos a uno de los vecinos, un afable catedrático de instituto llamado don Anacleto que daba clases de lengua y literatura en los jesuitas de Caspe y regresaba a su casa.
+
+    —¿Cómo se presenta hoy la vida, amigo Sempere?
+
+    —Empinada, don Anacleto.
+
+    Con la ayuda del catedrático conseguí llegar al primer piso con Sempere prácticamente colgado de mi cuello.
+
+    —Con el permiso de ustedes me retiro a descansar tras una larga jornada de lidia con esa jauría de primates que tengo por alumnos —anunció el catedrático—. Se lo digo yo, este país se va a desintegrar en una generación. Como ratas se van a despellejar unos a otros.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: jornada: jornada
+
+    es: despellejar: despellejar
+
+    es: tramo: tramo
+
+    es: librería: librería
+
+    es: desintegrar: desintegrar
+
+    es: catedrático: catedrático
+
+    </div>
+
+- Al entrar en la vivienda me asaltó el recuerdo de aquella mañana lejana en la que llegué allí ensangrentado, sosteniendo un ejemplar de _Grandes esperanzas_ en las manos, y Sempere me subió en brazos hasta su casa y me sirvió una taza de chocolate caliente que me bebí mientras esperábamos al médico y él me susurraba palabras tranquilizadoras y me limpiaba la sangre del cuerpo con una toalla tibia y una delicadeza que nunca nadie me había mostrado antes. Por entonces, Sempere era un hombre fuerte que me parecía un gigante en todos los sentidos y sin el cual no creo que hubiera sobrevivido a aquellos años de escasa fortuna. Poco o nada quedaba de aquella fortaleza cuando le sostuve en mis brazos para ayudarle a acostarse y le tapé con un par de mantas. Me senté a su lado y le tomé la mano sin saber qué decir.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: vivienda: vivienda
+
+    es: asaltar: asaltó
+
+    es: ensangrentado: ensangrentado
+
+    es: ejemplar: ejemplar
+
+    es: sobrevivir: hubiera sobrevivido
+
+    </div>
+
+- Seguí degustando el confite de pato, ajeno a su insistente mirada. Al rato, Isabella dio un manotazo en la mesa.
+
+    —Haga el favor de mirarme. Todo esto es culpa suya.
+
+    Dejé los cubiertos con parsimonia, me limpié con la servilleta y la miré.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: degustar: degustando
+
+    es: ajeno: ajeno
+
+    es: parsimonia: parsimonia
+
+    es: servilleta: servilleta
+
+    </div>
+
+- Desperté al alba con el cuerpo dolorido y encajado en la butaca del estudio. Me levanté y escuché cómo crujían dos o tres engranajes de mi anatomía. Me arrastré hasta la ventana y la abrí de par en par. Los terrados de la ciudad vieja relucían de escarcha y un cielo púrpura se anudaba sobre Barcelona. Al sonido de las campanas de Santa María del Mar, una nube de alas negras alzó el vuelo desde un palomar. Un viento frío y cortante trajo el olor de los muelles y las cenizas de carbón que destilaban las chimeneas de la barriada.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: escarcha: escarcha
+
+    es: engranaje: engranajes
+
+    </div>
+
+- —¿Hablo con el señor Damián Roures?
+
+    El hombrecillo asintió lentamente, sin pestañear. Advertí que tenía los labios dibujados en una mueca risueña que, como su espejo, no era lo que parecía. La mirada era fría y cautelosa.
+
+    —Me han recomendado su establecimiento.
+
+    —¿Puedo preguntar quién ha sido tan amable?
+
+    —Ricardo Salvador.
+
+    La pretensión de sonrisa afable se borró de su rostro.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: pestañear: pestañear
+
+    es: advertir: advertí
+
+    es: pretensión: pretensión
+
+    </div>
+
+- —Quien lo conocía mejor era mi socio, Jaco, que era quien llevaba las sesiones. Pero por lo que recuerdo, _Lux Aeterna_ era un poema sobre la muerte y los siete nombres del Hijo de la Mañana, el Portador de la Luz.
+
+    —¿El Portador de la Luz?
+
+    Roures sonrió.
+
+    —Lucifer.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: Lucifer: Lucifer
+
+    es: socio: socio
+
+    es: portador: portador
+
+    </div>
+
+-  Me aproximé lentamente hasta la entrada y me asomé. La silueta estaba de espaldas, contemplando la ciudad a lo lejos. Era una mujer vestida de blanco que llevaba la cabeza cubierta con un manto. Se volvió lentamente y me miró. Sonreía. Pese a los años la reconocí al instante. Irene Sabino. Di un paso hacia ella y sólo entonces comprendí que había alguien más a mi espalda. El impacto en la nuca proyectó un espasmo de luz blanca. Sentí que caía de rodillas. Un segundo más tarde me desplomé sobre el mármol encharcado. Una silueta oscura se recortaba en la lluvia. Irene se arrodilló a mi lado. Sentí su mano rodearme la cabeza y palpar el lugar donde había recibido el golpe. Vi cómo sus dedos emergían impregnados de sangre. Me acarició el rostro con ellos. Lo último que vi antes de perder el sentido fue cómo Irene Sabino extraía una navaja de afeitar y la desplegaba lentamente, gotas plateadas de lluvia deslizándose por el filo mientras la acercaba hacia mí.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: espasmo: espasmo
+
+    es: desplomar: me desplomé
+
+    es: arrodillarse: se arrodilló
+
+    es: palpar: palpar
+
+    es: filo: filo
+
+    </div>
+
+- —Disculpe, inspector, pero creo que al menos podría dignarse decirme qué hago aquí.
+
+    —Le diré lo que hace usted aquí. Hace unas tres horas, un vecino de la finca donde está ubicado el establecimiento del señor Roures volvía tarde a casa cuando ha encontrado que la puerta de la tienda estaba abierta y las luces encendidas. Al extrañarle, ha entrado y, al no ver al dueño ni responder éste a sus llamadas, se ha dirigido a la trastienda donde lo ha encontrado atado con alambre de pies y manos en una silla sobre un charco de sangre.
+
+    Grandes dejó una larga pausa que dedicó a taladrarme con los ojos. Supuse que había algo más. Grandes siempre dejaba un golpe de efecto para el final.
+
+    —¿Muerto? —pregunté.
+
+    Grandes asintió.
+
+    —Bastante. Alguien se había entretenido en arrancarle los ojos y cortarle la lengua con unas tijeras. El forense supone que murió ahogado en su propia sangre una media hora después.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: entretener: se había entretenido
+
+    es: arranar: arrancarle
+
+    es: tijeras: tijeras
+
+    es: llamada: llamadas
+
+    es: dignar: dignarse
+
+    </div>
+
+- —Gracias por sacarme de ese lugar.
+
+    —No me lo agradezca a mí —respondió Valera, extrayendo un sobre del bolsillo interior de su abrigo.
+
+    Reconocí el sello del ángel sobre el lacre incluso en la penumbra que goteaba del farol que pendía del muro sobre nuestras cabezas. Valera me tendió el sobre y, con un último asentimiento, se alejó de regreso al coche que le estaba esperando. Abrí el portal y ascendí las escalinatas hasta el rellano del piso. Al entrar fui directo al estudio y deposité el sobre en el escritorio. Lo abrí y extraje la cuartilla doblada sobre la caligrafía del patrón.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: patrón: patrón
+
+    es: ascender: ascendí
+
+    es: sobre: sobre
+
+    es: agradecer: agradezca
+
+    </div>
+
+- _Amigo Martín:_
+
+    _Confío y deseo que esta nota le encuentre en buen estado de salud y ánimo. Se da la circunstancia de que estoy de paso en la ciudad y me complacería mucho poder disfrutar de su compañía este viernes a las siete de la tarde en la sala de billares del Círculo Ecuestre para comentar el progreso de nuestro proyecto._
+
+    _Hasta entonces le saluda con afecto su amigo,_
+
+    ANDREAS CORELLI
+
+    <div markdown="1" class="tagged-entries">
+
+    es: complacer: complacería
+
+    es: confiar: confío
+
+    </div>
+
+- El hedor ahora era mucho más claro y penetrante. Ignoré la náusea y abrí la caja. En el interior había una paloma blanca con el corazón atravesado por una aguja. Di un paso atrás, tapándome la boca y la nariz, y retrocedí hasta el pasillo. Los ojos del arlequín con su sonrisa de chacal me observaban desde el espejo. Corrí de regreso a la escalinata y me lancé escaleras abajo, buscando el corredor que conducía a la sala de lectura y la puerta que había conseguido abrir en el jardín. En algún momento creí que me había perdido y que la casa, como una criatura capaz de desplazar sus pasillos y salones a voluntad, no quería dejarme escapar.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: pasillo: pasillos
+
+    es: voluntad: voluntad
+
+    es: hedor: hedor
+
+    es: náusea: náusea
+
+    es: paloma: paloma
+
+    es: arlequín: arlequín
+
+    es: desplazar: desplazar
+
+    es: retroceder: retrocedí
+
+    es: atravesado: atravesado
+
+    es: aguja: aguja
+
+    </div>
+
+- Me volví un instante y pude apreciar una silueta oscura que me observaba desde el fondo del pasillo portando un objeto reluciente en la mano. Un cuchillo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: cuchillo: cuchillo
+
+    es: portar: portando
+
+    es: reluciente: reluciente
+
+    </div>
+
+- La luz siguió su recorrido hacia la parte más honda de la piscina y fue allí donde la encontré. Apoyado contra la pared yacía lo que me parecía un cuerpo envuelto en un vestido blanco deshilachado. Pensé que se trataba de una muñeca, los labios escarlata carcomidos por el agua y los ojos brillantes como zafiros. Su pelo rojo se mecía lentamente en las aguas putrefactas y tenía la piel azul. Era la viuda Marlasca.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: recorrido: recorrido
+
+    es: piscina: piscina
+
+    es: deshilachado: deshilachado
+
+    es: carcomido: carcomidos
+
+    es: putrefacto: putrefactas
+
+    es: viudo: viuda
+
+    es: mecer: se mecía
+
+    </div>
+
+- Un segundo después, el claro en el cielo se cerró y las aguas volvieron a transformarse en un espejo oscuro en el que sólo atiné a ver mi rostro y una silueta materializándose en el umbral de la galería a mi espalda con el cuchillo en la mano. Me levanté rápidamente y eché a correr hacia el jardín, cruzando la arboleda, arañándome la cara y las manos con los arbustos hasta ganar el portón metálico y salir al callejón.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: atinar: atiné
+
+    es: materializar: materializándose
+
+    es: cuchillo: cuchillo
+
+    </div>
+
+- Abandoné el trabajo para el patrón aquella misma mañana. Mientras Cristina dormía subí al estudio y guardé la carpeta que contenía todas las páginas, notas y apuntes del proyecto en un viejo baúl que había junto a la pared. Mi primer impulso había sido prenderle fuego, pero no tuve el valor. Toda mi vida había sentido que las páginas que iba dejando a mi paso eran parte de mí. La gente normal trae hijos al mundo; los novelistas traemos libros. Estamos condenados a dejarnos la vida en ellos, aunque casi nunca lo agradezcan. Estamos condenados a morir en sus páginas y a veces hasta a dejar que sean ellos quienes acaben por quitarnos la vida.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: baúl: baúl
+
+    es: traer: trae, traemos
+
+    es: novelista: novelistas
+
+    es: agradecer: agradezcan
+
+    es: patrón: patrón
+
+    </div>
+
+- Entre todas las extrañas criaturas de papel y tinta que había traído a este miserable mundo, aquélla, mi ofrenda mercenaria a las promesas del patrón, era sin duda la más grotesca. No había nada en aquellas páginas que mereciese otra cosa que el fuego y, sin embargo, no dejaba de ser sangre de mi sangre y no tenía el coraje de destruirla. La abandoné en el fondo de aquel baúl y salí del estudio apesadumbrado, casi avergonzado de mi cobardía y de la turbia sensación de paternidad que me inspiraba aquel manuscrito de tinieblas. Probablemente el patrón hubiese sabido apreciar la ironía de la situación. A mí, simplemente, me inspiraba náusea.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: tinta: tinta
+
+    es: patrón: patrón
+
+    es: paternidad: paternidad
+
+    es: avergonzado: avergonzado
+
+    es: cobardía: cobardía
+
+    </div>
+
+- Al regresar al portal encontré un sobre encajado en la puerta. El sello de lacre rojo con el ángel todavía estaba tibio. Miré a un lado y otro de la calle, pero no vi a nadie. Entré y cerré el portón a mi espalda con doble vuelta. Me detuve al pie de la escalera y abrí el sobre.
+
+    _Querido amigo:_
+
+    _Lamento profundamente que no pudiese usted acudir a nuestra cita de anoche. Confío en que esté usted bien y no se haya producido ninguna emergencia o contratiempo. Siento no haber podido disfrutar del placer de su compañía en esta ocasión, pero espero y deseo que sea lo que fuese lo que le impidiera reunirse conmigo, la cuestión tenga una pronta y favorable resolución y que la próxima vez sea más propicia a facilitar nuestro encuentro. Tengo que ausentarme de la ciudad por unos días, pero tan pronto esté de vuelta le haré llegar mis noticias. A la espera de saber de usted y de sus progresos en nuestro común proyecto, le saluda como siempre con afecto su amigo,_
+
+    ANDREAS CORELLI
+
+    <div markdown="1" class="tagged-entries">
+
+    es: acudir: acudir
+
+    es: confiar: confío
+
+    es: contratiempo: contratiempo
+
+    es: impedir: impidiera
+
+    </div>
+
+- Nos apostamos en un portal al otro lado de la calle, donde nadie podía vernos. El escaparate de la vieja librería proyectaba un soplo de luz sobre los adoquines húmedos y brillantes. En el interior se podía ver a Isabella aupada a una escalera ordenando libros en el último estante, mientras el hijo de Sempere hacía como que repasaba un libro de contabilidad tras el mostrador y le miraba los tobillos de refilón. Sentado en un rincón, viejo y cansado, el señor Sempere les observaba a ambos con una sonrisa triste.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: aupar: aupada
+
+    es: apostar: nos apostamos
+
+    es: escaparate: escaparate
+
+    es: librería: librería
+
+    es: soplo: soplo
+
+    </div>
+
+- Cristina se adelantó por el corredor y, sin mediar palabra, se fue desnudando y dejando un rastro de ropa en el suelo. La encontré tendida en el lecho, esperando. Me tendí a su lado y dejé que guiase mis manos. Mientras la acariciaba vi cómo los músculos de su cuerpo se tensaban bajo la piel. En sus ojos no había ternura sino un anhelo de calor y de urgencia. Me abandoné en su cuerpo, embistiéndola con rabia mientras sentía sus uñas en mi piel. La escuché gemir de dolor y de vida, como si le faltase el aire. Finalmente caímos exhaustos y cubiertos de sudor el uno junto al otro. 
+
+    <div markdown="1" class="tagged-entries">
+
+    es: embestir: embistiéndola
+
+    es: anhelo: anhelo
+
+    es: ternura: ternura
+
+    es: gemir: gemir
+
+    </div>
+
+- —Es un borrador y no tiene ni pies ni cabeza. Es un montón de ideas y notas, fragmentos sueltos. Nada que sea legible. Te aburriría.
+
+    —Igualmente me gustaría leerlo.
+
+    —¿Por qué?
+
+    —Porque lo has escrito tú. Pedro dice siempre que la única manera de conocer realmente a un escritor es a través del rastro de tinta que va dejando, que la persona que uno cree ver no es más que un personaje hueco y que la verdad se esconde siempre en la ficción.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ficción: ficción
+
+    es: rastro: rastro
+
+    es: personaje: personaje
+
+    es: borrador: borrador
+
+    </div>
+
+- —¿Por qué no preparas una bolsa con algo de ropa mientras tanto? Yo estaré de vuelta en un par de horas como máximo.
+
+    Cristina sonrió débilmente.
+
+    —Aquí estaré.
+
+    Me aproximé a ella y le tomé el rostro en las manos.
+
+    —Mañana por la noche, estaremos en París —le dije.
+
+    La besé en la frente y me fui.
+
+
+    <div markdown="1" class="tagged-entries">
+
+    es: de vuelta: estaré de vuelta
+
+    </div>
+
+- Lentamente la conciencia de lo que había pasado se fue desplomando a mi alrededor y aquel deseo de creer y confiar se fue tornando hiel y amargura. Pronto escuché las campanas de Santa María redoblar las dos. El tren para París ya había dejado la estación y Cristina no había regresado. Comprendí entonces que se había ido, que aquellas horas breves que habíamos compartido habían sido un espejismo. Miré tras los cristales aquel día deslumbrante que ya no tenía color de buena suerte y la imaginé de vuelta en Villa Helius, buscando el abrigo de los brazos de Pedro Vidal. Sentí que el rencor me iba envenenando la sangre lentamente y me reí de mí mismo y de mis absurdas esperanzas.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: desplomar: se fue desplomando
+
+    es: confiar: confiar
+
+    es: amargura: amargura
+
+    es: campana: campanas
+
+    es: espejismo: espejismo
+
+    </div>
+
+- Corrí hasta la puerta y la abrí. Estaba allí, en la penumbra, vestida de blanco. Quise abrazarla, pero entonces vi su rostro lleno de lágrimas y comprendí que aquella mujer no era Cristina.
+
+    —David —murmuró Isabella con la voz rota—. El señor Sempere ha muerto.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: murmurar: murmuró
+
+    es: penumbra: penumbra
+
+    </div>
+
+- Cuando llegamos a la librería ya había anochecido. Un resplandor dorado rompía el azul de la noche a las puertas de Sempere e Hijos, donde un centenar de personas se habían reunido portando velas en las manos. Algunos lloraban en silencio, otros se miraban entre ellos sin saber qué decir. Reconocí algunos de los rostros, amigos y clientes de Sempere, gentes a las que el viejo librero había regalado libros, lectores que se habían iniciado en la lectura con él. A medida que la noticia se esparcía por el barrio, llegaban otros lectores y amigos que no podían creer que el señor Sempere hubiera muerto.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: librería: librería
+
+    es: resplandor: resplandor
+
+    es: portar: portando
+
+    es: librero: librero
+
+    es: libro: libros
+
+    es: lector: lectores
+
+    es: lectura: lectura
+
+    </div>
+
+- Brindamos y bebimos en silencio. Nos quedamos allí hasta que los empleados de la funeraria regresaron con el ataúd y las ropas con las que Sempere iba a ser enterrado.
+
+    —Si les parece bien, de éstos nos encargamos nosotros —sugirió el que parecía más espabilado.
+
+    Asentí. Antes de pasar a la parte delantera de la librería tomé aquel viejo ejemplar de _Grandes esperanzas_ que nunca había vuelto a recoger y se lo puse en las manos al señor Sempere.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: brindar: brindamos
+
+    es: librería: librería
+
+    es: ejemplar: ejemplar
+
+    </div>
+
+- Oí que alguien decía que el hijo del librero parecía haber envejecido quince años en una noche. Se referían a él como el señor Sempere, porque ahora él era el responsable de la librería y durante cuatro generaciones aquel bazar encantado de la calle Santa Ana nunca había cambiado de nombre y siempre había estado al mando de un señor Sempere. Isabella le llevaba del brazo y me pareció que, de no estar ella allí, él se hubiera desplomado como un títere sin hilos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: oír: oí
+
+    es: librero: librero
+
+    es: librería: librería
+
+    es: bazar: bazar
+
+    es: títere: títere
+
+    </div>
+
+- La vanidad empañaba la amargura y el dolor cerraba la puerta a la conciencia. En un acto de soberbia releí aquel _Lux Aeterna_ de mi predecesor, Diego Marlasca, y luego lo entregué a las llamas del hogar. Donde él había fracasado, yo triunfaría. 
+
+    <div markdown="1" class="tagged-entries">
+
+    es: triunfar: triunfaría
+
+    es: predecesor: predecesor
+
+    es: soberbia: soberbia
+
+    </div>
+
+- Volví al trabajo al séptimo día. Esperé a la medianoche y me senté al escritorio. Una página limpia en el tambor de la vieja Underwood y la ciudad negra tras las ventanas. Las palabras y las imágenes brotaron de mis manos como si hubieran estado esperando con rabia en la prisión del alma. Las páginas fluían sin conciencia ni mesura, sin más voluntad que la de embrujar y envenenar los sentidos y el pensamiento. Había ya dejado de pensar en el patrón, en su recompensa o sus exigencias. Por primera vez en mi vida escribía para mí y para nadie más. Escribía para prender fuego al mundo y consumirme con él.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: tambor: tambor
+
+    es: fluir: fluían
+
+    es: mesura: mesura
+
+    es: voluntad: voluntad
+
+    es: brotar: brotaron
+
+    es: rabia: rabia
+
+    es: patrón: patrón
+
+    </div>
+
+- —No. Has hecho bien. ¿No dijo nada más don Anacleto sobre esa mujer?
+
+    —Sólo que los oyó discutir. Le pareció que era sobre un libro. Un libro que ella quería comprar y el señor Sempere no le quería vender.
+
+    —¿Y por qué me mencionó? No lo entiendo.
+
+    —Porque el libro era suyo. _Los Pasos del Cielo_. El único ejemplar que el señor Sempere había conservado en su colección personal y que no estaba a la venta…
+
+    <div markdown="1" class="tagged-entries">
+
+    es: oir: oyó
+
+    es: discutir: discutir
+
+    es: libro: libro
+
+    es: ejemplar: ejemplar
+
+    </div>
+
+- —Esa mujer intentó llevarse el libro a la fuerza, y en la pelea el señor Sempere sufrió un ataque al corazón. Eso es lo que pasó —dije—. Y todo por un cochino libro mío.
+
+    Sentí que se me retorcían las entrañas.
+
+    —Hay algo más —dijo Isabella.
+
+    —¿Qué?
+
+    —Días después me encontré a don Anacleto en la escalera y me dijo que ya sabía de qué recordaba a aquella mujer, que el día que la vio no cayó, pero que le sonaba que la había visto antes, muchos años atrás, en el teatro.
+
+    —¿En el teatro?
+
+    Isabella asintió.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: libro: libro
+
+    es: retorcer: retorcían
+
+    es: entraña: entrañas
+
+    es: teatro: teatro
+
+    </div>
+
+- Recordé que el viejo librero siempre me había dicho que los libros tenían alma, el alma de quien los había escrito y de quienes los habían leído y soñado con ellos. Comprendí entonces que hasta el último momento había luchado por protegerme, sacrificándose para salvar aquel pedazo de papel y tinta que él creía que llevaba mi alma escrita. Cuando Isabella regresó, cargada con una bolsa de exquisiteces del colmado de sus padres, le bastó con mirarme para saberlo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: librero: librero
+
+    es: libro: libros
+
+    es: pedazo: pedazo
+
+    es: alma: alma
+
+    es: sacrificar: sacrificándose
+
+    es: exquisitez: exquisiteces
+
+    </div>
+
+- —Usted conoce a esa mujer —dijo—. La mujer que mató al señor Sempere…
+
+    —Creo que sí. Irene Sabino.
+
+    —¿No es ésa la de las fotografías viejas que encontramos en la habitación del fondo? ¿La actriz?
+
+    Asentí.
+
+    —¿Y para qué querría ella ese libro?
+
+    —No lo sé.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: fotografía: fotografías
+
+    es: libro: libro
+
+    </div>
+
+- —La otra noche soñé que tenía un hijo —dijo—. Soñé que él me llamaba pero yo no podía oírle ni llegar hasta él porque estaba atrapada en un lugar donde hacía mucho frío y no podía moverme. Él me llamaba y yo no podía acudir a su lado.
+
+    —Es sólo un sueño —dije.
+
+    —Parecía real.
+
+    —A lo mejor tendrías que escribir esa historia —aventuré.
+
+    Isabella negó.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: llamar: llamaba
+
+    es: oír: oírle
+
+    es: acudir: acudir
+
+    es: aventurar: aventuré
+
+    </div>
+
+- El doctor Sanjuán sonrió nerviosamente.
+
+    —Cristina cree que algo, o alguien, ha entrado dentro de ella y quiere destruirla.
+
+    —¿Quién?
+
+    —Sólo sé que ella cree que está relacionado con usted y que es alguien o algo que le da miedo. Por eso creo que nadie más puede ayudarla. Por eso no avisé a Vidal, como hubiera sido mi deber. Porque sabía que tarde o temprano usted aparecería por aquí.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: destruir: destruirla
+
+    </div>
+
+- Supe que iba a escribir la historia que Cristina nunca pudo recordar, la historia que la había llevado de niña a caminar sobre aquellas aguas relucientes de la mano de un extraño. Escribiría la historia de aquel recuerdo que nunca fue, la memoria de una vida robada. Las imágenes y la luz que asomaban entre las frases me llevaron de nuevo a aquella vieja Barcelona de tinieblas que nos había hecho a ambos. Escribí hasta que se puso el sol y no quedó ni gota de café en el termo, hasta que el lago helado se encendió con la luna azul y me dolieron los ojos y las manos. Dejé caer la pluma y aparté las cuartillas de la mesa. Cuando el conserje llamó a la puerta para preguntarme si iba a bajar a cenar, no le oí. Había caído profundamente dormido, por una vez soñando y creyendo que las palabras, incluso las mías, tenían el poder de curar.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: reluciente: relucientes
+
+    es: extraño: extraño
+
+    es: tiniebla: tinieblas
+
+    es: termo: termo
+
+    es: oír: oí
+
+    </div>
+
+- Caminamos hasta el lago y nos sentamos en un banco. Empezó a hablarme de un sueño que había tenido, la historia de una niña que vivía en una ciudad laberíntica y oscura cuyas calles y edificios estaban vivos y se alimentaban de las almas de sus habitantes. En su sueño, como en el relato que le había estado leyendo durante días, la niña conseguía escapar y llegaba a un muelle tendido sobre un mar infinito. Caminaba de la mano de un extraño sin nombre ni rostro que la había salvado y que la acompañaba ahora hasta el fin de aquella plataforma de maderos tendida sobre las aguas donde alguien la esperaba, alguien que nunca llegaba a ver, porque su sueño, como la historia que le había estado leyendo, estaba inacabado.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: banco: banco
+
+    es: laberíntico: laberíntica
+
+    es: alma: almas
+
+    es: relato: relato
+
+    es: muelle: muelle
+
+    </div>
+
+- —Se acerca —decía—. Tengo que irme. Antes de que te vea.
+
+    Entonces se sumía en un largo silencio, ajena a mi presencia o al mundo, como si algo la hubiese arrastrado a algún lugar remoto e inalcanzable. Pasados unos días, la certeza de que Cristina había perdido la razón empezó a calarme hondo. La esperanza del primer momento se tiñó de amargura y en ocasiones, al regresar a aquella celda en mi hotel por la noche, sentía abrirse dentro de mí aquel viejo abismo de oscuridad y de odio que creía olvidado. El doctor Sanjuán, que me observaba con la misma paciencia y tenacidad que reservaba a sus pacientes, me había advertido que aquello iba a suceder.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ajeno: ajena
+
+    es: arrastrar: hubiese arrastrado
+
+    es: inalcanzable: inalcanzable
+
+    es: calar: calarme
+
+    es: abismo: abismo
+
+    es: tenacidad: tenacidad
+
+    </div>
+
+- Yo asentía dócil y regresaba día tras día al sanatorio para llevar a Cristina de paseo hasta el lago, para escuchar aquellos recuerdos soñados que me había relatado decenas de veces pero que ella volvía a descubrir de nuevo cada día. Todos los días me preguntaba dónde había estado, por qué no había regresado a buscarla, por qué la había dejado sola. Todos los días me miraba desde su jaula invisible y me pedía que la abrazase. Todos los días, al despedirme de ella, me preguntaba si la quería y yo siempre le respondía lo mismo.
+
+    —Te querré siempre —decía yo—. Siempre.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: jaula: jaula
+
+    es: pedir: pedía
+
+    es: sanatorio: sanatorio
+
+    </div>
+
+- Diez minutos más tarde entraba por las puertas de Villa San Antonio. Los gritos podían oírse desde el jardín. Cristina había trabado por dentro la puerta de su habitación. El doctor Sanjuán, con aspecto de no haber dormido en una semana, y dos enfermeros estaban intentando forzar la puerta. En el interior se podía oír a Cristina gritando y golpeando las paredes, derribando los muebles y destrozando cuanto encontraba.
+
+    —¿Quién está ahí dentro con ella? —pregunté, helado.
+
+    —Nadie —replicó el doctor.
+
+    —Pero le está hablando a alguien… —protesté.
+
+    —Está sola.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: oír: oírse, oír
+
+    es: trabar: había trabado
+
+    es: derribar: derribando
+
+    es: destrozar: destrozando
+
+    es: replicar: replicó
+
+    </div>
+
+- Negó de nuevo.
+
+    —David, mírame.
+
+    Me senté en el borde del lecho y la miré a los ojos.
+
+    —Tienes que destruirlo —dijo.
+
+    —No te entiendo.
+
+    —Tienes que destruirlo.
+
+    —¿El qué?
+
+    —El libro.
+
+    —Cristina, lo mejor será que avise al doctor…
+
+    —No. Escúchame.
+
+    Me aferró la mano con fuerza.
+
+    —La mañana que te fuiste a buscar los billetes, ¿te acuerdas? Subí otra vez a tu estudio y abrí el baúl.
+
+    Suspiré.
+
+    —Encontré el manuscrito y empecé a leerlo.
+
+    —Es sólo una fábula, Cristina…
+
+    —No me mientas. Lo leí, David. Al menos lo suficiente para saber que tenía que destruirlo…
+
+    <div markdown="1" class="tagged-entries">
+
+    es: destruir: destruirlo
+
+    es: fábula: fábula
+
+    es: baúl: baúl
+
+    </div>
+
+- —No había nadie en la casa, Cristina. Nadie.
+
+    —Tan pronto prendí el fósforo y lo acerqué al manuscrito, le sentí detrás de mí. Noté un golpe en la nuca y caí.
+
+    —¿Quién te golpeó?
+
+    —Todo estaba muy oscuro, como si la luz del día se hubiese retirado y no pudiera entrar. Me di la vuelta, pero todo estaba muy oscuro. Sólo vi sus ojos. Ojos como los de un lobo.
+
+    —Cristina…
+
+    —Me quitó el manuscrito de las manos y lo guardó otra vez en el baúl.
+
+    —Cristina, no estás bien. Déjame que llame al doctor y…
+
+    —No me estás escuchando.
+
+    Le sonreí y la besé en la frente.
+
+    —Claro que te escucho. Pero no había nadie más en la casa…
+
+    Cerró los ojos y ladeó la cabeza, gimiendo como si mis palabras fueran puñales que le retorcían las entrañas.
+
+    —Voy a avisar al doctor…
+
+    Me incliné para besarla de nuevo y me incorporé. Me dirigí hacia la puerta, sintiendo su mirada en la espalda.
+
+    —Cobarde —dijo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: cobarde: cobarde
+
+    es: lobo: lobo
+
+    es: ladear: ladeó
+
+    es: gemir: gimiendo
+
+    es: puñal: puñales
+
+    es: retorcer: retorcían
+
+    </div>
+
+- Cuando regresé a la habitación con el doctor Sanjuán, Cristina había desatado la última correa y se tambaleaba por la habitación en dirección a la puerta dejando pisadas ensangrentadas sobre las baldosas blancas. La sujetamos entre los dos y la tendimos de nuevo en la cama. Cristina gritaba y forcejeaba con una rabia que helaba la sangre. El alboroto alertó al personal de enfermería. Un celador nos ayudó a contenerla mientras el doctor la ataba de nuevo con las correas. Una vez inmovilizada, el doctor me miró con severidad.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: desatar: había desatado
+
+    es: correa: correa, correas
+
+    es: severidad: severidad
+
+    es: alboroto: alboroto
+
+    </div>
+
+- Cuando llegué a la orilla, Cristina se había adentrado una treintena de metros en dirección al centro del lago. Grité su nombre y se detuvo. Se volvió lentamente y la vi sonreír mientras una telaraña de grietas se tejía a sus pies. Salté al hielo, sintiendo la superficie helada quebrarse a mi paso, y corrí hacia ella. Cristina se quedó inmóvil, mirándome. Las grietas bajo sus pies se expandían en una hiedra de capilares negros. El hielo cedía bajo mis pasos y caí de bruces.
+
+    —Te quiero —la oí decir.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: orilla: orilla
+
+    es: treintena: treintena
+
+    es: detener: se detuvo
+
+    es: superficie: superficie
+
+    es: grieta: grietas
+
+    es: hiedra: hiedra
+
+    es: capilar: capilares
+
+    es: ceder: cedía
+
+    es: oír: oí
+
+    </div>
+
+- Me arrastré hacia ella, pero la red de grietas crecía bajo mis manos y la rodeó. Nos separaban apenas unos metros cuando escuché el hielo quebrarse y ceder bajo sus pies. Unas fauces negras se abrieron bajo ella y la engulleron como un pozo de alquitrán. Tan pronto desapareció bajo la superficie, las placas de hielo se unieron sellando la apertura por la que Cristina se había precipitado. Su cuerpo se deslizó un par de metros bajo la lámina de hielo impulsado por la corriente. Conseguí arrastrarme hasta el lugar donde había quedado atrapada y golpeé el hielo con todas mis fuerzas. Cristina, los ojos abiertos y el pelo ondulando en la corriente, me observaba desde el otro lado de aquella lámina traslúcida. Golpeé hasta destrozarme las manos en vano. Cristina nunca apartó sus ojos de los míos. Posó su mano sobre el hielo y sonrió. Las últimas burbujas de aire escapaban ya de sus labios y sus pupilas se dilataban por última vez. Un segundo después, lentamente, empezó a hundirse para siempre en la negrura.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: negrura: negrura
+
+    es: destrozar: destrozarme
+
+    es: grieta: grietas
+
+    es: lámina: lámina
+
+    es: alquitrán: alquitrán
+
+    es: enguillir: engulleron
+
+    es: burbuja: burbujas
+
+    es: fauces: fauces
+
+    </div>
+
+- _Había alguien más en la casa._
+
+    Me acerqué al baúl y me detuve a unos pasos, como si estuviese a su espalda, espiándola. Me incliné hacia adelante y lo abrí. El manuscrito seguía allí, esperándome. Alargué la mano para rozar la carpeta con los dedos, acariciándolo. Fue entonces cuando lo vi. La silueta de plata brillaba en el fondo del baúl como una perla en el fondo de un estanque. Lo cogí entre los dedos y lo examiné a la luz de aquel cielo ensangrentado. El broche del ángel.
+
+    —Hijo de puta —me oí decir.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: oír: oí
+
+    es: baúl: baúl
+
+    es: manuscrito: manuscrito
+
+    es: estanque: estanque
+
+    es: ensangrentado: ensangrentado
+
+    es: broche: broche
+
+    es: ángel: ángel
+
+    es: hijo de puta: hijo de puta
+
+    </div>
+
+- Aquel rostro no era el que aparecía en la fotografía que me había entregado mi amigo el viejo ex policía.
+
+    El hombre que conocía como Ricardo Salvador no era otro que Diego Marlasca.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: fotografía: fotografía
+
+    es: entregar: había entregado
+
+    </div>
+
+- —Mi madre era una mujer ordinaria, señor Martín. Había crecido en la miseria y el único poder que tenía era la voluntad de sobrevivir. Nunca aprendió a leer ni a escribir, pero sabía ver en el interior de las personas. Sentía lo que sentían, lo que ocultaban y lo que anhelaban. Lo leía en su mirada, en sus gestos, en su voz, en el modo en que caminaban o gesticulaban. Sabía lo que iban a decir y hacer antes de que lo hiciesen. Por eso muchos la llamaban hechicera, porque era capaz de ver en ellos lo que ellos mismos se negaban a ver.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: sobrevivir: sobrevivir
+
+    es: voluntad: voluntad
+
+    es: ocultar: ocultaban
+
+    es: anhelar: anhelaban
+
+    es: gesticular: gesticulaban
+
+    </div>
+
+- —No me ha escuchado usted —dije—. No ha oído nada de lo que le he dicho.
+
+    —Le he escuchado perfectamente, Martín. He escuchado cómo, moribundo y desesperado, formalizó usted un acuerdo con un más que misterioso editor parisino del que nadie ha oído hablar ni ha visto jamás para inventarse, en sus propias palabras, una nueva religión a cambio de cien mil francos franceses, sólo para descubrir que en realidad había caído en un siniestro complot en el que estarían implicados un abogado que simuló su propia muerte hace veinticinco años, su amante y una corista venida a menos, para escapar a su destino, que ahora es el suyo. He escuchado cómo ese destino le llevó a caer en la trampa de un caserón maldito que ya había atrapado a su predecesor, Diego Marlasca, donde encontró usted la evidencia de que alguien estaba siguiendo sus pasos y asesinando a todos aquellos que podían desvelar el secreto de un hombre que, a juzgar por sus palabras, estaba casi tan loco como usted. El hombre en la sombra, que habría asumido la identidad de un antiguo policía para ocultar el hecho de que estaba vivo, ha estado cometiendo una serie de crímenes con la ayuda de su amante, incluyendo haber provocado la muerte del señor Sempere por algún extraño motivo que ni usted es capaz de explicar.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ocultar: ocultar
+
+    es: capaz: capaz
+
+    </div>
+
+- —Irene Sabino mató a Sempere para robarle un libro. Un libro que creía que contenía mi alma.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: alma: alma
+
+    es: libro: libro
+
+    </div>
+
+- —¿Por dónde quiere que empiece?
+
+    —Usted es el policía.
+
+    —Mi primera visita ha sido a la clínica del doctor Trías, en la calle Muntaner. Ha sido breve. El doctor Trías falleció hace doce años y la consulta pertenece desde hace ocho a un dentista llamado Bernat Llofriu, que, huelga decir, nunca ha oído hablar de usted.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: fallecer: falleció
+
+    es: pertenecer: pertenece
+
+    es: holgar: huelga
+
+    </div>
+
+- —Espere, que lo mejor viene después. Saliendo de allí me he pasado por las oficinas centrales del Banco Hispano Colonial. Impresionante decoración y un servició impecable. Me han entrado ganas de abrir una cartilla. Allí he podido averiguar que nunca ha tenido usted cuenta alguna en la entidad, que jamás han oído hablar de nadie llamado Andreas Corelli y que no hay ningún cliente que en estos momentos tenga una cuenta en divisas por importe de cien mil francos franceses. ¿Sigo?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: averiguar: averiguar
+
+    es: cuenta: cuenta
+
+    es: entidad: entidad
+
+    </div>
+
+- —Mi siguiente parada ha sido el despacho del difunto abogado Valera. Allí he podido comprobar que sí tiene usted una cuenta bancada, pero no con el Hispano Colonial, sino con el Banco de Sabadell, desde la cual transfirió fondos a la cuenta de los abogados por importe de dos mil pesetas hace unos seis meses.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: difunto: difunto
+
+    es: parada: parada
+
+    es: cuenta: cuenta
+
+    </div>
+
+- —Muy simple. Usted contrató a Valera anónimamente, o eso creía usted, porque los bancos tienen memoria de poeta y una vez han visto un céntimo volar no se olvidan jamás. Le confieso que para entonces ya le estaba empezando a coger el gusto al asunto y he decidido hacer una visita al taller de escultura funeraria de Sanabre e Hijos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: contratar: contrató
+
+    es: anónimamente: anónimamente
+
+    es: confesar: confieso
+
+    es: taller: taller
+
+    </div>
+
+- —No me diga que no ha visto el ángel…
+
+    —Lo he visto, lo he visto. Impresionante. Como la carta firmada de su puño y letra fechada hace tres meses en la que encargó el trabajo y el recibo de pago por adelantado que el bueno de Sanabre guardaba en sus libros. Un hombre encantador y orgulloso de su trabajo. Me ha dicho que era su obra maestra, que ha recibido una inspiración divina.
+
+    —¿No le ha preguntado por el dinero que le pagó Marlasca hace veinticinco años?
+
+    —Lo he hecho. Guardaba los recibos. A cuenta de las obras de mejora, mantenimiento y reformas del panteón familiar.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: puño y letra: puño y letra
+
+    es: ángel: ángel
+
+    </div>
+
+- —Aprovechando que estaba allí, me he acercado hasta la playa del Bogatell, donde por un real he encontrado al menos a diez personas dispuestas a desvelar el tremendo secreto de la Bruja del Somorrostro. No se lo he dicho esta mañana cuando me contaba su relato por no arruinar el drama, pero de hecho la mujerona que se hacía llamar así murió hace ya años. La anciana que he visto esta mañana no asusta ni a los niños y está postrada en una silla. Un detalle que le encantará: es muda.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: aprovechar: aprovechando
+
+    es: arruinar: arruinar
+
+    es: postrado: postrada
+
+    </div>
+
+- —Aún no he terminado. No me podrá decir que no me tomo mi trabajo en serio. Tanto como para ir de allí al caserón que me ha descrito usted junto al Park Güell, que lleva abandonado por lo menos diez años y en el que lamento decirle que no había ni fotografías ni estampas ni nada más que mierda de gato. ¿Qué le parece?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: lamentar: lamento
+
+    es: fotografia: fotografías
+
+    es: mierda: mierda
+
+    </div>
+
+- —Me ha contado que conoció a Diego Marlasca en una sesión organizada por Roures en un piso de la calle Elisabeth donde se reunía la asociación espiritista El Porvenir en el año 1903. Me ha contado que se encontró con un hombre que se refugió en sus brazos destrozado por la pérdida de su hijo y atrapado en un matrimonio que ya no tenía sentido. Me ha contado que Marlasca era un hombre bondadoso pero perturbado, que creía que algo se había metido en su interior y que estaba convencido de que iba a morir pronto.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: porvenir: porvenir
+
+    es: refugiar: refugió
+
+    es: destrozado: destrozado
+
+    es: perturbado: perturbado
+
+    </div>
+
+- —Ricardo Salvador fue expulsado del cuerpo en 1906, después de pasar dos años removiendo el caso de la muerte de Diego Marlasca mientras mantenía una relación ilícita con la viuda del difunto. Lo último que se supo de él es que había decidido embarcarse y marcharse a las Américas para iniciar una nueva vida.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: expulsar: expulsado
+
+    es: remover: removiendo
+
+    es: difunto: difunto
+
+    </div>
+
+- —¿No se da usted cuenta, inspector? ¿No se da cuenta de que está cayendo exactamente en la misma trampa que me tendió Marlasca?
+
+    Grandes me contemplaba con lástima.
+
+    —El que no se da cuenta de lo que está pasando es usted, Martín. El reloj corre y usted, en vez de decirme qué ha hecho con Cristina Sagnier, se empecina en intentar convencerme de una historia que parece salida de _La Ciudad de los Malditos_. Aquí sólo hay una trampa: la que usted se ha tendido a sí mismo. Y cada minuto que pasa sin decirme la verdad me hace más difícil poder sacarle de ella.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: trampa: trampa
+
+    es: caer: cayendo
+
+    es: tender: se ha tendido
+
+    </div>
+
+- Allí me han confirmado que se le vio salir de las habitaciones donde estaba internada Cristina Sagnier la noche que ella desapareció, que nunca regresó a su hotel a recoger el equipaje y que el jefe médico del sanatorio les contó que había cortado usted las correas de cuero que sujetaban a la paciente. He llamado entonces a un viejo amigo suyo, Pedro Vidal, que ha tenido la amabilidad de acercarse hasta Jefatura. El pobre hombre está destrozado. Me ha contado que la última vez que se vieron usted le golpeó. ¿Es eso cierto?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: recoger: recoger
+
+    es: equipaje: equipaje
+
+    es: correa: correas
+
+    es: destrozado: destrozado
+
+    </div>
+
+- —Esta tarde, cuando hablaba con María Antonia Sanahuja, o Irene Sabino, en la habitación de su pensión, le he preguntado si sabía quién era usted. Ha dicho que no. Le he explicado que vivía usted en la casa de la torre donde ella y Marlasca habían pasado varios meses. Le he preguntado de nuevo si le recordaba a usted. Me ha dicho que no. Algo después le he dicho que usted había visitado el panteón de la familia Marlasca y que había asegurado verla allí. Por tercera vez esa mujer ha negado haberle visto jamás. Y yo la he creído. La he creído hasta que, cuando me iba, ella ha dicho que tenía algo de frío y ha abierto el armario para coger un mantón de lana que echarse a los hombros. He visto entonces que había un libro encima de una mesa. Me ha llamado la atención porque era el único libro que había en la habitación. Aprovechando que me había dado la espalda, lo he abierto y he leído una inscripción escrita a mano en la primera página.
+
+    —_«Para el Señor Sempere, el mejor amigo que podría desear un libro, por abrirme las puertas del mundo y enseñarme a cruzarlas»_ —cité de memoria.
+
+    —«Firmado, David Martín» —completó Grandes.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: citar: cité
+
+    es: libro: libro
+
+    es: aprovechar: aprovechando
+
+    es: creer: he creído
+
+    es: firmar: firmado
+
+    </div>
+
+- —Entonces coja ese ridículo revólver que lleva escondido en su abrigo desde hace horas y, con cuidado de no dispararse en el pie, amenáceme con volarme la cabeza si no le entrego la llave que abre esa puerta.
+
+    Miré hacia la puerta.
+
+    —A cambio sólo le pido que me diga dónde está Cristina Sagnier, si es que sigue viva.
+
+    Bajé la mirada incapaz de encontrar mi propia voz.
+
+    —¿La mató usted?
+
+    Dejé pasar un largo silencio.
+
+    —No lo sé.
+
+    Grandes se acercó a mí y me tendió la llave de la puerta.
+
+    —Lárguese de aquí, Martín.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: largarse: lárguese
+
+    es: tender: tendió
+
+    es: incapaza: incapaz
+
+    es: coger: coja
+
+    es: amenacer: amenáceme
+
+    </div>
+
+- Tomé la llave y me dirigí hacia la puerta. Antes de salir me volví un instante. Grandes se había sentado sobre la mesa y me observaba sin expresión alguna.
+
+    —Ese broche del ángel —dijo, señalándose la solapa.
+
+    —¿Sí?
+
+    —Se lo he visto a usted en la solapa desde que le conozco —dijo
+
+    <div markdown="1" class="tagged-entries">
+
+    es: solapa: solapa
+
+    es: broche: broche
+
+    es: ángel: ángel
+
+    </div>
+
+- La cerradura cedió a la segunda embestida. Tan pronto me encontré en la habitación, me asaltó aquel hedor agrio y nauseabundo.
+
+    —Dios mío —murmuró el huésped a mi espalda.
+
+    La antigua estrella del Paralelo yacía sobre un camastro, pálida y cubierta de sudor. Tenía los labios negros y, al verme, sonrió. Sus manos aferraban con fuerza el frasco de veneno. Había apurado hasta la última gota. El tufo de su aliento, a sangre y a bilis, llenaba la habitación. El huésped se tapó la nariz y la boca con la mano y se retiró hasta el pasillo. Contemplé a Irene Sabino retorciéndose mientras el veneno la corroía por dentro. La muerte se estaba tomando su tiempo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: embestida: embestida
+
+    es: yacer: yacía
+
+    es: camastro: camastro
+
+    es: frasco: frasco
+
+    es: corroer: corroía
+
+    es: retorcer: retorciéndose
+
+    es: veneno: veneno
+
+    es: bilis: bilis
+
+    </div>
+
+- Envuelto en un paño blanco había lo que parecía un libro. Lo desenvolví y encontré el ejemplar de _Los Pasos del Cielo_ que le había dedicado al señor Sempere. La compasión que me había despertado la agonía de aquella mujer se evaporó al instante. Aquella infeliz había matado a mi buen amigo para arrebatarle aquel cochino libro. Recordé entonces lo que Sempere me había dicho la primera vez que entré en su librería: que cada libro tenía una alma, el alma de quien lo había escrito y el alma de quienes lo habían leído y soñado con él. Sempere había muerto creyendo en aquellas palabras y comprendí que Irene Sabino, a su manera, también las había creído.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: creer: había creído, creyendo
+
+    es: librería: librería
+
+    es: ejemplar: ejemplar
+
+    es: infeliz: infeliz
+
+    es: alma: alma
+
+    </div>
+
+- Pasé las páginas releyendo la dedicatoria. Encontré la primera marca en la séptima página. Un trazo marronáceo emborronaba las palabras, dibujando una estrella de seis puntas idéntica a la que ella había grabado en mi pecho con el filo de una navaja semanas antes. Comprendí que el trazo estaba hecho con sangre. Fui volviendo las páginas y encontrando nuevos dibujos. Unos labios. Una mano. Ojos. Sempere había sacrificado su vida por un miserable y ridículo hechizo de barraca de feria.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: hechizo: hechizo
+
+    es: filo: filo
+
+    es: dedicatoria: dedicatoria
+
+    es: trazo: trazo
+
+    </div>
+
+- En unos segundos le vería asomar por la ventana que quedaba apenas a un metro por debajo de mí. Miré hacia abajo y vi que las ventanas del segundo y el primer piso dibujaban sendos tramos de luz, pero la del tercero estaba a oscuras. Descendí lentamente hasta sentir que mi pie se apoyaba en la siguiente argolla. La ventana oscura del tercer piso quedó frente a mí, el pasillo vacío con la puerta a la que Marcos llamaba al fondo. A aquellas horas el taller de confección ya había cerrado y no había nadie allí. Los golpes en la puerta cesaron y comprendí que Marcos había bajado al segundo piso. Miré hacia arriba y vi que Castelo seguía observándome, relamiéndose como un gato.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: sendos: sendos
+
+    es: relamer: relamiéndose
+
+    </div>
+
+- —No tienes agallas —murmuró.
+
+    Posó su mano sobre el cañón y me sonrió. Apreté el gatillo. La bala le voló la mano, proyectando el brazo hacia atrás como si hubiera recibido un martillazo. Marcos cayó de espaldas contra el suelo, sujetándose la muñeca mutilada y humeante, mientras su rostro salpicado de quemaduras de pólvora se fundía en un rictus de dolor que aullaba sin voz. Me levanté y le dejé allí, desangrándose sobre un charco de su propia orina.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: agallas: agallas
+
+    es: apretar: apreté
+
+    es: martillazo: martillazo
+
+    es: caer: cayó
+
+    es: aullar: aullaba
+
+    es: rictus: rictus
+
+    </div>
+
+- Pedro Vidal y Víctor Grandes. Ignoré los tirones y aguijonazos mordiéndome la piel y salí de la cama. Mi ropa sucia y ensangrentada estaba tirada sobre una butaca. Busqué el abrigo. El revólver seguía en el bolsillo. Tensé el percutor y salí de la habitación, siguiendo el rastro de las voces hasta la escalera. Descendí unos peldaños arrimándome contra la pared.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: arrimar: arrimándome
+
+    es: ensangrentado: ensangrentada
+
+    es: tirón: tirones
+
+    </div>
+
+- Más tarde, cuando el sol empezaba a caer sobre el horizonte, don Pedro recogió mis ropas viejas y las entregó al fuego. Antes de abandonar el abrigo a las llamas extrajo el ejemplar de _Los Pasos del Cielo_ y me lo tendió.
+
+    —De los dos libros que escribiste el año pasado, éste era el bueno —dijo. Le observé remover mis ropas ardiendo en el fuego.
+
+    —¿Cuándo se dio cuenta?
+
+    Vidal se encogió de hombros.
+
+    —Incluso a un tonto vanidoso es difícil engañarle para siempre, David.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: caer: caer
+
+    es: recoger: recogió
+
+    es: remover: remover
+
+    es: entregar: entregó
+
+    es: llama: llamas
+
+    es: ejemplar: ejemplar
+
+    es: extraer: extrajo
+
+    es: tender: tendió
+
+    </div>
+
+- —Grandes te dejó salir porque no quería ensuciarse las manos en la comisaría. Tan pronto saliste de allí, sus dos hombres estaban tras tu pista. La tuya era una muerte telegrafiada. Sospechoso de asesinato se fuga y fallece al resistirse al arresto.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ensuciar: ensuciarse
+
+    es: asesinato: asesinato
+
+    es: sospechoso: sospechoso
+
+    </div>
+
+- Transcurrió un minuto y, al ver que don Pedro no salía, bajé del coche dejando el motor en marcha. Volví a entrar en la casa para despedirme de él y decirle que no se preocupase por el dinero, que ya me las arreglaría. Al cruzar el vestíbulo recordé que había dejado allí el arma, sobre la mesita. Cuando fui a recogerla ya no estaba.
+
+    —¿Don Pedro?
+
+    La puerta que daba a la sala estaba entornada. Me asomé al umbral y le vi en el centro de la sala. Se llevó el revólver de mi padre al pecho y colocó el cañón sobre su corazón. Corrí hacia él pero el estruendo del disparo ahogó mis gritos. El arma se le cayó de las manos. Su cuerpo se ladeó contra la pared y se deslizó lentamente hasta el suelo dejando un rastro escarlata sobre el mármol. Caí de rodillas a su lado y lo sostuve en mis brazos. El disparo había abierto un orificio humeante sobre sus ropas del que brotaba sangre oscura y espesa a borbotones. Don Pedro me miraba fijamente a los ojos mientras su sonrisa se llenaba de sangre y su cuerpo dejaba de temblar y caía derribado, oliendo a pólvora y a miseria.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: asomar: me asomé
+
+    es: borbotón: borbotones
+
+    es: brotar: brotaba
+
+    es: caer: se le cayó
+
+    es: ladear: se ladeó
+
+    es: rastro: rastro
+
+    es: escarlata: escarlata
+
+    </div>
+
+- Para entonces el inspector ya se había percatado de que su presencia no era un secreto y había encendido los faros, acortando distancias. Por espacio de veinte minutos sorteamos una trenza de calles y tranvías. Me deslice entre ómnibus y carros, siempre para encontrar los faros de Grandes a la zaga, sin tregua. 
+
+    <div markdown="1" class="tagged-entries">
+
+    es: tregua: tregua
+
+    es: percatarse: se había percatado
+
+    es: encender: había encendido
+
+    </div>
+
+- Una vez la puerta quedó trabada, la cabina continuó el trayecto. Emergimos de la torre de la dársena e iniciamos el último tramo de la travesía. Grandes se acercó a la ventana y contempló la visión de la ciudad, un espejismo de luces y brumas, catedrales y palacios, callejones y grandes avenidas entramadas en un laberinto de sombra.
+
+    —La ciudad de los malditos —dijo Grandes—. Cuanto más de lejos se ve, más bonita parece.
+
+    —¿Es ése mi epitafio?
+
+    —No le voy a matar, Martín. Yo no mato a la gente. Usted me va a hacer ese favor. A mí y a usted mismo. Sabe que tengo razón.
+
+    Sin más, el inspector descerrajó tres tiros sobre el mecanismo de cierre de la compuerta y la abrió de una patada. La portezuela quedó colgando en el aire, una bocanada de viento húmedo inundando la cabina.
+
+    —No sentirá nada, Martín. Créame. El golpe no lleva ni una décima de segundo. Instantáneo. Y luego, paz
+
+    <div markdown="1" class="tagged-entries">
+
+    es: inundar: inundando
+
+    es: bocanada: bocanada
+
+    es: tramo: tramo
+
+    </div>
+
+- Grandes sonrió y negó por lo bajo.
+
+    —Usted no tiene amigos, Martín.
+
+    Oí el estruendo del disparo y sentí un impacto en el pecho, como si un martillo industrial me hubiese golpeado en las costillas. Caí de espaldas, sin aliento, un espasmo de dolor prendiendo por mi cuerpo como gasolina. Grandes me había agarrado por los pies y tiraba de mí hacia la portezuela. La cima de la torre de San Sebastián apareció entre velos de nubes al otro lado. 
+
+    <div markdown="1" class="tagged-entries">
+
+    es: oír: oí
+
+    es: estruendo: estruendo
+
+    es: disparo: disparo
+
+    es: martillo: martillo
+
+    es: costilla: costillas
+
+    es: caer: caí
+
+    es: cima: cima
+
+    </div>
+
+- Me palpé el pecho y encontré el orificio que había dejado el disparo del inspector. Me abrí el abrigo y extraje el ejemplar de _Los Pasos del Cielo_. La bala había atravesado la parte delantera de la cubierta, las casi cuatrocientas páginas y asomaba como la punta de un dedo de plata por la cubierta trasera. A mi lado Grandes se retorcía en el suelo, aferrándose el cuello con desesperación. Tenía el rostro amoratado y las venas de la frente y las sienes le pulsaban como cables tensados. Me dirigió una mirada de súplica. Una telaraña de vasos quebrados se esparcía por sus ojos y comprendí que le había aplastado la tráquea con mis manos y que se estaba asfixiando sin remedio.
+
+    Le contemplé sacudirse en el suelo en su lenta agonía. Tiré del borde del sobre blanco que asomaba en la solapa de su bolsillo. Lo abrí y conté quince mil pesetas. El precio de mi vida. Me guardé el sobre. Grandes se arrastraba por el suelo hacia el arma. Me incorporé y la aparté de sus manos con un puntapié. Me aferró el tobillo implorando misericordia.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: palpar: palpé
+
+    es: orificio: orificio
+
+    es: extraer: extraje
+
+    es: ejemplar: ejemplar
+
+    es: atravesar: habia atravesado
+
+    es: misericordia: misericordia
+
+    es: asfixiarse: se estaba asfixiando
+
+    es: remedio: remedio
+
+    </div>
+
+- —¿Dónde está Marlasca? —pregunté.
+
+    Su garganta emitió un gemido sordo. Posé mis ojos sobre los suyos y comprendí que se estaba riendo. La cabina había entrado ya en el interior de la torre de San Sebastián cuando le empujé por la portezuela y vi su cuerpo precipitarse casi ochenta metros a través de un laberinto de rieles, cables, ruedas dentadas y barras de acero que lo despedazaron por el camino.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: despedazar: despedazaron
+
+    es: gemido: gemido
+
+    </div>
+
+- Contemplé el velo de cenizas sobre mis manos y me las llevé al rostro, esparciendo los restos del alma de Ricardo Salvador sobre mi piel. Cuando abrí los ojos vi que Diego Marlasca, su carcelero, esperaba al umbral de la celda portando el manuscrito del patrón en la mano y fuego en los ojos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ceniza: cenizas
+
+    es: esparcir: esparciendo
+
+    es: manuscrito: manuscrito
+
+    </div>
+
+- —He estado leyéndolo mientras le esperaba, Martín —dijo Marlasca—. Una obra maestra. El patrón sabrá recompensarme cuando se la entregue en su nombre. Reconozco que yo nunca fui capaz de resolver el acertijo. Me quedé por el camino. Me alegra comprobar que el patrón supo encontrarme un sucesor con más talento.
+
+    —Apártese.
+
+    —Lo siento, Martín. Crea que lo siento. Le había tomado aprecio —dijo extrayendo lo que parecía un mango de marfil del bolsillo—. Pero no puedo dejarle salir de esta habitación. Es hora de que ocupe usted el lugar del pobre Salvador.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: patrón: patrón
+
+    es: entregar: se la entregue
+
+    es: capaz: capaz
+
+    </div>
+
+- Corrí hacia la puerta, pero antes de salir me detuve a contemplar a Diego Marlasca consumirse entre las llamas golpeando con ira las paredes que prendían con su roce. El fuego se esparció hasta los libros desparramados sobre la galería y alcanzó los cortinajes. Las llamas se derramaron en serpientes de fuego por el techo, lamiendo los marcos de puertas y ventanas, reptando por las escaleras del estudio. La última imagen que recuerdo es la de aquel hombre maldito cayendo de rodillas al final del corredor, las vanas esperanzas de su locura perdidas y su cuerpo reducido a una antorcha de carne y odio que quedó engullida por la tormenta de llamas que se extendía sin remedio por el interior de la casa de la torre. Luego abrí la puerta y corrí escaleras abajo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: llama: llamas
+
+    es: antorcha: antorcha
+
+    es: odio: odio
+
+    es: remedio: remedio
+
+    </div>
+
+- Extraje el ejemplar de _Los Pasos del Cielo_ se lo tendí.
+
+    —Esto nunca debió salir de la vitrina con la colección personal del señor Sempere.
+
+    Isabella lo tomó y al ver la bala todavía atrapada en sus páginas me miró sin decir nada. Extraje entonces el sobre blanco con las quince mil pesetas con que el viejo Vidal había intentado comprar mi muerte y lo dejé en el mostrador.
+
+    —Y esto es a cuenta de todos los libros que Sempere me regaló durante todos estos años.
+
+    Isabella lo abrió y contó el dinero, atónita.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: atónito: atónita
+
+    es: ejemplar: ejemplar
+
+    es: tender: tendí
+
+    </div>
+
+- Descendimos lentamente por la Rambla, Isabella cogida de mi brazo. Al llegar a la calle del Arc del Teatre, cruzamos hacia el oscuro callejón que se abría camino a través del Raval.
+
+    —Isabella, lo que vas a ver esta noche no se lo puedes contar a nadie.
+
+    —¿Ni a mi Sempere junior?
+
+    Suspiré.
+
+    —Claro que sí. A él puedes contárselo todo. Con él casi no tenemos secretos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: descender: descendimos
+
+    es: contar: contárselo
+
+    es: secreto: secretos
+
+    </div>
+
+- —¿Qué clase de lugar es éste? —preguntó.
+
+    La tomé de la mano y lentamente la conduje el resto del trayecto hasta llegar a gran sala que albergaba la entrada.
+
+    —Bienvenida al Cementerio de los Libros Olvidados, Isabella.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: conducir: conduje
+
+    es: trayecto: trayecto
+
+    es: albergar: albergaba
+
+    </div>
+
+- —Este lugar es un misterio. Un santuario. Cada libro, cada tomo que ves, tiene alma. El alma de quien lo escribió, y el alma de quienes lo leyeron y vivieron y soñaron con él. Cada vez que un libro cambia de manos, cada vez que alguien desliza la mirada por sus páginas, su espíritu crece y se hace fuerte. En este lugar los libros que ya nadie recuerda, los libros que se han perdido en el tiempo, viven para siempre, esperando llegar a las manos de un nuevo lector, un nuevo espíritu…
+
+    <div markdown="1" class="tagged-entries">
+
+    es: santuario: santuario
+
+    es: libro: libro
+
+    es: espíritu: espíritu
+
+    es: lector: lector
+
+    </div>
+
+- Más tarde dejé a Isabella esperando a la entrada del laberinto y me adentré a solas en los túneles portando aquel manuscrito maldito que no había tenido el valor de destruir. Confié en que mis pasos me guiaran para encontrar el lugar en el que debía enterrarlo para siempre. Doblé mil esquinas hasta creer que me había perdido. Entonces, cuando tuve la certeza de que ya había recorrido aquel mismo camino diez veces, me encontré a la entrada de la pequeña sala en la que me había enfrentado a mi propio reflejo en aquel pequeño espejo en el que la mirada del hombre de negro siempre estaba presente.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: laberinto: laberinto
+
+    es: manuscrito: manuscrito
+
+    </div>
+
+- Me bastó leer un par de frases para sentir de nuevo aquella risa oscura a mi espalda. Devolví el libro a su lugar y tomé otro al azar, hojeándolo rápidamente. Tomé otro y otro más, y así sucesivamente hasta que hube examinado docenas de los volúmenes que poblaban la sala y comprobado que todos ellos contenían diferentes trazados de las mismas palabras, que las mismas imágenes los oscurecían y que la misma fábula se repetía en ellos como un paso a dos en una infinita galería de espejos. _Lux Aeterna_.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: libro: libro
+
+    es: devolver: devolví
+
+    </div>
+
+- Al salir del laberinto encontré a Isabella esperándome sentada sobre unos peldaños con el libro que había elegido en las manos. Me senté a su lado e Isabella apoyó la cabeza sobre mi hombro.
+
+    —Gracias por traerme aquí —dijo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: traer: traer
+
+    es: libro: libro
+
+    </div>
+
+- La abracé por última vez y la miré a los ojos en silencio. Por el camino habíamos pactado que no habría despedidas, ni palabras solemnes ni promesas por cumplir. Cuando las campanas de medianoche repicaron en Santa María del Mar subí a bordo. El capitán Olmo me dio la bienvenida y se ofreció a acompañarme a mi camarote. Le dije que prefería esperar. La tripulación soltó amarras y lentamente el casco se fue separando del muelle. Me aposté en la popa, contemplando la ciudad alejarse en una marea de luces. Isabella permaneció allí, inmóvil, su mirada en la mía, hasta que el muelle se perdió en la oscuridad y el gran espejismo de Barcelona se sumergió en las aguas negras. Una a una las luces de la ciudad se extinguieron en la distancia y comprendí que ya había empezado a recordar.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: pactar: habíamos pactado
+
+    es: espejismo: espejismo
+
+    </div>
+
+- Han pasado quince largos años desde aquella noche en que huí para siempre de la ciudad de los malditos. Durante mucho tiempo la mía ha sido una existencia de ausencias, sin más nombre ni presencia que la de un extraño itinerante. He tenido cien nombres y otros tantos oficios, ninguno de ellos el mío. He desaparecido en ciudades infinitas y en aldeas tan pequeñas que nadie en ellas tenía ya pasado ni futuro. En ningún lugar me detuve más de lo necesario. Más bien temprano que tarde huía de nuevo, sin aviso, dejando apenas un par de libros viejos y ropas de segunda mano en habitaciones lúgubres donde el tiempo no tenía piedad y el recuerdo quemaba.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: maldito: malditos
+
+    </div>
+
+- Los años me enseñaron a vivir en el cuerpo de un extraño que no sabía si había cometido aquellos crímenes que aún podía oler en sus manos, si había perdido la razón y estaba condenado a vagar por el mundo en llamas que había soñado a cambio de unas monedas y la promesa de burlar una muerte que ahora le parecía la más dulce de las recompensas. Muchas veces me he preguntado si la bala que el inspector Grandes disparó sobre mi corazón atravesó las páginas de aquel libro, si fui yo quien murió en aquella cabina suspendida en el cielo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: extraño: extraño
+
+    </div>
+
+- unca he permitido que nadie me conociese el tiempo suficiente como para preguntarme por qué no envejecía nunca, por qué no se abrían líneas en mi rostro, por qué mi reflejo era el mismo que aquella noche que dejé a Isabella en el muelle de Barcelona y no un minuto más viejo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: envejecer: envejecía
+
+    </div>
+
+- No había vuelto a escribir hasta que llegué aquí. La primera vez que deslicé una página en la máquina y posé las manos sobre el teclado, temí que iba a ser incapaz de componer una sola línea. Escribí las primeras páginas de esta historia durante mi primera noche en la cabaña de la playa. Escribí hasta el amanecer, como solía hacerlo años atrás, sin saber todavía para quién la estaba escribiendo. Durante el día caminaba por la playa o me sentaba en el muelle de madera frente a la cabaña —una pasarela entre el cielo y el mar—, a leer los montones de periódicos viejos que encontré en uno de los armarios. Sus páginas traían historias de la guerra, del mundo en llamas que había soñado para el patrón.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: patrón: patrón
+
+    </div>
+
+- Fue así, leyendo aquellas crónicas sobre la guerra en España y luego en Europa y el mundo, cuando decidí que ya no tenía nada más que perder y que lo único que deseaba era saber si Isabella estaba bien y si tal vez aún me recordaba. O quizá sólo quería saber si seguía viva. Escribí aquella carta dirigida a la antigua librería de Sempere e Hijos en la calle Santa Ana de Barcelona que habría de tardar semanas o meses en llegar, si alguna vez lo hacía, a su destino. En el remite firmé Mr. Rochester, sabiendo que si la carta llegaba a sus manos, Isabella sabría de quién se trataba y, si lo deseaba, podría dejarla sin abrir y olvidarme para siempre.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: remite: remite
+
+    </div>
+
+- En la carta, Sempere hijo me contaba que Isabella y él, tras varios años de noviazgo tormentoso e interrumpido, habían contraído matrimonio el 18 de enero de 1935 en la iglesia de Santa Ana.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: noviazgo: noviazgo
+
+    </div>
+
+- Un año más tarde, días antes de que estallase la guerra civil, Isabella había dado a luz un varón que llevaría por nombre Daniel Sempere. Los años terribles de la guerra habrían de traer toda suerte de penurias y poco después del fin de la contienda, en aquella paz negra y maldita que habría de envenenar la tierra y el cielo para siempre, Isabella contrajo el cólera y murió en brazos de su esposo en el piso que compartían encima de la librería. La enterraron en Montjuic el día del cuarto cumpleaños de Daniel, bajo una lluvia que duró dos días y dos noches, y cuando el pequeño le preguntó a su padre si el cielo lloraba, a él le faltó voz para responderle. El sobre que iba a mi nombre contenía una carta que Isabella me había escrito durante sus últimos días de vida y que había hecho jurar a su esposo que me haría llegar si alguna vez sabía de mi paradero.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: paradero: paradero
+
+    es: librería: librería
+
+    es: cólera: cólera
+
+    es: guerra civil: guerra civil
+
+    </div>
+
+- Ocurrió una tarde, cuando me había sentado a escribir frente a la ventana mientras esperaba que el sol se hundiese en el horizonte. Oí los pasos sobre las tablas de madera que formaban el muelle y le vi. El patrón, vestido de blanco, caminaba lentamente por el muelle y llevaba de la mano a una niña de unos siete u ocho años. Reconocí la imagen al instante, aquella vieja fotografía que Cristina había atesorado toda su vida sin saber de dónde provenía. El patrón se aproximó al final del muelle y se arrodilló junto a la niña. Ambos contemplaron el sol derramarse sobre el océano en una infinita lámina de oro candente. Salí de la cabaña y me adentré en el muelle. Al llegar al final, el patrón se volvió y me sonrió. No había amenaza ni rencor en su rostro, apenas una sombra de melancolía.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: melancolía: melancolía
+
+    </div>
+
+- —Le he echado de menos, amigo mío —dijo—. He echado de menos nuestras conversaciones, incluso nuestras pequeñas disputas…
+
+    —¿Ha venido a ajustar cuentas?
+
+    El patrón sonrió y negó lentamente.
+
+    —Todos cometemos errores, Martín. Yo el primero. Le robé a usted lo que más quería. No lo hice por herirle. Lo hice por temor. Por temor a que ella le apartase de mí, de nuestro trabajo. Estaba equivocado. He tardado un tiempo en reconocerlo, pero si algo tengo es tiempo.
+
+    Le observé con detenimiento. El patrón, al igual que yo, no había envejecido un solo día.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ajustar cuentas: ajustar cuentas
+
+    es: herir: herirle
+
+    es: envejecer: no había envejecido
+
+    </div>
+
+- Su mirada se concentró en la niña que llevaba de la mano y que me miraba con curiosidad.
+
+    —¿Cómo te llamas? —pregunté.
+
+    —Se llama Cristina —dijo el patrón.
+
+    Le miré a los ojos y asintió. Sentí que se me helaba la sangre. Podía intuir las facciones, pero la mirada era inconfundible.
+
+    —Cristina, saluda a mi amigo David. A partir de ahora vas a vivir con él.
+
+    Intercambié una mirada con el patrón, pero no dije nada. La niña me tendió la mano, como si hubiese ensayado el gesto mil veces, y se rió avergonzada. Me incliné hacia ella y se la estreché.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: intercambiar: intercambié
+
+    </div>
+
+- —He decidido que iba a devolverle aquello que más quiso y que le robé. He decidido que por una vez caminará usted en mi lugar y sentirá lo que yo siento, que no envejecerá un solo día y que verá crecer a Cristina, que se enamorará de ella otra vez, que la verá envejecer a su lado y que algún día la verá morir en sus brazos. Ésa es mi bendición y mi venganza.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: venganza: venganza
+
+    es: envejecer: no envejecerá
+
+    </div>
+
+- —¿Me acordaré algún día? —preguntó.
+
+    —Algún día.
+
+    Supe entonces que dedicaría cada minuto que nos quedaba juntos a hacerla feliz, a reparar el daño que le había hecho y a devolverle lo que nunca supe darle. Estas páginas serán nuestra memoria hasta que su último aliento se apague en mis brazos y la acompañe mar adentro, donde rompe la corriente, para sumergirme con ella para siempre y poder al fin huir a un lugar donde ni el cielo ni el infierno nos puedan encontrar jamás.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: reparar: reparar
+
+    </div>
