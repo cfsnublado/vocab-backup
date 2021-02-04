@@ -216,8 +216,6 @@ Dudé un instante.
 
     es: obsequio: obsequio
 
-    es: obsequio: obsequio
-
     es: entrega: entrega
 
     es: en principio: en principio
