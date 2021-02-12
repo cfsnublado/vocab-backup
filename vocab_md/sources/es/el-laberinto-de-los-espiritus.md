@@ -3561,4 +3561,50 @@ Pumares señaló una puerta negra al fondo de la vasta galería de arcos y estan
 
     es: cien por cien: cien por cien
 
+    es: justificar: justificar
+
     </div>
+
+- —Oiga, ya sé que me dirá que no, pero… ¿por qué no se queda a cenar con nosotros? Vamos a ser un grupo grande, aunque… para mí sería un honor que la hija de Juan Antonio Gris estuviera con nosotros esta noche.
+
+    Alicia miró a Daniel, que le sonrió débilmente.
+
+    —Muchísimas gracias, pero…
+
+    Julián le agarró la mano con fuerza.
+
+    —Ya ve que mi nieto insiste. Ande, anímese. Estaremos en familia.
+
+    Alicia bajó la mirada, negando despacio. Sintió la mano de Bea en la espalda y la oyó murmurar:
+
+    —Quédese.
+
+    —No sé qué decir…
+
+    —No diga nada. Julián, ¿por qué no le enseñas a la señorita Alicia tu primer libro? Ya verá, ya verá…
+
+    El niño, ni corto ni perezoso, corrió a buscar un cuaderno que había emborronado con dibujos, garabatos e inscripciones incomprensibles. Se lo mostró entusiasmado.
+
+    —Su primera novela —dijo Daniel.
+
+    Julián la contemplaba expectante.
+
+    —Tiene muy buena pinta…
+
+    El pequeño batió palmas, contento con la acogida de la crítica. El abuelo Sempere, que debía de tener la edad que hubiera tenido su padre de seguir vivo, le dedicó a Alicia una mirada triste que parecía haberle acompañado durante toda su vida.
+
+    —Bienvenida a la familia Sempere, Alicia.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: garabato: garabatos
+
+    es: incomprensible: incomprensibles
+
+    es: emborronar: había emborronado
+
+    es: animar: anímese
+
+    </div>
+
+- 
