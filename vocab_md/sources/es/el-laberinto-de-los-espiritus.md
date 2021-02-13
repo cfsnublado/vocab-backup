@@ -2373,9 +2373,9 @@ Pumares señaló una puerta negra al fondo de la vasta galería de arcos y estan
 
     es: haz: haces
 
-    es; roce: roce
+    es: roce: roce
 
-    es; librería: librería
+    es: librería: librería
 
     </div>
 
@@ -3607,4 +3607,2575 @@ Pumares señaló una puerta negra al fondo de la vasta galería de arcos y estan
 
     </div>
 
-- 
+- Hendaya se arrodilló junto a la mujer del banquero y le susurró algo al oído. Ella no despegó los labios, su rostro sellado en una máscara de rabia. El policía se incorporó. Extendió una mano abierta hacia uno de los agentes, que le tendió un arma. Entonces colocó una bala en la recámara y posó el cañón justo encima de la rodilla derecha del chófer. Miró por un instante a la mujer, expectante, y por último volvió a encogerse de hombros.
+
+    El estruendo del disparo y los alaridos del chófer atravesaron el cristal y los muros de piedra. Una neblina de sangre y hueso pulverizado salpicó la cara de la mujer, que empezó a gritar. El cuerpo del chófer se agitaba como si una corriente eléctrica lo estuviese sacudiendo. Hendaya rodeó la mesa, insertó otra bala en la recámara y apoyó de nuevo el cañón de la pistola sobre la rótula de la otra rodilla. Un charco de sangre y orina se extendía por la mesa, goteando sobre el suelo. Hendaya miró a la mujer por un segundo. Fernandito cerró los ojos y oyó el segundo disparo. Al oír los chillidos le venció la náusea y se encogió sobre sí mismo. El vómito le ascendió por la garganta y se le derramó por el pecho.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: bala: bala
+
+    es: recámara: recámara
+
+    es: pulverizado: pulverizado
+
+    es: salpicar: salpicó
+
+    es: corriente: corriente
+
+    es: gotear: goteando
+
+    es: oír: oyó, oír
+
+    es: derramar: se le derramó
+
+    es: chillido: chillidos
+
+    es: alarido: alaridos
+
+    es: atravesar: atravesaron
+
+    es: neblina: neblina
+
+    es: susurrar: susurró
+
+    es: despegar: despegó
+
+    es: sellado: sellado
+
+    es: máscara: máscara
+
+    es: encogerse de hombros: encogerse de hombros
+
+    es: estruendo: estruendo
+
+    es: disparo: disparo
+
+    </div>
+
+- Un tranvía esperaba en la parada, un oasis de luz en la oscuridad. No había pasaje y tan solo estaban el revisor y el conductor, charlando y compartiendo un termo de café con que combatir el frío. Fernandito subió, ignorando la mirada del revisor.
+
+    —¿Joven?
+
+    Fernandito rebuscó en el bolsillo de la chaqueta y tendió unas monedas. El revisor le entregó el billete.
+
+    —Aquí no me irá a vomitar, ¿verdad?
+
+    El chico negó. Se sentó delante, junto a una ventana, y cerró los ojos. Intentó respirar hondo y conjurar la imagen de su Vespa blanca esperándole al pie de la avenida. Oyó una voz conversando con el revisor. El tranvía se balanceó levemente cuando un segundo pasajero le abordó. Fernandito escuchó sus pasos acercándose. Apretó los dientes. Entonces sintió su tacto. Una mano posándose en su rodilla. Abrió los ojos.
+
+    Hendaya le observaba con una sonrisa cordial.
+
+    —¿Te encuentras bien?
+
+    Fernandito se quedó mudo. Procuró mantener la mirada apartada de los puntos rojos que salpicaban el cuello de la camisa de Hendaya. Asintió.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: procurar: procuró
+
+    es: negar: negó
+
+    es: conjurar: conjurar
+
+    es: cordial: cordial
+
+    es: oír: oyó
+
+    es: tacto: tacto
+
+    es: parada: parada
+
+    es: tender: tendió
+
+    es: billete: billete
+
+    </div>
+
+- El ballet de copas, risas y pullas fue apoderándose de la cena. Fermín, que sostenía la cuchara vacía en la mano y no cesaba de mirar a Alicia, estaba callado como una tumba. Alicia fingía no advertirlo, pero incluso Bea empezaba a mostrarse incómoda. Daniel le pegó un codazo a Fermín y le susurró algo con apremio. Este sorbió una cucharada de sopa, tenso. Afortunadamente, si bien el verbo del asesor bibliográfico de Sempere e hijos había quedado acallado ante la presencia de Alicia, el de don Anacleto estaba viviendo una segunda juventud merced al champán y pronto recibieron todos el obsequio de su habitual análisis de la actualidad del país.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: pulla: pullas
+
+    es: apoderar: apoderándose
+
+    es: sostener: sostenía
+
+    es: cesar: cesaba
+
+    es: fingir: fingía
+
+    es: advertir: advertirlo
+
+    es: codazo: codazo
+
+    es: champán: champán
+
+    </div>
+
+- —No se apure, don Anacleto. El mundo es siempre el mismo —le tranquilizó el señor Sempere—. Y la verdad es que no espera a nadie y pasa de largo a la primera de cambio. ¿Qué tal un brindis por el pasado, el futuro y los que estamos entre el uno y el otro?
+
+    El pequeño Julián alzó su vaso de leche con entusiasmo, secundando la propuesta.
+
+    Entretanto Daniel había acorralado a Fermín en un rincón de la cocina, lejos de la vista y los oídos de los comensales.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: entretanto: entretanto
+
+    es: tranquilizar: tranquilizó
+
+    es: brindis: brindis
+
+    es: secundar: secundando
+
+    es: comensal: comensales
+
+    </div>
+
+- —¿Se puede saber qué mosca le ha picado, Fermín? Porque por lo menos es del tamaño de una sandía.
+
+    —Esa mujer no es lo que dice ser, Daniel. Aquí hay gato encerrado.
+
+    —¿Y qué es, si puede saberse?
+
+    —No lo sé, pero voy a averiguar qué turbio ardid se lleva entre manos. Lo huelo desde aquí, como el perfume ese de baratillo que se ha puesto la Merceditas para ver si aturde al relojero y le hace cruzar a la otra acera.
+
+    —¿Y cómo piensa averiguarlo?
+
+    —Con su ayuda.
+
+    —Ni hablar. A mí no me líe.
+
+    —No se deje atontar por esos efluvios de vampiresa. Esta es una lagarta como me llamo Fermín.
+
+    —Le recuerdo que la lagarta es la invitada de honor de mi señor padre.
+
+    —¡Aaaah…! ¿Y se ha preguntado usted cómo ha devenido esa conveniente casualidad?
+
+    —No lo sé. Ni me importa. Las casualidades no se cuestionan.
+
+    —¿Habla su parco intelecto o sus glándulas pospubescentes?
+
+    —Habla el sentido común, que a usted se lo debieron de extirpar el mismo día que la vergüenza.
+
+    Fermín rio con sarcasmo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: vergüenza: vergüenza
+
+    es: extirpar: extirpar
+
+    es: cuestionar: no se cuestionan
+
+    es: lagarta: lagarta
+
+    es: devenir: ha devenido
+
+    es: vampiresa: vampiresa
+
+    es: efluvio: efluvios
+
+    </div>
+
+- Sintió que el enganche de metal hacía contacto con algo firme y tiró con fuerza. La sombra inició el ascenso desde el fondo de la piscina. Alicia retrocedió unos pasos. Vargas fue el primero en comprender de qué se trataba.
+
+    —Apártese —murmuró.
+
+    Antes que nada Alicia reconoció el traje, porque ella le había acompañado a una sastrería de la Gran Vía el día que lo había comprado. El rostro que asomó a la superficie estaba blanco como el yeso y los ojos parecían dos óvalos de mármol pulido surcados de líneas oscuras en una red de capilares en torno a las pupilas. La cicatriz en la mejilla que ella misma le había dejado había devenido una señal púrpura que parecía marcada a fuego. La cabeza se ladeó y el profundo corte que le había rebanado la garganta quedó expuesto.
+
+    Alicia cerró los ojos y dejó escapar un sollozo. Sintió la mano de Vargas en el hombro.
+
+    —Es Lomana —consiguió articular.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: enganche: enganche
+
+    es: cicatriz: cicatriz
+
+    es: sollozo: sollozo
+
+    es: articular: articular
+
+    es: púrpura: púrpura
+
+    es: rebanar: le había rebanado
+
+    es: ladear: se ladeó
+
+    es: piscina: piscina
+
+    es: retroceder: retrocedió
+
+    es: antes que nada: antes que nada
+
+    es: asomar: asomó
+
+    es: superficie: superficie
+
+    </div>
+
+- —Alicia, ese cuerpo lleva ahí por lo menos dos o tres semanas. Desde antes de que llegase usted a Barcelona.
+
+    Ella cerró los ojos y asintió.
+
+    —Eso significa que quien fuera que entró en su casa y le robó el libro no era Lomana —completó Vargas.
+
+    —Lo sé.
+
+    Se disponían a ascender de nuevo cuando Vargas se quedó inmóvil y la sujetó. El ruido de pasos crujiendo en el piso superior reverberó en el eco de la bóveda. Siguieron el rastro de las pisadas con la mirada. El policía escuchaba con mirada impenetrable.
+
+    —Hay más de una persona —dictaminó con un hilo de voz.
+
+    Por un instante pareció que los pasos se detenían para luego alejarse. Alicia iba a asomarse a la escalera cuando detectó un ruido en lo alto. Oyeron la escalera crujir y el eco de una voz, e intercambiaron una mirada. Alicia apagó la linterna. Cada uno de ellos se hizo a un lado de la puerta y se escondieron en la sombra. Vargas apuntó con el cañón del arma la salida de la escalinata y tensó el percutor. Los pasos se aproximaban. Segundos más tarde una silueta asomó en el umbral. Antes de que pudiera dar un paso más, Vargas posó el cañón de su revólver en la sien del extraño, listo para volarle la cabeza en pedazos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: detener: se detenían
+
+    es: percutor: percutor
+
+    es: silueta: silueta
+
+    es: asomar: asomó, asomarse
+
+    es: dictaminar: dictaminó
+
+    es: sien: sien
+
+    es: eco: eco
+
+    es: oír: oyeron
+
+    es: crujir: crujir, crujiendo
+
+    es: reverberar: reverberó
+
+    </div>
+
+- —Vaya por delante que venimos en son de paz —articuló, cerrando los ojos y levantando las manos en señal de rendición incondicional.
+
+    —Fermín, ¿es usted? —preguntó Alicia atónita.
+
+    Antes de que el susodicho pudiera dar una respuesta, Daniel asomó en el umbral y se quedó petrificado a la vista del arma con que Vargas seguía apuntando a la cabeza de su amigo. El policía dejó escapar un resoplido y bajó el revólver. Fermín exhaló un suspiro angustiado.
+
+    —¿Se puede saber qué diantres hacen aquí? —preguntó Alicia.
+
+    —Mire por dónde me ha leído usted el pensamiento —respondió Fermín.
+
+    Alicia enfrentó las miradas acusadoras de Daniel y Fermín, y calibró sus opciones.
+
+    —Ya se lo decía yo, Daniel —dijo Fermín—. Mírela, maquinando maldades como la pérfida lamia que es.
+
+    —¿Qué es una lamia? —preguntó Vargas.
+
+    —No se ofenda el artillero, pero si gastara menos pistolón y más diccionario a lo mejor no tendría que preguntar —replicó Fermín.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: asomar: asomó
+
+    es: artillero: artillero
+
+    es: lamia: lamia
+
+    es: maquinar: maquinando
+
+    es: calibrar: calibró
+
+    </div>
+
+- —Todo esto es una sarta de mentiras —cortó Daniel.
+
+    —Daniel —dijo Alicia, posando una mano sobre la suya con gesto conciliatorio.
+
+    Él retiró la mano y se encaró a ella.
+
+    —¿A qué viene entonces hacerse pasar por una vieja amiga de la familia, visitando la librería, a mi esposa, a mi hijo y colándose en mi familia?
+
+    —Daniel, es complicado, permítame que…
+
+    —¿Es Alicia su nombre de verdad? ¿O lo ha tomado prestado de algún viejo recuerdo de mi padre?
+
+    Ahora era Fermín quien la observaba fijamente, como si enfrentara un fantasma de su pasado.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: sarta: sarta
+
+    es: conciliatorio: conciliatorio
+
+    es: encarar: se encaró
+
+    es: librería: librería
+
+    es: colar: colándose
+
+    es: enfrentar: enfrentara
+
+    </div>
+
+- —Manuel. Ponme un vino blanco y algo de picar.
+
+    —Tengo unas croquetitas de jamón para chuparse los dedos.
+
+    —Lo que sea.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: picar: picar
+
+    </div>
+
+-  —Hendaya no dijo nada de entregar las llaves a nadie.
+
+    El extraño se encogió de hombros.
+
+    —Cambio de planes —señaló mientras se enfundaba unos guantes con parsimonia.
+
+    —Oiga, ¿qué hace?
+
+    El brillo del acero apenas duró un instante. Braulio notó que la hoja del cuchillo, el frío más cortante que había conocido en su miserable existencia, se hundía en sus entrañas. Al principio apenas sintió dolor, tan solo aquella percepción de claridad extrema y de debilidad a medida que la hoja le rebanaba las tripas. Luego, cuando el extraño le hundió de nuevo el cuchillo en el bajo vientre hasta el mango y tiró con fuerza hacia arriba, Braulio sintió que aquel frío se tornaba fuego. Una garra de hierro candente se abrió camino hacia su corazón. La garganta se le inundó de sangre y ahogó sus gritos mientras el extraño le arrastraba al callejón y sustraía el manojo de llaves que llevaba prendido al cinto.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: brillo: brillo
+
+    es: hundir: se hundía
+
+    es: a medida que: a medida que
+
+    es: rebanar: le rebanaba
+
+    es: vientre: vientre
+
+    es: tornar: se tornaba
+
+    es: sangre: sangre
+
+    es: manojo: manojo
+
+    </div>
+
+- El forense describió también las puñaladas que le había propinado en el torso cuando Lomana se aferró a sus piernas intentando evitar en vano que le empujase hasta el borde de la piscina. No había agua en sus pulmones, explicó, solo sangre. Lomana se había ahogado en su propia sangre antes de hundirse en las aguas putrefactas. El forense era un hombre experimentado, un profesional que conocía el oficio y cuyo magisterio le inspiraba respeto y admiración. No había muchos como él. Solo por eso, decidió, le perdonaría la vida.
+
+    Vargas, zorro viejo, dejaba caer preguntas aquí y allá con notable perspicacia. No se lo iba a negar, pero era obvio que estaba dando palos de ciego y que, más allá de los particulares de la agonía final de Lomana, poco podría sacar en claro de su visita a la morgue. Mientras los escuchaba, debatió la posibilidad de retirarse a descansar unas horas o buscar una fulana que le calentase los pies hasta el amanecer. Parecía claro que las pesquisas de Vargas estaban en vía muerta y que no iba a ser necesario intervenir. Esas eran las órdenes, al fin y al cabo. No mover pieza a menos que no hubiera otro remedio. En el fondo lo lamentaba. Habría sido interesante enfrentarse al viejo policía y ver si aún le quedaban agallas para aferrarse a la vida. Los que se resistían a lo inevitable eran sus preferidos. Y en cuanto a la deliciosa Alicia, a ella le reservaba el honor final. Con ella sí podría tomarse su tiempo y saborear la recompensa a todos sus esfuerzos. Sabía que Alicia no le iba a decepcionar.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: perspicacia: perspicacia
+
+    es: negar: no se lo iba a negar
+
+    es: morque: morgue
+
+    es: saborear: saborear
+
+    es: puñalado: puñalados
+
+    es: propinar: le habia propinado
+
+    </div>
+
+- Manero señaló la lista de números que Vargas tenía en la mano.
+
+    —A saber. La llevo encima hace días y no sé ni lo que significa.
+
+    —¿Puedo verla un momento?
+
+    Vargas se la tendió y el forense le echó un vistazo mientras saboreaba el licor.
+
+    —Estaba pensando que a lo mejor son números de cuenta —apuntó el policía.
+
+    El forense negó.
+
+    —Los de la columna derecha no sabría decirle a qué corresponden, pero los de la izquierda son casi con toda seguridad certificados —dijo.
+
+    —¿Certificados?
+
+    —De defunción.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: lista: lista
+
+    es: certificado: certificados
+
+    es: forense: forense
+
+    es: defunción: defunción
+
+    </div>
+
+- Vargas le miró sin comprender. Manero señaló la columna a la izquierda.
+
+    —¿Ve la numeración? Estos siguen el sistema antiguo. La nueva numeración cambió hace años. Pero en estos se observa todavía el número de expediente, libro y página. Estos últimos los añaden luego, pero aquí generamos números de esos todos los días. Hasta su amigo Lomana va a tener uno para el resto de la eternidad.
+
+    Vargas apuró su vaso de un trago y examinó de nuevo la lista como si se tratase de un rompecabezas con el que llevara años batallando y que, súbitamente, empezase a cobrar sentido.
+
+    —¿Y los de la columna de la derecha? Parece que van correlacionados, pero la secuencia de numeración es distinta. ¿Podrían ser también certificados?
+
+    Manero afinó la mirada y se encogió de hombros.
+
+    —Lo parecen, pero no son de mi departamento.
+
+    Vargas dejó escapar un suspiro.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: rompecabezas: rompecabezas
+
+    es: numeración: numeración
+
+    es: libro: libro
+
+    es: lista: lista
+
+    es: suspiro: suspiro
+
+    es: columna: columna
+
+    </div>
+
+- —Te he dicho que me mires.
+
+    Valls obedeció. Una vez que se perdía la dignidad resultaba mucho más fácil hacerlo que dar órdenes. El visitante se acercó a los barrotes y le examinó con atención, paseando el foco de la linterna por sus miembros y por su cuerpo consumido. Solo entonces Valls reparó en por qué le resultaban familiares las facciones de aquella cara que le contemplaba desde el otro lado de los barrotes.
+
+    —¿Hendaya? —balbuceó—. Hendaya, ¿es usted?
+
+    Hendaya asintió.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: balbucear: balbuceó
+
+    es: barrote: barrotes
+
+    es: reparar: reparó
+
+    </div>
+
+- —Hendaya, sáqueme de aquí —suplicó.
+
+    Los ojos del policía brillaban entre las espirales de humo que ascendían de sus dedos.
+
+    —Hendaya, es una orden. Sáqueme de aquí.
+
+    El otro sonrió y apuró un par más de caladas.
+
+    —Tienes malos amigos —dijo al fin.
+
+    —¿Dónde está mi hija? ¿Qué le habéis hecho?
+
+    —Nada, todavía.
+
+    Valls oyó una voz que se alzaba en un alarido desesperado y no se dio cuenta de que era la suya. Hendaya lanzó el cigarrillo al interior de la celda a los pies de Valls. El policía no se inmutó cuando el prisionero, al verle subir la escalera, empezó a gritar y a golpear los barrotes de la celda con las últimas fuerzas que le quedaban hasta caer de rodillas, exánime. La compuerta en lo alto se selló como un sepulcro y la oscuridad se cerró de nuevo sobre él, más fría que nunca.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: exánime: exánime
+
+    es: oír: oyó
+
+    es: alarido: alarido
+
+    </div>
+
+- El policía le tendió la lista. Doña Luisa echó un somero vistazo y asintió.
+
+    —¿Los de entrada o los de salida?
+
+    —¿Perdón?
+
+    —Estos de aquí son certificados de defunción y estos otros son de nacimiento.
+
+    —¿Está segura?
+
+    —Yo siempre estoy segura. Lo de la corta estatura es para despistar.
+
+    Luisa tenía una sonrisa de gata astuta.
+
+    —Entonces quisiera ver ambos, si es posible.
+
+    —Todo es posible en el prodigioso mundo de la burocracia española. Sígame, si es tan amable, mi coronel —invitó Luisa sosteniendo una puerta tras el mostrador.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: defunción: defunción
+
+    es: nacimiento: nacimiento
+
+    es: lista: lista
+
+    </div>
+
+- —Y eso es raro.
+
+    —Más que un perro verde. Pero eso es solo para empezar.
+
+    Vargas la miró.
+
+    —Todas las defunciones están certificadas en el Hospital Militar. ¿Cuántos niños mueren en un hospital militar?
+
+    —¿Y los nacimientos?
+
+    —En el hospital del Sagrado Corazón. Todos sin excepción.
+
+    —¿Podría ser una casualidad?
+
+    —Si es usted hombre de fe… Y mire las edades de los niños. También van a pares, como puede ver.
+
+    Vargas forzó la vista, pero la fatiga se le estaba comiendo el entendimiento.
+
+    —Por cada expediente de defunción hay uno de nacimiento —explicó Luisa.
+
+    —No entiendo.
+
+    —Los niños. Cada uno de ellos nació el mismo día que uno de los fallecidos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: fallecido: fallecidos
+
+    es: fatiga: fatiga
+
+    es: defunción: defunciones
+
+    </div>
+
+- Luisa se hizo a un lado. Vargas rebuscó entre los certificados y encontró lo que buscaba.
+
+    —Mataix —murmuró.
+
+    Luisa se inclinó sobre los documentos que el policía estaba examinando.
+
+    —Dos niñas. Fallecidas en un mismo día… ¿Le dice algo eso? —preguntó la secretaria.
+
+    Los ojos de Vargas se deslizaron hasta el pie de los certificados.
+
+    —¿Qué es esto?
+
+    —La firma del funcionario que certifica el expediente.
+
+    El trazo era limpio y elegante, la caligrafía de alguien que sabía de apariencias y de protocolo. Vargas formó el nombre en los labios en silencio y sintió que se le helaba la sangre.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: trazo: trazo
+
+    es: caligrafia: caligrafía
+
+    es: protocolo: protocolo
+
+    es: helar: se le helaba
+
+    es: certificado: certificados
+
+    </div>
+
+- Rovira asintió.
+
+    —Ese.
+
+    El tipo seguía temblando como un cachorrillo.
+
+    —¿Me puede dar un vaso de agua, por favor? —imploró.
+
+    Vargas dudó un instante. Se aproximó a la cómoda y escanció un vaso de la jarra que había medio llena.
+
+    —¿Y la señorita Alicia? —inquirió Rovira a su espalda—. ¿No está con usted?
+
+    Vargas advirtió que la voz de Rovira estaba muy cerca y al volverse con el vaso en la mano le encontró a apenas un palmo. Ya no temblaba y su expresión asustadiza se había fundido en una máscara impenetrable.
+
+    Nunca llegó a ver la hoja del cuchillo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: máscara: máscara
+
+    es: palmo: palmo
+
+    es: escanciar: escanció
+
+    es: cuchillo: cuchillo
+
+    </div>
+
+- Sintió una punzada brutal en el costado, como si alguien le hubiera golpeado las costillas con un martillo, y comprendió que el filo se había hundido hasta perforarle el pulmón. Le pareció que Rovira sonreía y cuando quiso aferrar el revólver le embistió la segunda cuchillada. La hoja se hundió en su cuello hasta el mango y Vargas se tambaleó. La visión se le nubló y se agarró a la cómoda. Una tercera cuchillada le golpeó en el estómago. Se desplomó hasta caer tendido en el suelo. Una sombra se cernía sobre él. Mientras su cuerpo se rendía entre convulsiones, Rovira le arrebató el arma, la estudió con desinterés y luego la abandonó en el suelo.
+
+    —Quincalla —dijo.
+
+    Vargas se perdió en aquellos ojos sin fondo. Rovira esperó unos segundos y le asestó dos puñaladas más en el vientre, retorciendo el filo al tiempo que lo hacía. El policía escupió un borbotón de sangre e intentó golpear a Rovira, o quien fuera aquella criatura que lo estaba despedazando. Sus puños apenas consiguieron rozarle el rostro. Rovira extrajo el cuchillo impregnado con su sangre y se lo mostró.
+
+    —Hijo de puta —balbuceó Vargas.
+
+    —Mírame bien, viejo de mierda. Quiero que te mueras sabiendo que con ella no voy a ser tan misericordioso. A ella la voy a hacer durar, y te juro que te va a maldecir por haberle fallado mientras yo le enseño todo lo que sé hacer.
+
+    Vargas notó cómo un frío intenso se apoderaba de él y le paralizaba los miembros. El corazón le palpitaba rápidamente y apenas podía respirar. Un lienzo tibio y viscoso se esparcía bajo su cuerpo. Los ojos se le llenaron de lágrimas y le invadió un miedo como nunca había sentido. Su asesino limpió la hoja del cuchillo en sus solapas y lo guardó. Permaneció allí en cuclillas, mirándole a los ojos y saboreando su agonía.
+
+    —¿Lo notas ya? —preguntó—. ¿Qué se siente?
+
+    Vargas cerró los ojos y conjuró la imagen de Alicia. Falleció con una sonrisa en los labios y cuando el hombre que él había conocido como Rovira lo advirtió experimentó tal rabia que, aun sabiendo que estaba muerto, empezó a golpearle la cara con los puños hasta que tuvo los nudillos en carne viva
+
+    <div markdown="1" class="tagged-entries">
+
+    es: palpitar: palpitaba
+
+    es: borbotón: borbotón
+
+    es: saborear: saboreando
+
+    es: balbucear: balbuceó
+
+    es: misericordioso: misericordioso
+
+    es: conjurar: conjuró
+
+    es: fallecer: falleció
+
+    es: retorcer: retorciendo
+
+    es: filo: filo
+
+    es: impregnado: impregnado
+
+    </div>
+
+- Fernandito se asomó al hueco de la escalera y vio a aquel hombre de corta estatura que vestía un abrigo negro. Dudó algunos segundos y bajó en silencio hasta la puerta de Vargas. Estaba entreabierta. Se asomó al umbral y vio el cuerpo del policía tendido sobre una lámina negra que parecía un espejo líquido. No supo qué era hasta que lo pisó. Resbaló hasta caer de bruces junto al cuerpo. Vargas, blanco como una figura de mármol, estaba muerto. Por un instante no supo qué hacer. Luego, al ver el arma del policía en el suelo, la recogió y se lanzó escaleras abajo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: asomar: se asomó
+
+    es: umbral: umbral
+
+    es: resbalar: resbaló
+
+    es: bruces: caer de bruces
+
+    es: suelo: suelo
+
+    </div>
+
+- Al cruzar otra vez frente a la entrada al jardín comprobó que apenas se distinguía desde allí la fachada de la casa. Rodeó por segunda vez la finca y trepó el muro por el punto que había elegido previamente. Saltó al otro lado y aterrizó sobre una gruesa capa de hojarasca que ya empezaba a reblandecerse bajo la lluvia y que amortiguó su caída. Cruzó el jardín al abrigo de la arboleda hasta alcanzar el camino principal. Lo siguió hasta ganar la parte de atrás del caserón, donde encontró las ventanas de las cocinas que había referido Fernandito en su relato. La lluvia azotaba con furia y resbalaba por la fachada de la casa. Alicia se asomó a una de las ventanas y oteó el interior. Reconoció la mesa de madera donde Fernandito había visto morir a Valentín Morgado, cubierta de manchas oscuras. No había nadie a la vista. El estruendo de la tormenta hizo retumbar la estructura del edificio. Alicia golpeó la ventana con la culata del revólver y el cristal se hizo añicos. Un segundo más tarde estaba dentro.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: aterrizar: aterrizó
+
+    es: amortiguar: amortiguó
+
+    es: otear: oteó
+
+    es: añicos: se hizo añicos
+
+    es: estruendo: estruendo
+
+    es: resbalar: resbalaba
+
+    es: asomar: se asomó
+
+    es: hojarasca: hojarasca
+
+    es: reblandecer: reblandecerse
+
+    es: arboleda: arboleda
+
+    es: apenas: apenas
+
+    es: fachada: fachada
+
+    es: finca: finca
+
+    es: trepar: trepó
+
+    </div>
+
+- Frente a ella se abría un túnel horadado en la piedra que descendía en un ángulo de cuarenta y cinco grados. Una escalinata de peldaños irregulares se perdía en la tiniebla. De repente, el sonido se detuvo. Alicia avanzó hacia el primer peldaño y escuchó. Le pareció oír el susurro de una respiración. Apuntó el revólver hacia delante y bajó otro peldaño.
+
+    A un lado, colgado de un gancho metálico en la pared, había un objeto alargado. Una linterna. Alicia la cogió y la encendió haciendo girar el mango. Un haz de luz blanca penetró en la penumbra espesa y húmeda que ascendía del pozo.
+
+    —¿Hendaya? ¿Es usted? No me deje aquí…
+
+    La voz provenía del fondo del túnel. Estaba quebrada y apenas parecía humana. Alicia descendió los peldaños poco a poco hasta avistar los barrotes. Alzó el haz de luz y barrió el interior de la celda. Al comprender lo que estaba viendo se le heló la sangre.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: helar: se le heló
+
+    es: peldaño: peldaños, peldaño
+
+    es: barrote: barrotes
+
+    es: alzar: alzó
+
+    </div>
+
+- Pies ligeros y suelas mínimas con el golpe de tacón a juego. Una mujer. El falso Bernal calibró la evidencia. Se incorporó y se acercó al cuarto de la despensa. Presionó la pared del fondo y abrió la entrada al túnel. Descendió unos pasos hasta que el hedor que subía le aconsejó detenerse. Se volvió, y se disponía a cerrar el acceso cuando reparó en la linterna colgada del gancho. Se balanceaba ligeramente. El agente cerró la puerta y regresó a la cocina. Echó un vistazo somero y, tras cavilarlo unos instantes, borró el rastro de huellas con el pie y empujó los trozos de cristal a un rincón en sombra. No iba a ser él quien le dijese a Hendaya cuando volviera que alguien había hecho una visita sorpresa a la casa. El último infeliz que le había dado malas noticias a Hendaya había terminado con la mandíbula rota. Y era uno de sus hombres de confianza. Con él que no contasen.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: calibrar: calibró
+
+    es: hedor: hedor
+
+    es: reparar: reparó
+
+    es: gancho: gancho
+
+    es: balancear: se balanceaba
+
+    es: cavilar: cavilarlo
+
+    es: rastro: rastro
+
+    es: huella: huellas
+
+    es: borrar: borró
+
+    </div>
+
+- Oculta en el jardín, al otro lado de la ventana, Alicia observó cómo el policía recorría las cocinas con parsimonia, comprobaba la entrada al túnel y luego, incomprensiblemente, borraba el rastro de pisadas que había dejado tras ella. El policía echó un último vistazo y se dirigió de nuevo a la puerta. Aprovechando que la lluvia todavía caía con fuerza, y sin saber a ciencia cierta si aquel agente iba a dar parte de lo que había descubierto a sus superiores, Alicia optó por arriesgarse a cruzar el jardín a toda prisa, descender por la ladera y pasar el muro. En los sesenta segundos que le llevó hacerlo no dejó de esperar un balazo entre los omoplatos que nunca llegó. Saltó a la calle y corrió de regreso a la plaza, donde el tranvía azul iniciaba su descenso en la tormenta. Subió al vagón en marcha e, ignorando la mirada reprobatoria del revisor, se dejó caer en uno de los asientos, empapada y temblando no sabía si de frío o de alivio.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: parsimonia: parsimonia
+
+    es: borrar: borraba
+
+    es: rastro: rastro
+
+    es: pisada: pisadas
+
+    es: optar: optó
+
+    es: balazo: balazo
+
+    es: omoplato: omoplatos
+
+    es: reprobatorio: reprobatoria
+
+    </div>
+
+- —Quiero que subas al piso. Asegúrate de que no hay nadie dentro antes de entrar. Si la puerta está abierta o la cerradura tiene signos de haber sido forzada, echa a correr y no pares hasta llegar a tu casa.
+
+    —¿Usted no viene conmigo?
+
+    —Una vez que estés en el comedor, busca debajo del sofá. Encontrarás una caja con documentos y papeles. Dentro de esa caja hay un sobre con un cuaderno dentro. En el sobre pone «Isabella». ¿Me has entendido?
+
+    Él hizo un gesto afirmativo.
+
+    —Isabella.
+
+    —Quiero que cojas esa caja y te la lleves. Guárdala. Guárdala donde nadie la pueda encontrar. ¿Podrás hacer eso por mí?
+
+    —Sí. No se preocupe. Pero…
+
+    —Sin peros. Si me pasa algo…
+
+    —No diga eso.
+
+    —Si me pasa algo —insistió Alicia—, no puedes acudir ni a la policía. Si yo no vuelvo a recogerlos, deja que transcurran unos días y lleva esos documentos a la librería Sempere e hijos, en la calle Santa Ana. ¿Sabes dónde es?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: librería: librería
+
+    es: transcurrir: transcurran
+
+    es: coger: cojas
+
+    es: acudir: acudir
+
+    </div>
+
+- —Antes de entrar asegúrate de que nadie vigila la librería. Si algo te despierta la más mínima sospecha, pasa de largo y espera a otro momento. Cuando estés allí pregunta por Fermín Romero de Torres. Repite el nombre.
+
+    —Fermín Romero de Torres.
+
+    —No te fíes de nadie más. No te puedes fiar de nadie más.
+
+    —Me está asustando, señorita Alicia.
+
+    —Si me sucede algo, entrégale los documentos. Dile que vienes de mi parte. Cuéntale lo que ha ocurrido. Explícale que entre esos documentos está el diario de Isabella Gispert, la madre de Daniel.
+
+    —¿Quién es Daniel?
+
+    —Dile a Fermín que lo tiene que leer él y decidir si debe dárselo a Daniel o no. Él será el juez.
+
+    Fernandito asintió. Alicia sonrió con tristeza. Tomó la mano del chico y la apretó con fuerza. Él se llevó su mano a los labios y la besó.
+
+    —Siento haberte metido en esto, Fernandito. Y dejarte con esta responsabilidad… No tenía derecho.
+
+    —Me alegro de que lo haya hecho. No le fallaré.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: fallar: fallaré
+
+    es: entregar: entrégale
+
+    es: vigilar: vigila
+
+    es: librería: librería
+
+    </div>
+
+- Pendían del techo, sujetos por cuerdas que les conferían el aspecto de cadáveres ahorcados y suspendidos a medio metro del suelo. Hombres, mujeres y niños, maniquís ataviados con galas de otro tiempo que se mecían en la penumbra como almas atrapadas en un purgatorio secreto. Había docenas de ellos. Algunos lucían rostros sonrientes y miradas de cristal, otros estaban inacabados. Alicia podía sentir el palpitar de su corazón en la garganta. Respiró hondo y se adentró entre la jauría de figuras que colgaban. Brazos y manos le acariciaron el pelo y el rostro mientras avanzaba lentamente. Las figuras suspendidas se balanceaban y se agitaban a su paso.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: maniquí: maniquís
+
+    es: pender: pendían
+
+    es: cuerda: cuerdas
+
+    es: conferir: conferían
+
+    es: cadáver: cadáveres
+
+    es: suelo: suelo
+
+    es: mecer: se mecían
+
+    es: penumbra: penumbra
+
+    es: purgatorio: purgatorio
+
+    es: palpitar: palpitar
+
+    es: jauria: jauría
+
+    </div>
+
+- Las puertas del armario estaban casi ajustadas al cierre, pero dejaban un par de centímetros de apertura. Alicia se acercó poco a poco, preparada para vaciar el revólver. Por un segundo imaginó a Rovira, sonriendo en el interior y esperando a que ella bajase la guardia al abrir el armario.
+Alicia sostuvo el arma firmemente con las manos y dio una patada a la puerta, que se abrió despacio al rebotar en el marco. El armario estaba vacío. Una barra sostenía una docena de perchas desnudas. Al pie del armario encontró una caja de cartón en la que se podía leer una sola palabra:
+
+    **SALGADO**
+
+    Tiró de la caja y el contenido se desparramó a sus pies. Joyas, relojes y otros objetos de valor. Fajos de billetes que parecían fuera de curso legal atados con cordeles. Lingotes dorados, forjados aprisa y sin precisión. Alicia se arrodilló y contempló aquel botín, una pequeña fortuna, y supuso que aquel debía de ser el tesoro que Sebastián Salgado, antiguo prisionero del penal de Montjuic y primer sospechoso mencionado en la desaparición de Valls, habría ocultado en las taquillas de la Estación del Norte y soñado con recobrar cuando el ministro tramitó su indulto y puesta en libertad dos décadas más tarde. Salgado nunca consiguió recuperar el fruto de sus crímenes y pillajes. Cuando abrió la taquilla encontró una maleta vacía y murió sabiéndose un ladrón robado. Alguien se le había adelantado. Alguien que era conocedor del botín y la trama de los anónimos que Valls había estado recibiendo durante años. Alguien que llevaba moviendo los hilos de aquel asunto desde mucho antes de que el ministro desapareciese.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: armario: armario
+
+    es: trama: trama
+
+    es: hilo: hilos
+
+    es: indulto: indulto
+
+    es: tramitar: tramitó
+
+    es: taquilla: taquillas, taquilla
+
+    es: botín: botín
+
+    es: lingote: lingotes
+
+    es: fajo: fajos
+
+    es: joya: joyas
+
+    es: desparramar: desparramó
+
+    </div>
+
+- Las luces parpadearon un instante y Alicia se volvió sobresaltada. Fue entonces cuando lo vio. Ocupaba una pared entera, de suelo a techo. Se acercó despacio y, al comprender lo que estaba contemplando, sintió que le flaqueaban las rodillas y dejó caer los brazos.
+
+    El mosaico estaba formado por docenas, centenares de fotografías, recortes y apuntes. Había sido confeccionado con extraordinaria precisión y con empeño de orfebre. Todas las imágenes, sin excepción, eran de Alicia. Reconoció instantáneas de su primera época en la unidad junto a fotografías antiguas en las que apenas era una niña que databan de sus años en el orfanato del Patronato Ribas. La colección incluía decenas de instantáneas tomadas a distancia en las que se la veía recorriendo las calles de Madrid o Barcelona, a la entrada del hotel Palace, sentada en un café con un libro, bajando los peldaños de la Biblioteca Nacional, comprando en tiendas de la capital e incluso paseando junto al Palacio de Cristal en el parque del Retiro. Una de las fotografías mostraba la puerta de su habitación en el Hispania.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: parpadear: parpadearon
+
+    es: libro: libro
+
+    es: suelo: suelo
+
+    es: flanquear: flanqueaban
+
+    es: mosaico: mosaico
+
+    es: fotografía: fotografías
+
+    es: orfebre: orfebre
+
+    </div>
+
+- Encontró recortes de diarios donde se detallaban casos en cuya resolución había participado pero que, por supuesto, nunca mencionaban ni a Alicia ni a la unidad y atribuían todo el mérito a la policía o a la Guardia Civil. Al pie del mosaico había una mesa dispuesta a modo de altar sobre la que reconoció toda suerte de objetos relacionados con ella: menús de restaurantes que recordaba haber visitado, servilletas de papel en las que había apuntado algo, notas firmadas de su puño y letra, una copa de vino con una marca de carmín en el borde, una colilla, los restos de su billete de tren de Madrid a Barcelona…
+
+    En un extremo de la mesa había una vasija de vidrio en cuyo interior, expuestas como reliquias, se hallaban algunas piezas de ropa interior que había echado a faltar desde la noche en que alguien, o algo, había entrado en su casa mientras se encontraba bajo los efectos de los fármacos. Un par de sus medias estaban muy bien tendidas sobre la mesa y sujetas con alfileres. Junto a ellas reposaba el libro de Víctor Mataix de _El Laberinto de los Espíritus_, sustraído de su vivienda. Le invadió la necesidad de escapar de aquel lugar de pesadilla.
+
+    Nunca llegó a ver una figura que, a su espalda, se alzaba lentamente de entre la pila de cuerpos desmembrados al otro lado de la puerta y se dirigía hacia ella.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: El Laberinto de los Espíritus: El Laberinto de los Espíritus
+
+    es: servilleta: servilletas
+
+    es: pila: pila
+
+    es: sustraer: sustraído
+
+    es: alzar: se alzaba
+
+    es: reliquia: reliquias
+
+    es: alfiler: alfileres
+
+    es: libro: libro
+
+    es: puño y letra: puño y letra
+
+    </div>
+
+- Cuando comprendió lo que había sucedido ya era tarde. Oyó una respiración entrecortada tras ella y al volverse no tuvo tiempo de apuntar con el revólver. Un impacto brutal le sacudió las entrañas. El pinchazo le arrebató la respiración y la hizo caer de rodillas. Solo entonces pudo verle con claridad y comprender por qué no le había detectado al entrar. Llevaba una máscara blanca que le cubría el rostro. Estaba desnudo y portaba en la mano un objeto que parecía algún tipo de punzón industrial.
+
+    Alicia intentó dispararle, pero Rovira le ensartó la mano con la púa metálica. El revólver rodó por el suelo. El hombre la cogió por el cuello y la arrastró hasta el camastro. La dejó caer allí y se sentó sobre sus piernas, sujetándolas. Le agarró la mano derecha, que había perforado con el punzón, y se inclinó para sujetársela a los barrotes del camastro con alambre. Al hacerlo, la máscara se deslizó y Alicia encontró el rostro desencajado de Rovira a un par de centímetros del suyo. Tenía los ojos vidriosos y la piel de un lado de la cara salpicada por las quemaduras de un disparo a bocajarro. Le sangraba un oído y sonreía como un niño dispuesto a arrancarle las alas a un insecto y a deleitarse con su agonía.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: oír: oyó
+
+    es: arrancar: arrancarle
+
+    es: bocajarro: bocajarro
+
+    es: disparo: disparo
+
+    es: barrote: barrotes
+
+    es: púa: púa
+
+    es: ensartar: ensartó
+
+    es: máscara: máscara
+
+    es: arrebatar: le arrebató
+
+    es: entraña: las entrañas
+
+    </div>
+
+- —¿Quién eres? —preguntó Alicia.
+
+    Rovira la observó, disfrutando del instante.
+
+    —¿Tan lista que te crees y no lo has entendido todavía? Yo soy tú. Todo lo que tú deberías haber sido. Al principio te admiraba. Pero luego me he dado cuenta de que eres débil y que no me queda nada que aprender de ti. Soy mejor que tú. Soy mejor de lo que tú nunca podrías haber sido…
+
+    Rovira había dejado el punzón sobre el lecho. Alicia calculó que si le distraía un segundo quizá podría alcanzarlo con la mano izquierda, que le quedaba libre, y clavárselo en el cuello o los ojos.
+
+    —No me hagas daño —suplicó—. Haré lo que tú quieras…
+
+    Rovira rio.
+
+    —Querida, lo que quiero es precisamente hacerte daño. Mucho daño. Me lo he ganado…
+
+    Entonces la sujetó por el pelo contra el camastro y le lamió los labios y el rostro. Alicia cerró los ojos, palpando sobre la manta en busca del punzón. Las manos de Rovira le recorrieron el torso y se detuvieron sobre su vieja herida en el costado. Alicia había llegado a rozar el mango cuando Rovira le susurró al oído:
+
+    —Abre los ojos, puta. Quiero verte bien la cara cuando lo sientas.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: lamer: lamió
+
+    es: distraer: distraía
+
+    es: susurrar: susurró
+
+    es: mango: mango
+
+    es: rozar: rozar
+
+    </div>
+
+- Ella abrió los ojos, sabiendo lo que llegaría después y suplicando perder el sentido al primer golpe. Rovira se enderezó, alzó el puño y lo descargó con toda su fuerza sobre su herida. Alicia dejó escapar un aullido ensordecedor. Rovira, la habitación, la luz y el frío que sentía en las entrañas, todo quedó olvidado. Solo existía el dolor recorriéndole los huesos como una corriente eléctrica que le hizo olvidar quién era y dónde estaba.
+
+    Rovira rio al ver su cuerpo tensarse como un cable y sus ojos quedarse en blanco. Le levantó la falda hasta desvelar aquella cicatriz que le cubría la cadera como una telaraña negra, explorando la piel con la punta de los dedos. Se inclinó para besarla en la herida y luego la golpeó una y otra vez hasta destrozarse el puño contra los huesos de su cadera. Finalmente, cuando ya no emergía sonido alguno de la garganta de Alicia, se detuvo. Ella, hundiéndose en un pozo de agonía y oscuridad, se convulsionaba. Rovira recogió el punzón y recorrió con la punta la red de capilares oscuros que se entreveían bajo la piel pálida de la cadera de Alicia.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: alzar: alzó
+
+    es: telaraña: telaraña
+
+    es: cadera: cadera
+
+    es: herida: herida
+
+    es: desvelar: desvelar
+
+    es: corriente: una corriente
+
+    es: ensordecedor: ensordecedor
+
+    es: aullido: aullido
+
+    es: puño: puño
+
+    </div>
+
+- —Mírame —ordenó—. Yo soy tu sustituto. Y seré mucho mejor que tú. A partir de ahora, yo seré el favorito.
+
+    Alicia le miró desafiante. Rovira le guiñó el ojo.
+
+    —Esa es mi Alicia —dijo.
+
+    Murió sonriendo. No llegó a ver que Alicia alcanzaba el revólver que había guardado en el bolsillo izquierdo de su chaqueta. Cuando él empezaba a hurgar en la herida con el punzón, ella ya le había colocado el cañón bajo la barbilla.
+
+    —Chica lista —murmuró.
+
+    Un instante después, el rostro de Rovira se pulverizó en una nube de hueso y sangre. El segundo disparo, a quemarropa, le derribó hacia atrás. El cuerpo desnudo cayó de espaldas a los pies del camastro con un orificio humeante en el pecho y el punzón todavía agarrado en la mano. Alicia soltó el arma y forcejeó para liberar su mano derecha sujeta al catre. La adrenalina había tendido un velo sobre el dolor, pero sabía que sería momentáneo y que cuando este regresara, tarde o temprano, le haría perder el sentido. Tenía que salir de aquel lugar cuanto antes.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: sustituto: sustituto
+
+    es: adrenalina: adrenalina
+
+    es: humeante: humeante
+
+    es: orificio: orificio
+
+    es: caer: cayó
+
+    es: sangre: sangre
+
+    es: quemarropa: quemarropa
+
+    es: pulverizar: se pulverizó
+
+    es: bolsillo: bolsillo
+
+    </div>
+
+- Justo entonces el teléfono que había junto a la cama sonó. Alicia ahogó un grito.
+Lo dejó sonar cerca de un minuto, contemplándolo como si se tratase de una bomba que fuera a explotar en cualquier momento. Finalmente levantó el auricular y se lo llevó al oído. Escuchó, conteniendo la respiración. Un largo silencio se hizo en la línea y, tras el zumbido leve de la larga distancia, un aliento pausado.
+
+    —¿Estás ahí? —dijo la voz.
+
+    Alicia sintió que el auricular le temblaba en las manos.
+
+    Era la voz de Leandro.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ahogar: ahogó
+
+    es: zumbido: zumbido
+
+    es: explotar: explotar
+
+    es: contener la respiración: conteniendo la respiración
+
+    </div>
+
+- El teléfono le resbaló de la mano. Tambaleándose, se dirigió hacia la puerta. Al cruzar frente al santuario que Rovira había creado se detuvo. La rabia le dio fuerzas para salir al taller, encontrar uno de los bidones de queroseno que había junto al generador y derramar el contenido por el suelo. La película de líquido viscoso se esparció por la habitación, rodeando el cadáver de Rovira y tendiendo un espejo negro del que ascendían volutas de vapor irisado. Al pasar frente al generador arrancó uno de los cables y lo dejó caer al suelo. Mientras caminaba entre los maniquís suspendidos del techo en dirección al corredor que conducía a la salida oyó el chisporroteo a su espalda. Una súbita corriente de aire sacudió las figuras que la rodeaban cuando prendió la llamarada. Un resplandor ámbar la acompañó al tiempo que recorría el pasillo. Avanzó oscilante y dando tumbos contra los muros para sostenerse en pie. Nunca había sentido tanto frío.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: resbalar: resbaló
+
+    es: llamarada: llamarada
+
+    es: corriente: corriente
+
+    es: súbito: súbita
+
+    es: chisporroteo: chisporroteo
+
+    es: suelo: suelo
+
+    es: esparcir: se esparció
+
+    es: cadáver: cadáver
+
+    es: caer: caer
+
+    es: voluta: volutas
+
+    es: viscoso: viscoso
+
+    es: tambalear: tambaleándose
+
+    </div>
+
+- —O estamos allí en menos de diez minutos o le quemo la tartana. Tiene mi palabra.
+
+    El taxista gruñó y pisó el acelerador. Su mirada recelosa se encontró con la de Fermín en el espejo retrovisor.
+
+    —Oiga, ¿usted no es el de la otra vez? ¿No estuvo en una ocasión ya a punto de morírseme en el taxi años ha?
+
+    —Como no fuese del pestuzo que suelta no veo cómo podría o querría yo morirme aquí. Antes me tiro del puente de Vallcarca con La Regenta atada al cuello.
+
+    —Por mí…
+
+    —No se peleen —regañó Fernandito—. Que la señorita Alicia se nos va.
+
+    —Cagoendiez —maldijo el taxista, sorteando el tráfico de Vía Layetana rumbo a la Barceloneta.
+
+    Fermín extrajo un pañuelo del bolsillo y se lo tendió a Fernandito.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: regañar: regañó
+
+    es: oír: oiga
+
+    es: pestuzo: pestuzo
+
+    es: rumbo: rumbo
+
+    </div>
+
+- —Van ustedes a necesitar varios hectolitros de sangre —advirtió—. A mí me pueden sacar la que quieran, porque se me ve magro de carnes pero tengo más reservas naturales que el acuífero de Aigüestortes.
+
+    —¿Es usted familiar de la paciente? —preguntó un bedel que le salió al paso a la entrada del servicio de cirugía.
+
+    —Padre putativo en grado de tentativa —replicó Fermín.
+
+    —Y eso ¿qué significa?
+
+    —Que se aparte usted o me veré en la dolorosa necesidad de catapultarle la bolsa escrotal al cogote de un rodillazo. ¿Estamos?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: catapultar: catapultarle
+
+    es: escrotal: bolsa escrotal
+
+    es: hectolitro: hectolitros
+
+    </div>
+
+- El bedel se hizo a un lado y Fermín acompañó a Alicia hasta que se la arrebataron de las manos y la vio aterrizar en una mesa de quirófano, transparente como un espectro. Las enfermeras le cortaban la ropa con tijeras y su cuerpo maltrecho, cubierto de magulladuras, arañazos y cortes, quedó expuesto desvelando aquella herida de la que manaba sangre sin cesar. Fermín vislumbró la marca oscura que atenazaba una de sus caderas y se extendía por su anatomía como una red que quisiera devorarla. Entonces apretó los puños para evitar que le temblaran las manos.
+
+    Alicia le buscaba con la mirada, sus ojos velados de lágrimas y una sonrisa tibia en los labios. Fermín suplicó al diablo cojuelo al que siempre encomendaba sus imposibles que no se la llevara todavía.
+
+    —¿Qué grupo sanguíneo tiene usted? —preguntó una voz a su lado.
+
+    Fermín, sosteniendo la mirada a Alicia, extendió uno de los brazos.
+
+    —Cero negativo, universal y pata negra.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: sanguíneo: sanguíneo
+
+    es: encomendar: encomendaba
+
+    </div>
+
+- —Habla usted como un libro, Fermín.
+
+    —Si los libros hablasen no habría tanto sordo por ahí. Lo que tiene que hacer usted, Fernandito, es empezar a evitar que los demás le escriban el diálogo. Use la cabeza que Dios le ha plantado sobre las cervicales y hágase usted mismo el libreto, que la vida está llena de estraperlistas ávidos de rellenarle al respetable los sesos con las bobadas que les convienen para seguir manteniéndose subidos al burro y con la zanahoria en ristre. ¿Lo entiende?
+
+    —Creo que no.
+
+    —Así le va. Pero bueno, aprovechando que ya está más sereno voy a pedirle que me vuelva a contar todo lo que ha pasado. Esta vez desde el principio, por orden y sin recursos estilísticos de vanguardia. ¿Lo ve factible?
+
+    —Lo puedo intentar.
+
+    —Ándele pues.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: andar: ándele
+
+    es: libro: libro, libros
+
+    es: seso: sesos
+
+    es: estilísticos: estilísticos
+
+    es: vanguardia: vanguardia
+
+    es: factible: factible
+
+    </div>
+
+- —Fermín —dijo una voz grave y serena a su lado.
+
+    Se volvió para encontrar a Armando, príncipe de los gitanos y emperador de aquel mundo olvidado. Vestía un traje negro impecable y sostenía sus zapatos de charol en la mano. Se había subido las perneras del pantalón para caminar en la arena húmeda y contemplar a los niños jugar entre las olas. Señaló a la estampa del naufragio y asintió.
+
+    —La desgracia de unos es la bonanza de otros —sentenció—. ¿Qué le trae por estos lares, amigo mío, desgracia o bonanza?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: gitano: gitanos
+
+    es: impacable: impecable
+
+    es: naufragio: naufragio
+
+    es: bonanza: bonanza
+
+    es: traer: trae
+
+    </div>
+
+- —Sospecho que lo que usted necesita son las manos, no los ojos. ¿En qué puedo ayudarle?
+
+    —A salvar una vida.
+
+    —¿La suya?
+
+    —Esa ya se la debo, Armando. La que me trae aquí es una que debería haber salvado yo hace muchos años. El destino la puso en mis manos y le fallé.
+
+    —El destino nos conoce mejor de lo que nos conocemos a nosotros mismos, Fermín. No creo que le haya fallado usted a nadie. Pero intuyo que hay prisa. Deme los detalles.
+
+    —Puede ser complicado. Y peligroso.
+
+    —Si fuese fácil y seguro ya sé que no me insultaría viniendo a recabar mi ayuda. ¿Cómo se llama?
+
+    —Alicia.
+
+    —¿Un amor?
+
+    —Una deuda.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: recabar: recabar
+
+    es: traer: trae
+
+    es: fallar: fallé, haya fallado
+
+    es: intuir: intuyo
+
+    </div>
+
+- —Alicia, nos vamos a casa —anunció el diablillo con una voz que le resultaba extrañamente familiar.
+
+    Le acompañaba un espíritu de cabello negro azabache y facciones tan perfectas que Alicia sintió el deseo de besarle los labios, pasarle los dedos por aquella cabellera de leyenda y enamorarse de él aunque solo fuese un rato, lo suficiente para pensar que estaba despierta y se había tropezado con la felicidad que a algún incauto se le había caído por el camino.
+
+    —¿Puedo acariciarle? —preguntó ella.
+
+    El príncipe oscuro, porque tenía que ser un príncipe como poco, miró al diablillo dudando. Este hizo un gesto para indicar que no le hiciese caso.
+
+    —Eso es mi sangre circulándole por las venas, que le ha hecho perder por un momento la vergüenza y la ha dejado un poco ligera de cascos. No se lo tenga en cuenta.
+
+    A una señal del príncipe se materializaron una banda de enanitos, solo que no eran enanos y vestían todos de blanco. Entre los cuatro la levantaron de la cama tirando de las sábanas y la colocaron en una camilla. El príncipe le cogió la mano y se la apretó. Seguro que era un padre magnífico, pensó Alicia. Aquel apretón de mano, aquel tacto de terciopelo lo confirmaba.
+
+    —¿Le apetecería tener un hijo? —inquirió.
+
+    —Tengo diecisiete, mi alma —dijo el príncipe.
+
+    —Alicia, duérmase, que me está avergonzando —pidió el diablillo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: diablillo: diablillo
+
+    es: circular: circulándole
+
+    es: leyenda: leyenda
+
+    es: alma: alma
+
+    es: apetecer: apetecería
+
+    es: inquirir: inquirió
+
+    es: terciopelo: terciopelo
+
+    </div>
+
+- Estaba el príncipe cerrando las compuertas del carruaje cuando Alicia oyó voces y alguien que les daba el alto y profería amenazas. Por espacio de unos minutos se quedó sola mientras sus campeones se enfrentaban a una conjura de villanía, pues el aire se llenó del inconfundible eco de sopapos y garrotazos. Cuando el diablillo regresó a su lado portaba el pelo erizado, un labio partido y una sonrisa victoriosa. El vehículo inició su traqueteo y Alicia tuvo la extraña sensación de que podía oler a longaniza de la barata.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: compuerta: compuertas
+
+    es: carruaje: carruaje
+
+    es: oír: oyó
+
+    es: sopapo: sopapos
+
+    es: erizado: erizado
+
+    es: loganiza: loganiza
+
+    es: conjura: conjura
+
+    es: villanía: villanía
+
+    </div>
+
+- Un mecanismo de carrillón catedralicio cerró el portón. Recorrieron un largo corredor palaciego poblado con frescos de criaturas fabulosas que aparecían y se desvanecían al paso del farol de aceite que portaba el guardián del lugar. El aire olía a papel y a magia, y cuando el pasillo se abrió a una gran bóveda Alicia avistó la estructura más prodigiosa que jamás había visto, o que quizá recordaba en sueños.
+
+    Un laberinto de trazo delirante ascendía hacia una inmensa cúpula de cristal. La luz de la luna, descompuesta en mil cuchillas, se derramaba desde lo alto y perfilaba la geometría imposible de un sortilegio concebido a partir de todos los libros, todas las historias y todos los sueños del mundo. Alicia reconoció el lugar con el que tantas veces había soñado y alargó los brazos para tocarlo, temiendo que se esfumase en el aire. A su lado asomaron los rostros de Daniel y Bea.
+
+    —¿Dónde estoy? ¿Qué es este lugar?
+
+    Isaac Monfort, el guardián que les había abierto las puertas y al que Alicia identificó después de tantos años, se arrodilló a su lado y le acarició el rostro.
+
+    —Alicia, bienvenida de nuevo al Cementerio de los Libros Olvidados.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: guardián: guardián
+
+    es: laberinto: laberinto
+
+    es: derramar: se derramaba
+
+    es: sortilegio: sortilegio
+
+    es: libro: libros
+
+    es: temer: temiendo
+
+    es: pasillo: pasillo
+
+    es: Cementerio de los Libros Olvidados: Cementerio de los Libros Olvidados
+
+    </div>
+
+- Valls se abalanzó sobre el diario y lo agarró. Las páginas habían quedado enmarañadas al tirarlo Hendaya y le costó volver a ponerlo en orden con una sola mano. Cuando lo hubo conseguido, acercó la vela y deslizó la mirada por la portada.
+
+    Al principio no podía descifrar las letras. Hacía demasiado tiempo que sus ojos estaban confinados en aquel lugar. Lo que sí reconoció fue la fotografía a toda página. Era una instantánea tomada en el palacio de El Pardo en la que había posado frente a un gran mural con el traje azul marino de rayas blancas que se había hecho confeccionar en Londres hacía tres años. Era la última foto oficial que había distribuido el ministerio de Mauricio Valls. Las palabras emergieron lentamente, como un espejismo bajo las aguas.
+
+    Última hora
+
+    Fallece un gran español
+
+    MUERE EL MINISTRO
+
+    MAURICIO VALLS
+
+    EN UN ACCIDENTE DE TRÁFICO
+
+    El Generalísimo decreta tres días de luto oficial.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: luto: luto
+
+    es: fallecer: fallece
+
+    es: mural: mural
+
+    es: abalanzar: se abalanzó
+
+    es: espejismo: espejismo
+
+    es: generalísimo: generalísimo
+
+    </div>
+
+- —Buenos días, Ariadna —dijo—. Por favor, toma asiento.
+
+    Victoria miró a su alrededor. Agarró un candelabro que encontró en una repisa y lo blandió de forma amenazadora. El hombre, sin inmutarse, alzó la tapa de una de las bandejas y olfateó su perfume.
+
+    —Huele de maravilla. Seguro que tendrás apetito.
+
+    El hombre no hizo amago de aproximarse pero Victoria mantuvo el candelabro en alto.
+
+    —No creo que vayas a necesitar eso, Ariadna —dijo con calma.
+
+    —Mi nombre no es Ariadna. Mi nombre es Victoria. Victoria Sanchís.
+
+    —Siéntate, por favor. Aquí estás a salvo y no tienes nada que temer.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: a salvo: a salvo
+
+    es: apetito: apetito
+
+    es: candelabro: candelabro
+
+    es: amenazador: amenazadora
+
+    </div>
+
+- Le observó preparar la taza de café.
+
+    —¿Por qué me ha llamado Ariadna?
+
+    —Porque es tu verdadero nombre. Ariadna Mataix. ¿No es así? Aunque si lo prefieres, puedo llamarte Victoria. Yo soy Leandro.
+
+    Leandro se incorporó brevemente y le ofreció la mano. Victoria no la estrechó. Él, cordial, volvió a sentarse.
+
+    —¿Huevos revueltos? Los he probado y no están envenenados. Espero.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: taza: taza
+
+    es: café: café
+
+    es: incorporar: se incorporó
+
+    es: estrechar: no la estrechó
+
+    </div>
+
+- El relato empezaba cuando, siendo ella apenas una niña, su padre, Víctor Mataix, conoció a un hombre llamado Miguel Ángel Ubach, un poderoso financiero cuya esposa era lectora habitual de sus libros y que, persuadido por ella, había decidido contratarle para que escribiese una supuesta autobiografía del banquero a cambio de una suma considerable.
+
+    Su padre, que estaba pasando apuros económicos, aceptó el encargo. Finalizada la guerra, inesperadamente, el banquero y su esposa les hicieron un día una visita en la casa donde los Mataix vivían junto a la carretera de las Aguas en Vallvidrera. La señora de Ubach, bastante más joven que su esposo, era una belleza de las que solo se veían en las revistas. No quería arruinar su magnífica figura trayendo una criatura al mundo, pero le gustaban los niños, o la idea de tenerlos para que los criasen los sirvientes, casi tanto como los gatitos falderos y los Vodka Martini. Los Ubach pasaron el día con los Mataix. Para entonces sus padres le habían dado una hermana pequeña, Sonia, que apenas era un bebé. La señora de Ubach, al despedirse, besó a las niñas y declaró que eran una preciosidad. Días después unos hombres armados regresaron a su casa de Vallvidrera. Detuvieron a su padre para encerrarlo en la prisión de Montjuic y se las llevaron a su hermana y a ella, dejando a su madre malherida y creyéndola muerta.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: malherido: malherida
+
+    es: guerra: guerra
+
+    es: autobiografía: autobiografía
+
+    es: cuyo: cuya
+
+    </div>
+
+- Aquella misma noche esos hombres las separaron, y ella nunca volvió a ver a Sonia. Le dijeron que si no quería que matasen a su hermana pequeña debía olvidarse de sus padres, porque eran unos criminales, y que su nombre a partir de entonces ya no sería Ariadna Mataix sino Victoria Ubach. Le explicaron que sus nuevos papás eran don Miguel Ángel Ubach y su esposa Federica, y que tenía mucha suerte. Viviría con ellos en la casa más bonita de toda Barcelona, una mansión llamada El Pinar. Allí dispondría de criados y de todo lo que pudiera desear. Ariadna tenía diez años.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: disponer: dispondría
+
+    es: sino: sino
+
+    </div>
+
+- Explicó que habían averiguado que Víctor Mataix fue fusilado en el castillo de Montjuic, como tantos otros, por orden del entonces director de la prisión, Mauricio Valls, aunque en el informe oficial se dijo que se había suicidado. Leandro creía que Valls había vendido a Ariadna a los Ubach a cambio de favores para ascender en el régimen y de un paquete de acciones de un banco recién constituido mediante el expolio del patrimonio de centenares de gentes encarceladas, expropiadas y en muchos casos ejecutadas poco después del final de la guerra.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: guerra: guerra
+
+    es: mediante: mediante
+
+    es: expolio: expolio
+
+    </div>
+
+- —¿Sabes qué fue de tu madre?
+
+    Victoria hizo un gesto afirmativo, apretando los labios.
+
+    Leandro relató que, hasta donde sabían, su madre, Susana, al día siguiente de que su esposo y sus hijas fuesen raptados, logró reunir fuerzas y cometió el error de acudir a la policía a denunciar lo sucedido. Fue detenida en el acto e internada en el manicomio de Horta, donde se la mantuvo aislada en una celda de confinamiento y donde fue sometida a tratamientos de electroshock durante cinco años, hasta que decidieron abandonarla en un descampado de las afueras de Barcelona al comprobar que ya no recordaba ni cuál era su nombre.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: relatar: relató
+
+    es: raptar: raptados
+
+    es: acudir: acudir
+
+    es: afueras: afueras
+
+    </div>
+
+- —O eso creyeron.
+
+    Leandro explicó que Susana había sobrevivido en las calles de Barcelona mendigando, durmiendo al raso y robando en la basura para comer, en la esperanza de poder recuperar a sus hijas algún día. Aquella esperanza fue lo que la mantuvo viva. Años después, Susana encontró entre los escombros de un callejón del Raval un periódico en el que aparecía retratado Mauricio Valls con su familia. Por entonces era un hombre muy importante que había dejado su pasado de carcelero atrás. En la fotografía, Valls posaba con una niña, Mercedes.
+
+    —Mercedes no era otra que tu hermana pequeña, Sonia. Tu madre la reconoció porque Sonia había nacido con una marca que nunca había podido olvidar.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: fotografía: fotografía
+
+    es: carcelero: carcelero
+
+    es: retratado: retratado
+
+    es: mendigar: mendigando
+
+    es: al raso: al raso
+
+    es: sobrevivir: había sobrevivido
+
+    </div>
+
+- Al comprobar que Mercedes…, que Sonia ya no la recordaba, tu madre estuvo a punto de quitarse la vida. Pero no se rindió. Seguía acudiendo allí todas las mañanas con la esperanza de verla aunque fuera unos segundos o de que se acercase a la verja y hablara con ella. Un día decidió que debía contarle la verdad. Fue sorprendida por los guardaespaldas de la escolta de Valls en la verja de la escuela, cuando charlaba con tu hermana. Le volaron la cabeza de un tiro delante de la niña. ¿Quieres que paremos un rato?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: volar: volaron
+
+    es: verja: verja
+
+    es: acudir: seguía acudiendo
+
+    </div>
+
+- Leandro prosiguió relatando lo que él sabía acerca de cómo Victoria había crecido en la prisión de oro de El Pinar. Con el tiempo, Miguel Ángel Ubach fue llamado por el Caudillo para capitanear a un grupo de banqueros y notables que habían financiado a su ejército y le encargó el diseño de la nueva estructura económica del Estado. Ubach abandonó Barcelona y se trasladó con su familia a la gran casa de Madrid que ella siempre odió y de la que se escapó, desapareciendo durante meses hasta que se la localizó en extrañas circunstancias en la playa de un pueblo a unos cien kilómetros de Barcelona, San Feliu de Guíxols.
+
+    —Esta es una de las grandes lagunas en la composición que hemos hecho —dijo Leandro—. Nadie sabe dónde estuviste durante esos meses ni con quién. Cuanto sabemos es que, al poco de regresar tú a Madrid, la casa de los Ubach fue consumida por un terrible incendio que la redujo a cenizas una noche de 1948, un incendio en el que murieron el banquero y su esposa Federica.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: laguna: lagunas
+
+    es: incendio: incendio
+
+    </div>
+
+- —Ignacio Sanchís nunca fue un esposo para ti, no al menos en el sentido que todo el mundo creía —dijo Leandro—. Era un hombre bueno que había averiguado la verdad y se casó contigo para protegerte.
+
+    —Yo le quería.
+
+    —Y él a ti. Dio su vida por ti.
+
+    Victoria se sumió en un largo silencio.
+
+    —Durante muchos años intentaste hacer justicia por tu cuenta con la ayuda de Ignacio y de Valentín Morgado, que había estado con tu padre en la cárcel y a quien tu esposo contrató para que trabajase para vosotros como chófer. Juntos urdisteis un plan para tender una trampa a Valls y lograsteis capturarlo. Lo que no sabías es que alguien os vigilaba. Alguien que no podía permitir que se desvelase la verdad.
+
+    —¿Por eso mataron a Valls?
+
+    Leandro hizo un gesto afirmativo.
+
+    —¿Hendaya? —preguntó Victoria.
+
+    Él negó.
+
+    —Hendaya es un simple peón. Buscamos a quien mueve sus hilos.
+
+    —¿Y quién es? —dijo Victoria.
+
+    —Yo creo que tú sabes quién es.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: hilo: hilos
+
+    es: peón: peón
+
+    es: vigilar: vigilaba
+
+    es: desvelar: desvelase
+
+    </div>
+
+- —¿Cómo os enterasteis? ¿Cómo llegasteis a la conclusión de que tú y tu hermana no habíais sido las únicas?
+
+    —Conseguimos una lista con números de expedientes. Números de partidas de nacimiento y de defunción falsificadas por Valls.
+
+    —¿A quién pertenecían? —preguntó Leandro.
+
+    —A hijos de presos que habían estado encerrados en el castillo de Montjuic después de la guerra, cuando él era el director de la prisión. Todos desaparecidos. Lo que Valls hacía era primero encarcelar y asesinar a los padres. Luego se quedaba con sus hijos. Extendía un certificado de defunción al mismo tiempo que un certificado de nacimiento falso con una identidad nueva para los niños y luego los vendía a familias bien colocadas dentro del régimen a cambio de influencias, dinero y poder. Era un plan perfecto, porque una vez que los nuevos padres se quedaban con los niños robados eran cómplices y tenían que guardar silencio para siempre.
+
+    —¿Sabes cuántos casos como esos hubo?
+
+    —No. Ignacio sospechaba que quizá había centenares.
+
+    —Estamos hablando de una operación muy compleja. Valls no podría haber hecho todo eso por sí solo…
+
+    —Ignacio creía que había contado con un cómplice, o varios cómplices.
+
+    —Estoy de acuerdo. Es más, me atrevería a decir que es posible que Valls fuera un simple instrumento en la red. Tenía el acceso, la oportunidad y la codicia para actuar. Pero me cuesta creer que pudiera idear una trama de semejante complejidad.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: complejidad: complejidad
+
+    es: codicia: codicia
+
+    es: cómplice: cómplices
+
+    es: nacimiento: nacimiento
+
+    es: defunción: defunción
+
+    </div>
+
+- Leandro estudió el rostro pálido y compungido al otro lado del espejo. Ariadna desprendía aquel perfume de las almas rotas que se han extraviado por el camino y creen avanzar hacia alguna parte. Siempre le había fascinado cómo, si uno sabía leer el lenguaje de las miradas y del tiempo, podía adivinar en un rostro el semblante del niño que había sido y saborear el momento en que el mundo le había clavado su dardo envenenado y su espíritu había empezado a envejecer. Las personas eran como los títeres o los juguetes de cuerda, tenían todas un resorte oculto que permitía mover sus hilos y hacerlas correr en la dirección que uno deseaba. El placer, o quizá fuera tan solo el sustento, provenía de aquella entrega, aquel deseo turbio al que tarde o temprano sucumbían para rendirse a su voluntad, recibir su bendición y ofrecerle su alma a cambio de una sonrisa de aprobación y de una mirada que les hiciera creer.
+
+    Hendaya, sentado a su lado, la contemplaba con recelo.
+
+    —Me parece que estamos perdiendo el tiempo, señor —dijo—. Si me da una hora con ella le sacaré todo lo que sabe.
+
+    —Ya has tenido horas de sobra. No todo es charcutería. Tú haz tu trabajo y yo haré el mío.
+
+    —Sí, señor.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: recelo: recelo
+
+    es: títer: títeres
+
+    es: charcutería: charcutería
+
+    </div>
+
+- El doctor no era médico, pero nadie lo hubiera dicho al verle ataviado con su traje gris, su maletín y su cojera de veterano. Era químico. Y de los mejores. Leandro contempló cómo ayudaba a Ariadna a tenderse en el lecho, le descubría el brazo y le buscaba el pulso. La jeringuilla era pequeña y la aguja tan fina que ni se inmutó. Leandro sonrió para sí al ver cómo la mirada de Ariadna se deshacía y su cuerpo perdía aquella rigidez. En unos segundos estaba sumida en el sopor químico que la mantendría allí por lo menos dieciséis horas, posiblemente más al tratarse de una mujer de constitución frágil. Flotaría en una calma sin sueños, un estado de suspensión y placer absolutos que iría clavando poco a poco sus garras en sus vísceras, venas y cerebro. Día a día.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: vena: venas
+
+    es: químico: químico
+
+    es: sopor: sopor
+
+    es: víceras: víceras
+
+    </div>
+
+- —Primero hablemos y luego podrás tomar tu medicina.
+
+    Ariadna asintió. Cada día se repetía el mismo juego. Ya no se acordaba de lo que le había contado o no. Tanto daba. Ya no tenía sentido intentar ocultarle nada. Todos habían muerto. Y ella nunca iba a salir de allí.
+
+    —Era el día antes de mi cumpleaños —empezó—. Los Ubach habían organizado una fiesta para mí. Todas mis compañeras del colegio estaban invitadas.
+
+    —¿Tus amigas?
+
+    —No eran amigas mías. Era compañía comprada, como todo en aquella casa.
+
+    —¿Fue esa noche cuando decidiste huir?
+
+    —Sí.
+
+    —Pero alguien te ayudó, ¿no es así?
+
+    —Sí.
+    
+    —Háblame de ese hombre. David Martín, ¿verdad?
+
+    —David.
+
+    —¿Cómo le conociste?
+
+    —David había sido amigo de mi padre. Habían trabajado juntos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: medicina: medicina
+
+    </div>
+
+- —Según mis informes, David Martín fue encarcelado en 1939, cuando intentaba cruzar la frontera para regresar a Barcelona a finales de la guerra. Pasó un tiempo preso en el castillo de Montjuic, donde coincidió con tu padre, y luego fue declarado muerto hacia finales de 1941. Tú me estás hablando del año 1948, varios años después de eso. ¿Estás segura de que el hombre que te ayudó a escapar era Martín?
+
+    —Era él.
+
+    —¿No podría haber sido alguien que se hiciera pasar por él? Al fin y al cabo hacía muchos años que no le veías.
+
+    —Era él.
+
+    —De acuerdo. ¿Cómo volviste a reencontrarle?
+
+    —Doña Manuela, mi tutora, solía llevarme todos los sábados al parque del Retiro. Al Palacio de Cristal, que era mi lugar favorito.
+
+    —También es el mío. ¿Fue allí donde encontraste a Martín?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: coincidir: coincidó
+
+    es: a finales: a finales de 1941
+
+    </div>
+
+- —Pero David Martín no tenía familia.
+
+    —Tenía gente a la que quería.
+
+    —¿Te dijo cómo había logrado escapar del castillo?
+
+    —Valls había hecho que dos de sus hombres se lo llevasen a un caserón que había junto al parque Güell para asesinarle. Solían matar a gente allí y los enterraban en el jardín.
+
+    —¿Y qué pasó?
+
+    —David dijo que había alguien más allí, en la casa, que le ayudó a escapar.
+
+    —¿Un cómplice?
+
+    —Él le llamaba el patrón.
+
+    —¿El patrón?
+
+    —Tenía un nombre extranjero. Italiano. Me acuerdo porque era el mismo nombre de un compositor famoso que les gustaba mucho a mis padres.
+
+    —¿Te acuerdas del nombre?
+
+    —Corelli. Se llamaba Andreas Corelli.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: cómplice: cómplice
+
+    es: patrón: patrón
+
+    </div>
+
+- —¿Y por qué fue a buscarte a ti?
+
+    —Para cumplir la promesa que le había hecho a mi padre.
+
+    —¿Y nada más?
+
+    —Y porque pensaba que si yo le facilitaba el acceso a la casa de mis padres tarde o temprano Mauricio Valls aparecería por allí y él podría matarle. Valls visitaba a Ubach a menudo. Tenían negocios juntos. Acciones del banco. De otro modo era imposible llegar a Valls, porque siempre iba escoltado o estaba protegido.
+
+    —Pero eso no llegó a suceder.
+
+    —No.
+
+    —¿Por qué?
+
+    —Porque le dije que si intentaba hacerlo le matarían.
+
+    —Eso ya se lo debía de imaginar. Tuvo que haber algo más.
+
+    —¿Algo más?
+
+    —Algo más que tú le dijeras para que cambiase de planes.
+
+    —Necesito la medicina. Por favor.
+
+    —Dime qué le dijiste a David Martín para que cambiase de idea, para que abandonase el plan que le había traído a Madrid a vengarse de Valls y decidiera por el contrario ayudarte a escapar.
+
+    —Por favor…
+
+    —Solo un poco más, Ariadna. Luego te daremos tu medicina y podrás descansar.
+
+    —Le dije la verdad. Que estaba embarazada.
+
+    —No entiendo. ¿Embarazada? ¿De quién?
+
+    —De Ubach.
+
+    —¿Tu padre?
+
+    —No era mi padre.
+
+    —Miguel Ángel Ubach, el banquero. El hombre que te había adoptado.
+
+    —El hombre que me había comprado.
+
+    —¿Qué pasó?
+
+    —Muchas noches venía a mi habitación, bebido. Me decía que su mujer no le quería, que tenía amantes, que ya no compartían nada. Se echaba a llorar. Luego me forzaba. Cuando se cansaba me decía que era culpa mía, que yo le tentaba, que era una puta como mi madre. Me pegaba y me aseguraba que si le contaba algo a alguien haría que matasen a mi hermana, porque él sabía dónde estaba y con una sola llamada suya la enterrarían viva.
+
+    —¿Y qué hizo David Martín al oír eso?
+
+    —Robó un coche y me sacó de allí. Necesito la medicina, por favor…
+
+    <div markdown="1" class="tagged-entries">
+
+    es: forzar: me forzaba
+
+    es: puta: puta
+
+    es: pegar: me pegaba
+
+    es: enterrar: la enterrarían
+
+    </div>
+
+- —No había pasado un mes de nuestra llegada a la mansión cuando David empeoró. Yo había salido a buscar algo de comida. Unos payeses acudían todas las mañanas hasta un lugar al pie de la playa, La Taberna del Mar, con un carromato con comestibles. Al principio era David quien iba allí, o al pueblo, a conseguir víveres, pero llegó un momento en que no podía salir de la casa. Sufría unos dolores de cabeza terribles, fiebre, náuseas… Casi todas las noches vagaba por la casa, delirando. Creía que Corelli iría a por él.
+
+    —¿Viste tú alguna vez a Corelli?
+
+    —Corelli no existía. Era algo que vivía solo en su imaginación.
+
+    —¿Cómo puedes estar segura?
+
+    —Los Vidal habían hecho construir un pequeño muelle de madera que se adentraba en el mar desde la cala que había bajo la casa. A menudo David iba hasta allí y se sentaba en la punta, mirando el mar. Allí es donde mantenía sus conversaciones imaginarias con Corelli. Algunas veces yo también me acercaba al muelle y me acomodaba a su lado. David no se daba cuenta de que estaba allí. Le oía hablar con Corelli, como lo había hecho en el coche cuando huimos de Madrid. Luego despertaba de su trance y me sonreía. Un día empezó a llover y, cuando le cogí de la mano para llevarle de nuevo a la casa, me abrazó llorando y me llamó Isabella. A partir de entonces ya no me reconoció y pasó los dos últimos meses de su existencia convencido de que vivía con Isabella.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: oir: oía
+
+    es: muelle: muelle
+
+    </div>
+
+- —Qué más da eso. No tiene nada que ver con Valls ni con nada.
+
+    —Todo está conectado, Ariadna. Por favor, ayúdame.
+
+    —David estaba convencido de que el bebé que yo llevaba en el vientre era alguien a quien él había conocido y perdido.
+
+    —¿Dijo quién?
+
+    —Le llamaba Cristina. Casi no hablaba de ella. Pero cuando la mencionaba se le encogía la voz de remordimiento y culpabilidad.
+
+    —Cristina era la esposa de Pedro Vidal. La policía también le acusó de su muerte. Aseguraron que la había ahogado en el lago de Puigcerdá, muy cerca del caserón en el Pirineo al que te llevó.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: ahogar: ahogado
+
+    es: vientre: vientre
+
+    </div>
+
+- —Fue a finales de marzo, creo. David llevaba unos días mejor. Había encontrado un pequeño bote de madera en un cobertizo al pie del acantilado y casi todas las mañanas, pronto, salía a remar mar adentro. Yo estaba ya de siete meses y me pasaba el día leyendo. La casa tenía una biblioteca enorme y había ejemplares de casi todas las obras del escritor favorito de David Martín, un autor del que nunca había oído hablar llamado Julián Carax. Al atardecer encendíamos la chimenea en el salón y yo le leía en voz alta. Las leímos todas. Aquellas dos últimas semanas las pasamos con la última novela de Carax, titulada _La Sombra del Viento_.
+
+    —No la conozco.
+
+    —Casi nadie la conoce. Creen que sí, pero no es así. Una noche terminamos el libro a altas horas de la madrugada. Me fui a dormir y a las dos horas sentí las primeras contracciones.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: bote: bote
+
+    es: remar: remar
+
+    es: biblioteca: biblioteca
+
+    es: Julián Carax: Julián Carax
+
+    </div>
+
+- —Empecé a notar un dolor terrible, como si me hubiesen apuñalado en el vientre. Me entró el pánico. Llamé a David a voces. Cuando apartó las sábanas para cogerme en brazos y llevarme al médico estaban empapadas de sangre…
+
+    —Lo siento.
+
+    —Todo el mundo lo siente.
+
+    —¿Llegasteis al médico?
+
+    —No.
+
+    —¿Y el bebé?
+
+    —Era una niña. Nació muerta.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: apuñalar: hubiesen apuñalado
+
+    es: vientre: vientre
+
+    es: sangre: sangre
+
+    </div>
+
+- —David tomó el cadáver en sus brazos y se puso a gemir como un animal herido. La niña tenía la piel azulada y parecía una muñeca rota. Quise levantarme y abrazarlos, pero estaba muy débil. Al amanecer, cuando empezaba a clarear, David cogió a la niña, me miró por última vez y me pidió perdón. Luego salió de la casa. Me arrastré hasta la ventana. Le vi bajar por la escalinata entre las rocas hasta el muelle. El bote de madera estaba amarrado en la punta. Se subió a él con el cuerpo de la niña envuelto en unos trapos y comenzó a remar mar adentro, mirándome todo el rato. Yo alcé la mano, esperando que me viera, que volviese. Siguió remando hasta que se detuvo a un centenar de metros de la costa. El sol ya asomaba sobre el mar, que parecía un lago de fuego. Vi la silueta de David incorporarse y recoger algo del suelo del bote. Se puso a golpear la quilla de la embarcación una y otra vez. Tardó en hundirse apenas un par de minutos. David permaneció allí, inmóvil, con la niña en los brazos y contemplándome hasta que el mar se los tragó para siempre.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: cadáver: cadáver
+
+    es: gemir: gemir
+
+    es: muñeca: muñeca
+
+    es: muelle: muelle
+
+    es: quilla: quilla
+
+    es: tragar: se los tragó
+
+    </div>
+
+- —¿Qué le contaste?
+
+    —Todo.
+
+    —¿Incluido lo del robo de niños?
+
+    —Todo.
+
+    —¿Y te creyó?
+
+    —Sí. A ella le había pasado algo parecido. Casi todas las chicas del internado tenían una historia similar.
+
+    —¿Qué ocurrió?
+
+    —La encontraron ahorcada unos días después en el desván del internado. Tenía dieciséis años.
+
+    —¿Suicidio?
+
+    —¿Usted qué cree?
+
+    —Y a ti, ¿qué te hicieron?
+
+    —Me llevaron de vuelta a la casa de los Ubach.
+
+    —¿Y…?
+
+    —Ubach me pegó una paliza y me encerró en mi habitación. Me dijo que si volvía a contar mentiras sobre él me metería en un manicomio para el resto de mi vida.
+
+    —¿Y qué le dijiste?
+
+    —Nada. Esa misma noche, mientras dormían, me escabullí de mi dormitorio por la ventana y cerré con llave el cuarto donde dormían los Ubach, en el tercer piso. Luego bajé a las cocinas y abrí las espitas del gas. En el sótano guardaban bidones de queroseno para el generador. Recorrí todo el primer piso rociando suelo y paredes con él. Luego prendí fuego a las cortinas y salí al jardín.
+
+    —¿No huiste?
+
+    —No.
+
+    —¿Por qué?
+
+    —Porque quería verlos arder.
+
+    —Entiendo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: prender: prendí
+
+    es: ahorcado: ahorcada
+
+    es: espita: espitas
+
+    es: bidón: bidones
+
+    es: queroseno: queroseno
+
+    es: rociar: rociando
+
+    es: suelo: suelo
+
+    es: paliza: paliza
+
+    es: arder: arder
+
+    </div>
+
+- —Pronto. Primero háblame de tu esposo, Ignacio Sanchís. No acabo de comprender cómo Miguel Ángel Ubach, que tenía a su servicio a los más exclusivos bufetes de abogados del país, decidió nombrar como albacea testamentario a un joven prometedor pero con poca experiencia. ¿Se te ocurre por qué?
+
+    —¿No es obvio?
+
+    —No.
+
+    —Ignacio era hijo de Ubach. Lo tuvo con una corista del Paralelo a la que frecuentaba de joven. Dolores Ribas, se llamaba. Como la señora no quería tener hijos para no perder su figura, Ubach lo mantuvo en secreto. Le pagó sus estudios y se aseguró de que disfrutara de oportunidades y que entrase a trabajar en un despacho de abogados al que luego contrató.
+
+    —¿Sanchís lo sabía? ¿Sabía que Ubach era su verdadero padre?
+
+    —Claro.
+
+    —¿Por eso se casó contigo?
+
+    —Se casó conmigo para protegerme. Era mi único amigo. Era un hombre honesto y decente. El único que he conocido.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: mantener: mantuvo
+
+    </div>
+
+- —No importa. ¿Fue suya también la idea de usar el fantasma de David Martín para sembrar el temor en Valls?
+
+    —Fue mía.
+
+    —¿Quién escribía las cartas que le enviabais a Valls?
+
+    —Yo.
+
+    —¿Qué sucedió en noviembre de 1956 en el Círculo de Bellas Artes de Madrid?
+
+    —Las cartas no estaban alcanzando el objetivo esperado. La idea había sido ir sembrando el miedo en Valls y hacerle creer que existía una conspiración orquestada por David Martín para vengarse de él y desvelar la verdad acerca de su pasado.
+
+    —¿Con qué fin?
+
+    —Conseguir que diera un paso en falso y regresara a Barcelona para enfrentarse a Martín.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: desvelar: desvelar
+
+    es: objetivo: objetivo
+
+    </div>
+
+- —¿Y ese fue el intento de asesinato en 1956?
+
+    —Entre otras cosas.
+
+    —¿Quién lo perpetró?
+
+    —Morgado. No se suponía que debía matarle, solo asustarle y convencerle de que no estaba seguro ni en su propio búnker y que nunca lo estaría hasta que acudiese en persona a Barcelona para silenciar a David Martín de una vez por todas.
+
+    —Pero nunca le podría encontrar, porque estaba muerto.
+
+    —Exactamente.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: acudir: acudiese
+
+    es: asesinato: asesinato
+
+    </div>
+
+- —¿Qué otras cosas, como decías, hicisteis para presionarle?
+
+    —Ignacio pagó a un miembro del servicio de su casa para que dejase en el despacho de Valls uno de los libros de mi padre, _Ariadna y el Príncipe Escarlata_, la noche del baile de máscaras en Villa Mercedes. El libro llevaba una nota y la lista con los números de expedientes falsificados que habíamos descubierto hasta entonces. Fue la última que recibió. Ya no pudo aguantar más.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: máscara: máscaras
+
+    es: lista: lista
+
+    es: expediente: expedientes
+
+    </div>
+
+- —Lo sé, lo sé. Y, aun así, por algún motivo no consigo creerte del todo. ¿Me has mentido, Ariadna? Dime la verdad.
+
+    —Yo le he dicho la verdad. Lo que no sé es si usted también me la habrá dicho.
+
+    La mirada de Leandro, desprovista de expresión, se posó en ella como si acabase de detectar su presencia. Sonrió débilmente y se inclinó hacia adelante.
+
+    —No sé a qué te refieres, Ariadna.
+
+    Ella sintió que se le llenaban los ojos de lágrimas. Las palabras le resbalaron de los labios antes de que se diera cuenta de que las estaba pronunciando.
+
+    —Yo creo que sí lo sabe. Usted estaba en el coche, ¿verdad? El día que vinieron a detener a mi padre y además se nos llevaron a mi hermana y a mí. Usted era el socio de Valls… La mano negra.
+
+    Leandro la contempló con tristeza.
+
+    —Creo que me confundes con otra persona, Ariadna.
+
+    —¿Por qué? —preguntó ella con apenas un hilo de voz.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: resbalar: resbalaron
+
+    es: detener: detener
+
+    es: socio: socio
+
+    es: mano negra: mano negra
+
+    </div>
+
+- Aquella noche, mientras la pócima mágica del doctor se abría camino por sus venas por última vez, Ariadna soñó con el Príncipe Escarlata de los cuentos que su padre había escrito para ella y recordó.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: pócima: pócima
+
+    es: cuento: cuentos
+
+    </div>
+
+- Valls se encogió de hombros. Hendaya sonrió, encendió un cigarrillo y se lo tendió a través de los barrotes. Valls lo aceptó con dedos temblorosos y aspiró una calada.
+
+    —¿De qué quiere hablar?
+
+    —De la lista —dijo Hendaya.
+
+    —No sé a qué lista se refiere.
+
+    —La que encontraste dentro de un libro en el despacho de tu casa. La que llevabas contigo la noche que te capturaron. La que contenía unos cuarenta números de certificados de nacimiento y defunción. Ya sabes qué lista.
+
+    —Ya no la tengo. ¿Es eso lo que busca Leandro? Porque es para él para quien trabaja, ¿no?
+
+    Hendaya se acomodó de nuevo en los escalones y le dedicó una mirada de desinterés.
+
+    —¿Hiciste alguna copia?
+
+    Valls negó.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: copia: copia
+
+    es: lista: lista
+
+    es: libro: libro
+
+    es: negar: negó
+
+    </div>
+
+- Valls le miró sin expresión alguna en los ojos.
+
+    —Sigue portándote bien y haciendo puntos. Te reservaré una bala de punta hueca como obsequio de despedida y recompensa por todos los servicios prestados a la patria.
+
+    Valls esperó a que Hendaya hubiera desaparecido escaleras arriba para arrodillarse a recoger la fotografía.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: fotografía: fotografía
+
+    es: hueco: hueca
+
+    es: obsequio: obsequio
+
+    es: recompensa: recompensa
+
+    es: patria: patria
+
+    es: bala: bala
+
+    </div>
+
+- Ariadna observó al doctor concentrar la vista y acercar la jeringuilla a su piel. Cuando la punta de la aguja estuvo a un centímetro de su muslo habló.
+
+    —Hoy no me ha pasado el algodón con alcohol, doctor.
+
+    El hombre, sorprendido, alzó la mirada brevemente y le sonrió confundido.
+
+    —¿Tiene usted hijas, doctor?
+
+    —Dos, Dios las bendiga. El señor Leandro es su padrino.
+
+    Ocurrió en apenas un segundo. Antes de que el doctor acabase de pronunciar aquellas palabras y pudiera regresar a su tarea, Ariadna le agarró la mano con fuerza y le clavó la jeringuilla en la garganta. Una mirada de perplejidad inundó los ojos del buen doctor. Se le cayeron los brazos desplomados y empezó a temblar con la jeringuilla clavada en el cuello. La solución contenida en el émbolo se tiñó con su sangre. Ariadna le sostuvo la mirada, aferró la jeringuilla y le vació el contenido en la yugular. El doctor abrió la boca sin emitir sonido alguno y cayó de rodillas al suelo. Ella se sentó de nuevo en la silla y le contempló morir. Tardó entre dos y tres minutos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: jeringuilla: jeringuilla
+
+    es: émbolo: émbolo
+
+    es: teñir: se tiñó
+
+    es: perplejidad: perplejidad
+
+    es: apenas: apenas
+
+    </div>
+
+- Luego se inclinó sobre él, extrajo la jeringuilla y limpió la sangre en la solapa de su chaqueta. La guardó de nuevo en el estuche metálico, devolvió el frasco número nueve a su lugar y dobló la funda de piel. Se arrodilló junto al cuerpo, palpó los bolsillos y encontró un billetero del que sacó una docena de billetes de cien pesetas. Se enfundó la exquisita chaqueta del traje y el sombrero que iba a juego. Por último recogió las llaves que había dejado el doctor sobre la mesa, la funda con los frascos y la jeringuilla, y las metió en el bolso blanco. Se anudó el pañuelo en la cabeza y, con el bolso bajo el brazo, abrió la puerta y salió del dormitorio
+
+    <div markdown="1" class="tagged-entries">
+
+    es: jeringuilla: jeringuilla
+
+    es: sangre: sangre
+
+    es: frasco: frasco
+
+    es: bolsillo: bolsillos
+
+    </div>
+
+- Y así, perdido en sus pensamientos y en el empeño de sumergirse de nuevo en aquella casa misteriosa a la que todos llamaban el Cementerio de los Libros Olvidados, el doctor Soldevila puso los pies en el escalón del viejo palacio y agarró el aldabón en forma de diablillo dispuesto a llamar al portón. Iba a dar el primer golpe cuando la sombra que iba siguiéndole desde que había salido de su portal se materializó a su lado y le posó el cañón de un revólver en la sien.
+
+    —Buenas noches, doctor —dijo Hendaya.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: aldabón: aldabón
+
+    es: diablillo: diablillo
+
+    es: sien: sien
+
+    es: Cementerio de los Libros Olvidados: Cementerio de los Libros Olvidados
+
+    es: materializar: se materializó
+
+    </div>
+
+- El engranaje de la cerradura, que era tan viejo como aquel lugar, se componía de un sistema alambicado de resortes, palancas, poleas y ruedas dentadas que tardaba entre diez y quince segundos en destrabar todos sus puntos de anclaje. Una vez que el portón quedó liberado, Isaac tiró de la barra que activaba el sistema de contrapesos y permitía mover la pesada estructura de roble labrado con apenas un soplo. Alzó el farol para recibir al médico y se apartó un poco para cederle el paso. La silueta del doctor Soldevila se recortó en el umbral.
+
+    —Puntual como siempre, doctor —empezó Isaac.
+
+    Un segundo después, el cuerpo del médico cayó de bruces hacia el interior y una figura alta y angulosa bloqueó el acceso.
+
+    —¿Quién…?
+
+    Hendaya le apuntó con el revólver entre los ojos y empujó el cuerpo de una patada.
+
+    —Cierre la puerta
+
+    <div markdown="1" class="tagged-entries">
+
+    es: engranaje: engranaje
+
+    es: bruces: cayó de bruces
+
+    es: palanca: palancas
+
+    es: polea: poleas
+
+    es: alambicado: alambicado
+
+    es: contrapeso: contrapesos
+
+    es: cerradura: cerradura
+
+    </div>
+
+- El policía bajó el arma unos centímetros y forzó la vista. Solo entonces percibió el suave movimiento en el aire a su lado. Se volvió y, al tensar de nuevo el percutor del arma, reconoció el brillo de una mirada oscura y penetrante que emergía de las sombras.
+
+    La punta del plumín le perforó la córnea y atravesó su cerebro hasta arañar el hueso al fondo del cráneo. Hendaya se desplomó al instante como un títere al que acabaran de cortar los hilos. El cuerpo quedó tendido sobre los libros, temblando. Alicia se arrodilló junto a él, le arrebató el arma que aún sostenía en la mano y empujó el cuerpo hasta la balaustrada con los pies. Luego, de un puntapié, le desplazó hasta el borde y le vio precipitarse al abismo, aún vivo, y estrellarse contra el suelo de piedra con un eco sordo y húmedo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: forzar: forzó
+
+    es: atravesar: atravesó
+
+    es: arañar: arañar
+
+    es: estrellar: estrellarse
+
+    es: abismo: abismo
+
+    es: cráneo: cráneo
+
+    es: títere: títere
+
+    es: hilo: hilos
+
+    es: perforar: perferó
+
+    es: córnea: córnea
+
+    es: percutor: percutor
+
+    es: punta: punta
+
+    es: plumín: plumín
+
+    </div>
+
+- Alicia abrió entonces el abrigo que había tomado prestado del viejo guardián y extrajo del bolsillo la figura tallada que él le había regalado. Examinó el pequeño ángel de alas desplegadas que Isaac había comprado para su hija en un mercadillo de figuras de Navidad tantos años atrás y en cuyo interior ella había ocultado mensajes y secretos para su padre. Destapó la cavidad y contempló la nota que había escrito en un pedazo de papel de camino al cementerio.
+
+    **Mauricio Valls**
+
+    **El Pinar**
+
+    **Calle Manuel Arnús**
+
+    **Barcelona**
+
+    Enrolló la nota y la introdujo en el interior del hueco. Cerró la tapa y colocó la figura del ángel al pie de la lápida, entre los jarrones de flores secas.
+
+    —Que decida el destino —murmuró.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: enrollar: enrolló
+
+    es: extraer: extrajo
+
+    es: tallado: tallada
+
+    es: bolsillo: bolsillo
+
+    es: introducir: introdujo
+
+    es: tapa: tapa
+
+    es: ángel: ángel
+
+    </div>
+
+- Daniel asintió sin levantar la mirada del cuaderno. Una vez que Fernandito hubo abandonado la librería, apagó las luces y se refugió en la trastienda. Se sentó al viejo escritorio que ya había sido de su abuelo, encendió el flexo y cerró los ojos unos segundos. Sintió cómo el pulso se le aceleraba y le temblaban las manos.
+Las campanadas de la catedral repiqueteaban a lo lejos cuando abrió el cuaderno y empezó a leer.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: cuaderno: cuaderno
+
+    es: librería: librería
+
+    es: trastienda: trastienda
+
+    es: repiquetear: repiqueteaban
+
+    </div>
+
+- _La suya era un alma rota, una pieza quebrada que llevaba así desde la niñez y que nunca pudo llegar a recomponer. Empecé fingiendo detestarle, luego disimulando que le admiraba y al final me esforcé para que no se percatara de que le tenía lástima, algo que a él le enfurecía. Cuanto más intentaba alejarme David, y nunca dejó de intentarlo, más cerca de él me sentía. Entonces dejé de llevarle la contraria en todo y solo quería protegerle. La ironía de nuestra amistad es que yo llegué a su vida como aprendiza y como estorbo, pero en el fondo es como si él siempre me hubiera estado esperando. Para salvarle, tal vez, de sí mismo o de todo aquello que llevaba atrapado dentro y le devoraba en vida._
+
+    <div markdown="1" class="tagged-entries">
+
+    es: alma: alma
+
+    es: estorbo: estorbo
+
+    es: recomponer: recomponer
+
+    </div>
+
+- _Por entonces yo ya había empezado a comprender que nunca iba a ser escritora, ni siquiera submarinista, y que las hermanas Brontë tendrían que esperar a otra candidata más afín para sucederlas. También había empezado a comprender que David Martín estaba enfermo. Un abismo se había abierto en su interior y, después de toda una existencia luchando por mantener la cordura, cuando yo llegué a su vida David ya había perdido la batalla consigo mismo y estaba perdiendo la razón como si fuese arena que intentara sujetar entre las manos. Si hubiera escuchado al sentido común habría echado a correr, pero para entonces ya le había pillado el gusto a llevarme la contraria a mí misma._
+
+    <div markdown="1" class="tagged-entries">
+
+    es: abismo: abismo
+
+    es: cordura: cordura
+
+    es: consigo: consigo mismo
+
+    es: sujetar: sujetar
+
+    es: arena: arena
+
+    es: llevar la contraria: llevarme la contraria 
+
+    </div>
+
+- _Sé ahora que el verdadero propósito de mi vida, el que nadie pudo prever, ni siquiera yo, fue el de concebir a mi hijo Daniel durante aquellas semanas que pasé con David. Y sé que el mundo me juzgaría y me condenaría a gusto por haber querido a aquel hombre, por haber concebido un hijo en pecado y a escondidas, y por mentir. El castigo, justo o no, no se hizo esperar. En esta vida nadie es feliz de balde, ni aunque sea por un instante._
+
+    <div markdown="1" class="tagged-entries">
+
+    es: concebir: haber concebido
+
+    es: escondidas: escondidas
+
+    es: condenar: condenaría
+
+    </div>
+
+- _Cuando comprendí eso ya era muy tarde. Valls, aburrido de su labor, de sí mismo y de la lentitud con que la gloria le llegaba, llenaba su tiempo con fantasías. Una de ellas fue que se había enamorado de mí. Yo quise creer que si le convencía de que su fantasía tenía algún futuro, quizá Valls se mostraría magnánimo. Pero también se hartó de mí. Desesperada, le amenacé con desenmascararle, con hacer público quién era en realidad y hasta dónde llegaba su mezquindad. Valls se rio de mí y de mi ingenuidad, pero quiso castigarme. Para herir a David y asestarle el golpe definitivo._
+
+    <div markdown="1" class="tagged-entries">
+
+    es: magnánimo: magnánimo
+
+    es: hartar: se hartó
+
+    es: amenazar: amenacé
+
+    es: herir: herir
+
+    es: asestar: asestarle
+
+    </div>
+
+- _Sé que Mauricio Valls me envenenó aquella noche en el Café de la Ópera. Sé que lo hizo para herir a David. Sé que me quedan apenas unos días de vida. Todo ha sucedido muy rápido. Mi único consuelo es el láudano, que adormece el dolor en las entrañas, y este cuaderno ante el cual he querido confesar mis pecados y faltas. Brians, que me visita todos los días, sabe que escribo para seguir viva, para contener este fuego que me está devorando. Le he pedido que a mi muerte destruya estas páginas y que no las lea. Nadie debe leer lo que he explicado aquí. Nadie debe saber la verdad, porque he aprendido que en este mundo la verdad solo hace daño y que Dios ama y ayuda a quien miente._
+
+    _No me queda ya a quién rezar. Todo en cuanto creía me ha abandonado. A veces no me acuerdo de quién soy y solo releer este cuaderno me permite comprender lo que está sucediendo. Escribiré hasta el final. Para recordar. Para intentar sobrevivir. Me gustaría poder abrazar a mi hijo Daniel y hacerle comprender que pase lo que pase nunca le abandonaré. Que estaré con él. Que le quiero. Dios mío, perdóname. No sabía lo que hacía. No quiero morir. Dios mío, déjame vivir un día más para que pueda sostener en mis brazos a Daniel y pueda decirle lo mucho que le quiero…_
+
+    <div markdown="1" class="tagged-entries">
+
+    es: envenenar: envenenó
+
+    es: herir: herir
+
+    </div>
+
+- —Cuelgue ahora mismo. Por favor.
+
+    —No puedo hacer eso. El encargo nunca fue salvar a Valls. El encargo era encontrarle y silenciarle para evitar que todo este triste asunto saliera a la luz. Y a punto estuvimos, una vez más, de coronar la misión con éxito. Pero no me escuchaste. Por eso ahora voy a tener, a mi pesar, que ordenar la muerte de todos aquellos a los que has implicado en tu aventura. La de Daniel Sempere, su esposa y toda su familia, incluidos ese tarado que trabaja para ellos y todos aquellos a los que, en tu cruzada de redención, has tenido la infausta idea de contarles lo que nunca debieron saber. Tú lo has querido así. Afortunadamente nos has conducido a todos ellos. Como siempre, aun cuando no quieres, eres la mejor. ¿Operadora? Sí. Señor ministro. Igualmente. Así es. Tengo noticias…
+
+    Bastó un solo disparo. El auricular le resbaló de la mano y cayó al suelo junto a la bañera. Leandro ladeó la cabeza y le obsequió con una mirada envenenada de afecto y anhelo. Una nube escarlata se esparcía bajo el agua, velando el reflejo de su cuerpo. Alicia permaneció inmóvil, contemplando cómo se desangraba a cada palpitar hasta que las pupilas de sus ojos se dilataron y su sonrisa quedó congelada en una mueca burlona.
+
+    —Te esperaré —susurró Leandro—. No tardes.
+
+    Un instante después, el cuerpo se deslizó poco a poco y el rostro de Leandro Montalvo se hundió bajo las aguas ensangrentadas con los ojos abiertos.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: disparo: disparo
+
+    es: ensangrentado: ensangrentadas
+
+    es: desangrar: se desangraba
+
+    es: ladear: ladeó
+
+    es: bañera: bañera
+
+    es: bastar: bastó
+
+    </div>
+
+- El lecho era blanco y estaba coronado por una cabecera de madera labrada en forma de ángel de alas desplegadas que contemplaba la estancia con devoción infinita. Ariadna y Mercedes estaban vestidas de blanco, tendidas sobre la cama cogidas de una mano y sosteniendo una rosa roja sobre el pecho con la otra. Un estuche con una jeringuilla y frascos de cristal reposaba sobre la mesita de noche, junto a Ariadna.
+
+    Alicia sintió que le temblaban las piernas y se agarró a una silla. Nunca supo cuánto tiempo había permanecido allí, si fue apenas un minuto o una hora, y solo pudo recordar que cuando descendió por la escalera y llegó a la planta baja sus pasos la condujeron al salón de baile. Allí se dirigió a la chimenea. Encontró una caja con fósforos largos sobre la repisa. Encendió uno y empezó a recorrer el perímetro de la mansión prendiendo fuego a cortinajes y lienzos. Al poco sintió las llamas rugir a su espalda y abandonó aquella casa de la muerte. Cruzó de nuevo el jardín sin volver la vista atrás mientras Villa Mercedes ardía y una pira negra se alzaba hacia el cielo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: jeringuilla: jeringuilla
+
+    es: fósforo: fósforos
+
+    es: estuche: estuche
+
+    es: llama: llamas
+
+    es: arder: ardía
+
+    es: estuche: estuche
+
+    es: frasco: frascos
+
+    </div>
+
+- Valls había empezado a gemir, aterrado. Daniel lo lanzó a la calle de un empujón. El hombre cayó al suelo y él lo sujetó de nuevo del brazo y le obligó a incorporarse. Valls dio unos pasos y se detuvo. Daniel le propinó una patada y le forzó a continuar. Le empujó hasta que alcanzaron la plaza donde esperaba el primer tranvía azul. Empezaba a clarear y el cielo se abría en una telaraña rojiza que se esparcía sobre Barcelona e incendiaba el mar a lo lejos. Valls se postró de rodillas ante Daniel, implorando.
+
+    —Eres libre —dijo Daniel—. Largo de aquí.
+
+    Don Mauricio Valls, luz de su tiempo, se alejó cojeando avenida abajo. Daniel permaneció allí hasta que su silueta se fundió en el gris del alba. Buscó refugio en el tranvía, que esperaba vacío. Subió y tomó asiento en uno de los bancos al fondo. Apoyó el rostro contra el cristal y cerró los ojos. Al rato se rindió al sueño y cuando el revisor le despertó un sol limpio ya barría las nubes y Barcelona olía a limpio.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: cojear: cojeando
+
+    es: silueta: silueta
+
+    es: barrer: barría
+
+    es: caer: cayó
+
+    </div>
+
+- Los servicios funerarios recogieron el cuerpo, que fue trasladado al depósito en el que acababan todos los indigentes, los cuerpos sin identificar y las almas abandonadas que la ciudad dejaba atrás todas las noches. Al crepúsculo, dos mozos lo metieron en una bolsa de lona que hedía a los cientos de cuerpos que habían hecho su último viaje en su interior y lo auparon a la parte de atrás del camión. Ascendieron la vieja carretera que bordeaba el castillo de Montjuic, perfilado contra un mar de fuego y las mil siluetas de ángeles y espíritus en la ciudad de los muertos que parecían haberse congregado allí para escupirle su último insulto de camino a la fosa común donde el mendigo, el hombre invisible, en otra vida, había enviado a tantos cuyos nombres apenas recordaba.
+
+    Al llegar al borde de la fosa, un pozo infinito de cuerpos cubiertos de cal, los dos mozos abrieron la bolsa y dejaron que don Mauricio Valls se deslizara por la ladera de cadáveres hasta llegar al fondo. Dicen que cayó boca arriba con los ojos abiertos y que lo último que vieron los mozos antes de alejarse de aquel lugar fue cómo un pájaro negro se posaba sobre el cuerpo y se los arrancaba a picotazos mientras las campanas de toda Barcelona resonaban en la distancia.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: picotazo: picotazos
+
+    es: cadáver: cadáveres
+
+    es: fosa: fosa
+
+    es: cal: cal
+
+    es: apenas: apenas
+
+    es: cuyo: cuyos
+
+    es: boca arriba: boca arriba
+
+    </div>
+
+- Se abrió ante nosotros una brecha de sombras entre las que, al poco, emergió un gran palacio de piedra ennegrecida. Mi padre llamó al portón con un aldabón en forma de diablillo. Para mi sorpresa, quien acudió a abrirnos no fue otro que Fermín Romero de Torres, que al verme sonrió con malicia.
+
+    —Ya era hora —dijo—. Tanto misterio y disimulo me estaban produciendo una úlcera.
+
+    —¿Es aquí donde trabaja usted ahora, Fermín? —pregunté intrigado—. ¿Es esto una librería?
+
+    —Algo así, aunque algo floja en la sección de tebeos… Ande, pasen.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: librería: librería
+
+    es: disimulo: disimulo
+
+    </div>
+
+- —Julián, bienvenido al Cementerio de los Libros Olvidados.
+
+    Tardé un buen rato en recuperar el pulso y reintegrarme a la ley de la gravedad. Una vez que me serené, mi padre me susurró entre tinieblas:
+
+    —Este lugar es un misterio, Julián, un santuario. Cada libro, cada tomo que ves, tiene alma. El alma de quien lo escribió, y el alma de quienes lo leyeron y vivieron y soñaron con él. Cada vez que un libro cambia de manos, cada vez que alguien desliza la mirada por sus páginas, su espíritu crece y se hace fuerte. Hace ya muchos años, cuando el abuelo me trajo por primera vez aquí, este lugar ya era viejo. Quizá tan viejo como la misma ciudad. Nadie sabe a ciencia cierta desde cuándo existe, o quiénes lo crearon. Te diré lo que el abuelo me dijo a mí. Cuando una biblioteca desaparece, cuando una librería cierra sus puertas, cuando un libro se pierde en el olvido, los que conocemos este lugar, los guardianes, nos aseguramos de que llegue aquí. En este lugar, los libros que ya nadie recuerda, los libros que se han perdido en el tiempo, viven para siempre, esperando llegar algún día a las manos de un nuevo lector, de un nuevo espíritu. En la tienda nosotros los vendemos y los compramos, pero en realidad los libros no tienen dueño. Cada libro que ves aquí ha sido el mejor amigo de alguien. Ahora solo nos tienen a nosotros, Julián. ¿Crees que podrás guardar este secreto?
+
+    <div markdown="1" class="tagged-entries">
+
+    es: libro: libros
+
+    </div>
+
+- En mi largo periplo a través de los túneles del laberinto escogí un libro titulado _La Túnica Carmesí_, una novela perteneciente a un ciclo llamado _La Ciudad de los Malditos_ cuyo autor era un tal David Martín, de quien hasta entonces nunca había oído hablar. O tal vez debería decir que el libro me escogió a mí, porque cuando al final posé los ojos sobre la cubierta tuve la extraña sensación de que el ejemplar llevaba allí esperándome un tiempo, como si supiese que aquel amanecer yo iba a tropezarme con él.
+
+    Cuando por fin salí de la estructura y mi padre observó la obra que portaba en las manos palideció. Por un instante pareció que fuera a caerse redondo.
+
+    —¿Dónde has encontrado ese libro? —balbuceó.
+
+    —En una mesa en una de las salas… Estaba puesto de pie, como si alguien lo hubiera dejado para que lo hallase.
+
+    Fermín y él intercambiaron una mirada impenetrable.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: balbucear: balbuceó
+
+    es: hallar: hallase
+
+    es: cuyo: cuyo
+
+    es: libro: libro
+
+    </div>
+
+- Según mi infalible plan, el primer tomo se centraría en la historia de un lector, en este caso mi padre, y de cómo en sus años mozos descubría el mundo de los libros, y por extensión la vida, a través de una novela enigmática escrita por un autor desconocido que escondía un misterio sin cuento de aquellos que secaban la baba. Todo ello daría pie para, de un plumazo, construir una novela que combinase todos los géneros habidos y por haber.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: plumazo: plumazo
+
+    </div>
+
+- El segundo tomo, empapado en un regusto mórbido y siniestro que aspiraba a buscarles las cosquillas a los lectores de buenas costumbres, relataría la macabra peripecia vital de un novelista maldito, cortesía de David Martín, que plasmaría en primera persona cómo perdía la razón y nos arrastraba en su descenso a los infiernos de su propia locura para devenir un narrador menos fiable que el príncipe de los infiernos, que también se pasearía por sus páginas. O tal vez no, porque todo era un juego en el que sería el lector el que completaría el rompecabezas y decidiría qué libro estaba leyendo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: maldito: maldito
+
+    es: devenir: devenin
+
+    es: plasmar: plasmaría
+
+    </div>
+
+- El tercer tomo, suponiendo que el lector hubiera sobrevivido a los dos primeros y no hubiera optado por subirse a otro tranvía rumbo a los finales felices, nos rescataría de forma momentánea del averno y nos ofrecería la historia de un personaje, el personaje por excelencia y la voz de la conciencia oficial de la historia, es decir, mi tío adoptivo Fermín Romero de Torres. Su relato nos mostraría con espíritu picaresco cómo llegaba a convertirse en quien era, y sus muchas desventuras en los años más turbios del siglo desvelarían las líneas que conectaban todas las partes del laberinto.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: sobrevivir: hubiera sobrevivido
+
+    </div>
+
+- La cuarta entrega, virulentamente morrocotuda y especiada con los perfumes de todas las anteriores, nos conduciría por fin al centro del misterio y nos desvelaría todos los enigmas de la mano de mi ángel de las tinieblas favorito, Alicia Gris. La saga contendría villanos y héroes, y mil túneles a través de los cuales el lector podría explorar una trama caleidoscópica que semejase aquel espejismo de perspectivas que había descubierto con mi padre en el corazón del Cementerio de los Libros Olvidados.
+
+    —¿Y tú no sales? —preguntó Valentina.
+
+    —Solo al final y muy poquito.
+
+    —Qué modesto.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: espejismo: espejismo
+
+    </div>
+
+- —Gracias por el helado. La próxima invito yo.
+
+    Hubo una próxima y muchas más. Carax siempre pedía un helado de fresa de dos bolas, ya fuera verano o invierno, pero nunca se comía el barquillo. Yo le llevaba las páginas que había escrito y él las repasaba, marcaba, tachaba y recomponía.
+
+    —No estoy seguro de que este principio sea el principio correcto —decía yo.
+
+    —Una historia no tiene principio ni fin, solo puertas de entrada.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: principio: principio
+
+    es: fin: fin
+
+    es: puerta: puertas
+
+    es: entrada: entrada
+
+    es: repasar: repasaba
+
+    es: tachar: tachaba
+
+    </div>
+
+- Enterramos a mi maestro, a Julián Carax, un sábado a finales de septiembre. Me acompañaba mi hija Alicia, que al ver las dos tumbas una al lado de la otra me apretó la mano y me dijo que no me preocupase, que ahora mi amigo ya nunca más estaría solo.
+
+    Me resulta difícil hablar de Carax. A veces me pregunto si no habrá algo en mí de mi otro abuelo, el infortunado David Martín, y no le habré inventado como él inventó a su monsieur Corelli para poder narrar lo que nunca sucedió. Un par de semanas después del entierro, escribí a madame Currygan y al signor Coliccio en París para informarlos de su fallecimiento. En mi carta les pedía que, a su criterio, hicieran partícipe de la noticia a su amigo Jean-Raymond y a quienes considerasen oportuno. Madame Currygan me contestó, agradeciéndome mi carta y diciéndome que, poco antes de morir, Carax le había escrito para hablarle del manuscrito en el que habíamos trabajado juntos todos aquellos años. Me pidió que, tan pronto como lo tuviese terminado, se lo hiciera llegar. Carax me enseñó que un libro no se acaba nunca y que, con suerte, es él quien nos abandona para que no pasemos el resto de la eternidad reescribiéndolo.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: apretar: apretó
+
+    </div>
+
+- Un hombre joven, tocado ya de algunas canas, camina por las calles de una Barcelona de sombras bajo la luna que se derrama sobre la Rambla de Santa Mónica en una cinta de plata que guía sus pasos. Lleva de la mano a una niña de unos diez años, la mirada embriagada de misterio ante la promesa que su padre le ha hecho al atardecer, la promesa del Cementerio de los Libros Olvidados.
+
+    —Alicia, lo que vas a ver esta noche no se lo puedes contar a nadie. A nadie.
+
+    —Entonces será nuestro secreto —dice ella a media voz.
+
+    Su padre suspira, amparado en esa sonrisa triste que le persigue por la vida.
+
+    —Claro que sí. Será nuestro secreto para siempre.
+
+    Es entonces cuando el cielo prende en un sauce de luz y los fuegos artificiales de la ceremonia de clausura congelan por un instante la noche de una Barcelona que nunca volverá.
+
+    Al poco, figuras de vapor, padre e hija se confunden entre el gentío que inunda las Ramblas, sus pasos por siempre perdidos en el laberinto de los espíritus.
+
+    <div markdown="1" class="tagged-entries">
+
+    es: laberinto: laberinto
+
+    </div>
